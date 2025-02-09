@@ -1,22 +1,20 @@
 {
-    "items": [
-      {
-        "title": "Aditya Hridaya Strutam",
-        "odiaTitle": "ଆଦିତ୍ୟ ହୃଦୟମ୍",
-        "hindiTitle": "आदित्य हृदय स्तोत्र",
-        "imageUrl": "https://drive.usercontent.google.com/download?id=1U9UohkvTsQtsMcQGAcnWghGZq_a7MUCt&authuser=0",
-        "contentType": "BOOK",
-        "dataJsonUrl": "https://drive.google.com/uc?id=19ctgrrfTUr0ndLaVsrNzg8hgGgqPmAQY"
-      },
-      {
-        "title":"Laxmi Astakam",
-        "odiaTitle": "",
-        "hindiTitle": "",
-        "imageUrl": "https://drive.usercontent.google.com/download?id=1ufogXYRKMVUSyPkAF9wMHbnTGKcgdogH&authuser=0",
-        "contentType": "BOOK",
-        "dataJsonUrl": "https://drive.google.com/uc?id=1j1Z-lU5de1NJ_ulii4_yG07Z56qqYhFD"
-      }
-    ]
-  }
-  
-
+  "items": [
+    {
+      "title": "Aditya Hridaya Strutam",
+      "odiaTitle": "ଆଦିତ୍ୟ ହୃଦୟମ୍",
+      "hindiTitle": "आदित्य हृदय स्तोत्र",
+      "imageUrl": "aHR0cHM6Ly9kcml2ZS51c2VyY29udGVudC5nb29nbGUuY29tL2Rvd25sb2FkP2lkPTFVOXVvaGt2VHNRdHNNY1FHQWNuV2doR1pxX2E3TVVDdCZhdXRodXNlcj0w",
+      "contentType": "BOOK",
+      "dataJsonUrl": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2lkPTE5Y3RncnJmVFVyMG5kTGFWc3JOemc4aGdHZ3FQbUFRWQ=="
+    },
+    {
+      "title": "Laxmi Astakam",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "aHR0cHM6Ly9kcml2ZS51c2VyY29udGVudC5nb29nbGUuY29tL2Rvd25sb2FkP2lkPTF1Zm9nWFlSS01WVVN5UGtBRjl3TUhiblRHS2NnZG9nSCZhdXRodXNlcj0w",
+      "contentType": "BOOK",
+      "dataJsonUrl": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2lkPTFqMVotbFU1ZGUxTkpfdWxpaTRfeUc3WjU2cXFZaEZEXw=="
+    }
+  ]
+}
