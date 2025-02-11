@@ -12,7 +12,7 @@
         "title":"Laxmi Astakam",
         "odiaTitle": "",
         "hindiTitle": "",
-        "imageUrl": "https://drive.usercontent.google.com/download?id=1ufogXYRKMVUSyPkAF9wMHbnTGKcgdogH&authuser=0",
+        "imageUrl": "https://drive.usercontent.google.com/download?id=1uBC33Jah7Vlj4sGmFkMpI3PkvrH_fLk_&authuser=0",
         "contentType": "BOOK",
         "dataJsonUrl": "https://drive.google.com/uc?id=1j1Z-lU5de1NJ_ulii4_yG07Z56qqYhFD"
       },
@@ -28,11 +28,65 @@
       {
         "title":"",
         "odiaTitle": "",
-        "hindiTitle": "",
+        "hindiTitle": "श्रीमद्भगवद्गीता",
         "imageUrl": "https://drive.usercontent.google.com/download?id=1P1Nlp2Z5xvS8smlIMQqO7rttay3_-JlV&authuser=0",
         "contentType": "PDF",
         "category": "VEDAS",
         "dataJsonUrl": "https://drive.google.com/uc?id=1FdvFUuSNnTSxixI_zjnh2AW4nje2ZY0j"
+      },
+      {
+        "title":"",
+        "odiaTitle": "",
+        "hindiTitle": "ऋग्वेद",
+        "imageUrl": "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR&authuser=0",
+        "contentType": "PDF",
+        "category": "VEDAS",
+        "dataJsonUrl": "https://drive.google.com/uc?id=1v_Jva5Wggj2uDrB-10wv6Vri99tsKtds"
+      },
+      {
+        "title":"",
+        "odiaTitle": "",
+        "hindiTitle": "यजुर्वेद",
+        "imageUrl": "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR&authuser=0",
+        "contentType": "PDF",
+        "category": "VEDAS",
+        "dataJsonUrl": "https://drive.google.com/uc?id=1De-T77yqUltVXKjguZjeW0SUpsn_VEIs"
+      },
+      {
+        "title":"",
+        "odiaTitle": "",
+        "hindiTitle": "सामवेद",
+        "imageUrl": "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR&authuser=0",
+        "contentType": "PDF",
+        "category": "VEDAS",
+        "dataJsonUrl": "https://drive.google.com/uc?id=1bMBP_bwOCP2XBak9LL6xLqnrwEubKw5n"
+      },
+      {
+        "title":"",
+        "odiaTitle": "",
+        "hindiTitle": "अथर्ववेद",
+        "imageUrl": "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR&authuser=0",
+        "contentType": "PDF",
+        "category": "VEDAS",
+        "dataJsonUrl": "https://drive.google.com/uc?id=1LVWGSX4EcxH2mx2nPJslEUEslO3CJSSr"
+      },
+      {
+        "title":"",
+        "odiaTitle": "",
+        "hindiTitle": "संपूर्ण रामायण",
+        "imageUrl": "https://drive.usercontent.google.com/download?id=1N4xbBLYMRM3MXrRNVORaF3aLW6rF_tDU&authuser=0",
+        "contentType": "PDF",
+        "category": "VEDAS",
+        "dataJsonUrl": "https://drive.google.com/uc?id=1ngorQERZ7iBxzFEOHZRo9DypehbzjPCM"
+      },
+      {
+        "title":"",
+        "odiaTitle": "ସାବିତ୍ରୀ ବ୍ରତ କଥା",
+        "hindiTitle": "",
+        "imageUrl": "https://drive.usercontent.google.com/download?id=1NiZbgfRgWP8YLYcuDSHbB4iMh2HNT3lm&authuser=0",
+        "contentType": "PDF",
+        "category": "VEDAS",
+        "dataJsonUrl": "https://drive.google.com/uc?id=1DtJMXlSsJPa4lfrc7OsZzdah99JR0kL6"
       }
     ]
   }
