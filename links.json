@@ -97,6 +97,16 @@
         "contentType": "PDF",
         "category": "VEDAS",
         "dataJsonUrl": "https://drive.google.com/uc?id=1FwEU7JngxAXxZuMQgA1f8IE_U8_YcDH2"
+      },
+      {
+        "id":"RB_11",
+        "title":"",
+        "odiaTitle": "ଖୁଦୁରୁକୁଣୀ ଓଷା",
+        "hindiTitle": "",
+        "imageUrl": "https://drive.usercontent.google.com/download?id=1uygoyi3mDVaIumwqjMu5p5Qnlf2LJd0I&authuser=0",
+        "contentType": "BOOK",
+        "category": "OSA",
+        "dataJsonUrl": "https://drive.google.com/uc?id=1IGkr0sX2q-mWu-gN5_tNPYG0J0IvjZxQ"
       }
     ]
   }
