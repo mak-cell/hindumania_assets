@@ -107,7 +107,28 @@
         "contentType": "BOOK",
         "category": "OSA",
         "dataJsonUrl": "https://drive.google.com/uc?id=1IGkr0sX2q-mWu-gN5_tNPYG0J0IvjZxQ"
+      },
+      {
+        "id":"RB_12",
+        "title":"",
+        "odiaTitle": "ଶ୍ରୀ ଵିଷ୍ଣୁ ସହସ୍ର ନାମ ସ୍ତୋତ୍ରମ୍",
+        "hindiTitle": "",
+        "imageUrl": "https://drive.usercontent.google.com/download?id=1aUTAXWLNIGMcM_0XgNtul7Aw1fBYiK3f&authuser=0",
+        "contentType": "PDF",
+        "category": "BOOK",
+        "dataJsonUrl": "https://drive.google.com/uc?id=1fO-_HBDUJKY_K3OjV8BvzzmTRoKTFqcv"
+      },
+      {
+        "id":"RB_13",
+        "title":"",
+        "odiaTitle": "ଶନିଦେବ ମେଳା",
+        "hindiTitle": "",
+        "imageUrl": "https://drive.usercontent.google.com/download?id=1Bomqq1Gus15k0vByinNdz8NieafqHr8j&authuser=0",
+        "contentType": "PDF",
+        "category": "VEDAS",
+        "dataJsonUrl": "https://drive.google.com/uc?id=1fk7JJCPXZ9jLBv9Tefcp16Id2WDA3IIX"
       }
     ]
   }
+
 
