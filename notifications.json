@@ -1,0 +1,57 @@
+{
+    "notifications": [
+      {
+        "id": "notification_001",
+        "notificationType": "welcome",
+        "title": {
+          "en": "Welcome to the App!",
+          "hi": "ऐप में आपका स्वागत है!",
+          "or": "ଆପ୍ରେ ସ୍ବାଗତ!"
+        },
+        "message": {
+          "en": "We're thrilled to have you onboard. Start exploring now!",
+          "hi": "हम आपके साथ होने पर रोमांचित हैं। अब अन्वेषण शुरू करें!",
+          "or": "ଆମେ ଆପଣଙ୍କ ସହିତ ଥିବାରେ ଉତ୍ସାହିତ। ଏବେ ଅନ୍ବେଷଣ ଆରମ୍ଭ କରନ୍ତୁ!"
+        },
+        "startAfterInstallDays": 0,
+        "frequency": "once",
+        "type": "text_with_image",
+        "imageUrl": "https://example.com/images/welcome.jpg"
+      },
+      {
+        "id": "notification_002",
+        "notificationType": "dateSpecific",
+        "title": {
+          "en": "Festival Greetings!",
+          "hi": "त्योहार की शुभकामनाएं!",
+          "or": "ପର୍ବର ଶୁଭେଚ୍ଛା!"
+        },
+        "message": {
+          "en": "Celebrate the festival with joy!",
+          "hi": "खुशी के साथ त्योहार मनाएं!",
+          "or": "ଆନନ୍ଦରେ ପର୍ବ ଉତ୍ସବ ପାଳନ କରନ୍ତୁ!"
+        },
+        "triggerDate": "2025-12-25T09:00:00+05:30",
+        "type": "text_only"
+      },
+      {
+        "id": "notification_003",
+        "notificationType": "installationRelative",
+        "title": {
+          "en": "Weekly Tips",
+          "hi": "साप्ताहिक सुझाव",
+          "or": "ସାପ୍ତାହିକ ସୁପରିଶ"
+        },
+        "message": {
+          "en": "Here's your weekly tip to make the most of our app!",
+          "hi": "हमारे ऐप का अधिकतम लाभ उठाने के लिए यहां आपका साप्ताहिक सुझाव है!",
+          "or": "ଆମ ଆପ୍ର ଉତ୍ତମ ପ୍ରୟୋଗ ପାଇଁ ଆପଣଙ୍କ ସାପ୍ତାହିକ ସୁପରିଶ ଏହା ଅଛି!"
+        },
+        "startAfterInstallDays": 7,
+        "frequency": "weekly",
+        "durationWeeks": 52,
+        "type": "text_only"
+      }
+    ]
+  }
+  
