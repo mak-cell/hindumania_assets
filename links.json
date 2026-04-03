@@ -137,6 +137,36 @@
         "contentType": "PDF",
         "category": "VEDAS",
         "dataJsonUrl": "https://drive.google.com/uc?id=115G5V4hgtWG3hpIGL8lm6N5Hd7Fn01mF"
+      },
+      {
+        "id":"RM_1",
+        "title":"Hanuman Chalisa YouTube",
+        "odiaTitle":"",
+        "hindiTitle":"Hanuman Chalisa YouTube",
+        "imageUrl":"https://img.youtube.com/vi/AETFvQonfV8/hqdefault.jpg",
+        "contentType":"YOUTUBE",
+        "category":"MEDIA",
+        "externalUrl":"https://www.youtube.com/watch?v=AETFvQonfV8&list=RDAETFvQonfV8&start_radio=1"
+      },
+      {
+        "id":"RM_2",
+        "title":"Hanuman Chalisa Audio",
+        "odiaTitle":"",
+        "hindiTitle":"Hanuman Chalisa Audio",
+        "imageUrl":"https://img.youtube.com/vi/AETFvQonfV8/hqdefault.jpg",
+        "contentType":"AUDIO",
+        "category":"MEDIA",
+        "audioPath":"https://raw.githubusercontent.com/mak-cell/hindumania_assets/master/mp3/hanuman_chalisa.mp3"
+      },
+      {
+        "id":"RM_3",
+        "title":"Hanuman Chalisa Video",
+        "odiaTitle":"",
+        "hindiTitle":"Hanuman Chalisa Video",
+        "imageUrl":"https://img.youtube.com/vi/AETFvQonfV8/hqdefault.jpg",
+        "contentType":"VIDEO",
+        "category":"MEDIA",
+        "videoPath":"https://raw.githubusercontent.com/mak-cell/hindumania_assets/master/mp4/ShreeHanumanChalisa.mp4"
       }
     ]
   }
