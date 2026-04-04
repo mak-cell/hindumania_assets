@@ -1,0 +1,11 @@
+{
+  "2026": {
+    "04-03": [
+      { "name": "Good Friday", "type": "public holiday" },
+      { "name": "Hanuman Dhyan Reminder", "type": "devotional highlight" }
+    ],
+    "04-14": [
+      { "name": "Baisakhi", "type": "festival" }
+    ]
+  }
+}
