@@ -1,11 +1,814 @@
 {
   "2026": {
+    "01-01": [
+      {
+        "name": "Cervical Health Awareness Month",
+        "type": "जागरूकता महीना"
+      }
+    ],
+    "01-25": [
+      {
+        "name": "World Leprosy Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "01-30": [
+      {
+        "name": "World Neglected Tropical Diseases Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "02-04": [
+      {
+        "name": "World Cancer Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "02-09": [
+      {
+        "name": "Toothache Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "International Epilepsy Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "02-28": [
+      {
+        "name": "Rare Disease Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "03-03": [
+      {
+        "name": "World Hearing Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "03-04": [
+      {
+        "name": "World Obesity Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "03-05": [
+      {
+        "name": "National Dissociative Identity Disorder Awareness Day (Multiple Personality Day)",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "03-08": [
+      {
+        "name": "International Women's Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "03-13": [
+      {
+        "name": "World Kidney Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "03-16": [
+      {
+        "name": "National Immunization Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "03-20": [
+      {
+        "name": "World Oral Health Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "03-21": [
+      {
+        "name": "World Down Syndrome Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "03-22": [
+      {
+        "name": "World Water Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "03-24": [
+      {
+        "name": "World Tuberculosis Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "03-30": [
+      {
+        "name": "World Bipolar Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "04-01": [
+      {
+        "name": "Irritable Bowel Syndrome (IBS) Awareness Month",
+        "type": "जागरूकता महीना"
+      },
+      {
+        "name": "Stress Awareness Month",
+        "type": "जागरूकता महीना"
+      },
+      {
+        "name": "International Cesarean Awareness Month",
+        "type": "जागरूकता महीना"
+      }
+    ],
+    "04-02": [
+      {
+        "name": "World Autism Awareness Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
     "04-03": [
-      { "name": "गुड फ्राइडे", "type": "सार्वजनिक अवकाश" },
-      { "name": "हनुमान ध्यान स्मरण", "type": "भक्ति विशेष" }
+      {
+        "name": "गुड फ्राइडे",
+        "type": "सार्वजनिक अवकाश"
+      },
+      {
+        "name": "हनुमान ध्यान स्मरण",
+        "type": "भक्ति विशेष"
+      }
+    ],
+    "04-07": [
+      {
+        "name": "World Health Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "04-11": [
+      {
+        "name": "World Parkinson's Disease Day",
+        "type": "जागरूकता दिवस"
+      }
     ],
     "04-14": [
-      { "name": "बैसाखी", "type": "त्योहार" }
+      {
+        "name": "World Chagas Disease Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "बैसाखी",
+        "type": "त्योहार"
+      }
+    ],
+    "04-17": [
+      {
+        "name": "World Hemophilia Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "04-19": [
+      {
+        "name": "World Liver Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Irritable Bowel Syndrome Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "04-22": [
+      {
+        "name": "Earth Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Primary Immunodeficiency Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "04-24": [
+      {
+        "name": "World Immunization Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "04-25": [
+      {
+        "name": "World Malaria Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "04-28": [
+      {
+        "name": "World Day for Safety and Health at Work",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-03": [
+      {
+        "name": "World Ankylosing Spondylitis Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-05": [
+      {
+        "name": "World Hand Hygiene Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-06": [
+      {
+        "name": "World Asthma Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-08": [
+      {
+        "name": "World Thalassaemia Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Ovarian Cancer Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-10": [
+      {
+        "name": "World Lupus Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-12": [
+      {
+        "name": "Chronic Fatigue Syndrome Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "International Nurses Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-15": [
+      {
+        "name": "International Kangaroo Care Awareness",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-17": [
+      {
+        "name": "World Hypertension Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-18": [
+      {
+        "name": "World AIDS Vaccine Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-19": [
+      {
+        "name": "World Inflammatory Bowel Disease Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-22": [
+      {
+        "name": "World Preeclampsia Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-25": [
+      {
+        "name": "World Thyroid Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-29": [
+      {
+        "name": "World Digestive Health Day (WDHD)",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-30": [
+      {
+        "name": "World Multiple Sclerosis Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "05-31": [
+      {
+        "name": "World No Tobacco Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "06-01": [
+      {
+        "name": "Alzheimer’s & Brain Awareness Month",
+        "type": "जागरूकता महीना"
+      },
+      {
+        "name": "Migraine and Headache Awareness Month",
+        "type": "जागरूकता महीना"
+      },
+      {
+        "name": "Cancer Immunotherapy Month",
+        "type": "जागरूकता महीना"
+      }
+    ],
+    "06-05": [
+      {
+        "name": "World Environment Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "06-08": [
+      {
+        "name": "World Brain Tumor Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "06-09": [
+      {
+        "name": "International Men’s Health Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "06-14": [
+      {
+        "name": "World Blood Donor Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "06-15": [
+      {
+        "name": "World Elder Abuse Awareness Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "06-16": [
+      {
+        "name": "World Continence Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "06-18": [
+      {
+        "name": "Autistic Pride Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "06-19": [
+      {
+        "name": "World Kidney Cancer Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Sickle Cell Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "06-21": [
+      {
+        "name": "International Day of Yoga",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "06-25": [
+      {
+        "name": "World Vitiligo Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "06-26": [
+      {
+        "name": "International Day against Drug Abuse and Illicit Trafficking",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "06-29": [
+      {
+        "name": "World Allergy Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "07-01": [
+      {
+        "name": "National Doctors Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "Sarcoma or Bone Cancer Awareness Month",
+        "type": "जागरूकता महीना"
+      }
+    ],
+    "07-11": [
+      {
+        "name": "World Population Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "07-22": [
+      {
+        "name": "World Brain Day / International brain day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "07-23": [
+      {
+        "name": "World Sjogren’s Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "07-24": [
+      {
+        "name": "International Self-care Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "07-25": [
+      {
+        "name": "World IVF Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "07-28": [
+      {
+        "name": "World Hepatitis Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "07-29": [
+      {
+        "name": "World ORS day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "08-01": [
+      {
+        "name": "World Lung Cancer Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Breastfeeding Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "08-03": [
+      {
+        "name": "Indian Organ Donation Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "08-13": [
+      {
+        "name": "World Organ Donation Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "08-31": [
+      {
+        "name": "International Overdose Awareness Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "09-01": [
+      {
+        "name": "Polycystic Ovary Syndrome (PCOS) Awareness Month",
+        "type": "जागरूकता महीना"
+      },
+      {
+        "name": "National Nutrition Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "09-08": [
+      {
+        "name": "World Physiotherapy Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "09-10": [
+      {
+        "name": "World Suicide Prevention Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "09-13": [
+      {
+        "name": "World First Aid Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Sepsis Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "09-15": [
+      {
+        "name": "World Lymphoma Awareness Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Mitochondrial Disease Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "09-17": [
+      {
+        "name": "World Patient Safety Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "09-20": [
+      {
+        "name": "Usher Syndrome Awareness Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "09-21": [
+      {
+        "name": "World Alzheimer's Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "09-25": [
+      {
+        "name": "World Lung Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Pharmacists Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "09-26": [
+      {
+        "name": "World Contraception Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "09-28": [
+      {
+        "name": "World Rabies Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "09-29": [
+      {
+        "name": "World Heart Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-01": [
+      {
+        "name": "International Day for Older Persons / World Elders Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "Breast Cancer Awareness Month",
+        "type": "जागरूकता महीना"
+      },
+      {
+        "name": "Rett Syndrome Awareness Month",
+        "type": "जागरूकता महीना"
+      }
+    ],
+    "10-05": [
+      {
+        "name": "World Meningitis Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-06": [
+      {
+        "name": "World Cerebral Palsy Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-09": [
+      {
+        "name": "World Sight Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-10": [
+      {
+        "name": "World Mental Health Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-12": [
+      {
+        "name": "World Arthritis Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-13": [
+      {
+        "name": "World Thrombosis Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-15": [
+      {
+        "name": "World Pregnancy & Infant Loss Remembrance Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "Global Handwashing Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-16": [
+      {
+        "name": "World Spine Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Anaesthesia Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Food Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-17": [
+      {
+        "name": "World Trauma Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-19": [
+      {
+        "name": "World Paediatric Bone and Joint Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "International Infection Prevention Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "10-20": [
+      {
+        "name": "World Osteoporosis Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-21": [
+      {
+        "name": "World Iodine Deficiency Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-22": [
+      {
+        "name": "International Stuttering Awareness Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-24": [
+      {
+        "name": "World Polio Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "10-25": [
+      {
+        "name": "International Brain Tumour Awareness Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "10-29": [
+      {
+        "name": "World Stroke Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Psoriasis Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "11-01": [
+      {
+        "name": "Pancreatic Cancer Awareness Month",
+        "type": "जागरूकता महीना"
+      },
+      {
+        "name": "Lung Cancer Awareness Month",
+        "type": "जागरूकता महीना"
+      },
+      {
+        "name": "Stomach Cancer Awareness Month",
+        "type": "जागरूकता महीना"
+      },
+      {
+        "name": "Prostate Cancer Awareness Month / Prostate Health Month",
+        "type": "जागरूकता महीना"
+      }
+    ],
+    "11-07": [
+      {
+        "name": "National Cancer Awareness Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "11-08": [
+      {
+        "name": "World Radiography Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "11-10": [
+      {
+        "name": "World Immunization Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Keratoconus Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "World Neuroendocrine Cancer Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "11-12": [
+      {
+        "name": "World Pneumonia Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "11-14": [
+      {
+        "name": "World Diabetes Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "11-15": [
+      {
+        "name": "National Newborn Care Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "11-16": [
+      {
+        "name": "World Day of Remembrance for Road Traffic Victims",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "11-17": [
+      {
+        "name": "World Prematurity Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "National Epilepsy Day",
+        "type": "जागरूकता दिवस"
+      },
+      {
+        "name": "Cervical Cancer Elimination Day of Action",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "11-18": [
+      {
+        "name": "World Antimicrobial Awareness Week / World Antibiotics Awareness Week",
+        "type": "जागरूकता सप्ताह"
+      }
+    ],
+    "11-19": [
+      {
+        "name": "World COPD Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "11-20": [
+      {
+        "name": "World Pancreatic Cancer Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "12-01": [
+      {
+        "name": "Constipation Awareness Month",
+        "type": "जागरूकता महीना"
+      },
+      {
+        "name": "World AIDS Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "12-03": [
+      {
+        "name": "International Day of Persons with Disabilities / World Diabled Day",
+        "type": "जागरूकता दिवस"
+      }
+    ],
+    "12-12": [
+      {
+        "name": "International Universal Health Coverage Day",
+        "type": "जागरूकता दिवस"
+      }
     ]
   }
 }

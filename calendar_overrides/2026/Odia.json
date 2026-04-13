@@ -1,11 +1,814 @@
 {
   "2026": {
+    "01-01": [
+      {
+        "name": "Cervical Health Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      }
+    ],
+    "01-25": [
+      {
+        "name": "World Leprosy Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "01-30": [
+      {
+        "name": "World Neglected Tropical Diseases Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "02-04": [
+      {
+        "name": "World Cancer Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "02-09": [
+      {
+        "name": "Toothache Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "International Epilepsy Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "02-28": [
+      {
+        "name": "Rare Disease Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "03-03": [
+      {
+        "name": "World Hearing Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "03-04": [
+      {
+        "name": "World Obesity Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "03-05": [
+      {
+        "name": "National Dissociative Identity Disorder Awareness Day (Multiple Personality Day)",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "03-08": [
+      {
+        "name": "International Women's Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "03-13": [
+      {
+        "name": "World Kidney Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "03-16": [
+      {
+        "name": "National Immunization Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "03-20": [
+      {
+        "name": "World Oral Health Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "03-21": [
+      {
+        "name": "World Down Syndrome Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "03-22": [
+      {
+        "name": "World Water Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "03-24": [
+      {
+        "name": "World Tuberculosis Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "03-30": [
+      {
+        "name": "World Bipolar Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "04-01": [
+      {
+        "name": "Irritable Bowel Syndrome (IBS) Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      },
+      {
+        "name": "Stress Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      },
+      {
+        "name": "International Cesarean Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      }
+    ],
+    "04-02": [
+      {
+        "name": "World Autism Awareness Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
     "04-03": [
-      { "name": "ଗୁଡ୍ ଫ୍ରାଇଡେ", "type": "ସାର୍ବଜନୀନ ଛୁଟିଦିନ" },
-      { "name": "ହନୁମାନ ଧ୍ୟାନ ସ୍ମରଣ", "type": "ଭକ୍ତି ବିଶେଷ" }
+      {
+        "name": "ଗୁଡ୍ ଫ୍ରାଇଡେ",
+        "type": "ସାର୍ବଜନୀନ ଛୁଟିଦିନ"
+      },
+      {
+        "name": "ହନୁମାନ ଧ୍ୟାନ ସ୍ମରଣ",
+        "type": "ଭକ୍ତି ବିଶେଷ"
+      }
+    ],
+    "04-07": [
+      {
+        "name": "World Health Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "04-11": [
+      {
+        "name": "World Parkinson's Disease Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
     ],
     "04-14": [
-      { "name": "ବୈଶାଖୀ", "type": "ପର୍ବ" }
+      {
+        "name": "World Chagas Disease Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "ବୈଶାଖୀ",
+        "type": "ପର୍ବ"
+      }
+    ],
+    "04-17": [
+      {
+        "name": "World Hemophilia Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "04-19": [
+      {
+        "name": "World Liver Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Irritable Bowel Syndrome Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "04-22": [
+      {
+        "name": "Earth Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Primary Immunodeficiency Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "04-24": [
+      {
+        "name": "World Immunization Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "04-25": [
+      {
+        "name": "World Malaria Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "04-28": [
+      {
+        "name": "World Day for Safety and Health at Work",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-03": [
+      {
+        "name": "World Ankylosing Spondylitis Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-05": [
+      {
+        "name": "World Hand Hygiene Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-06": [
+      {
+        "name": "World Asthma Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-08": [
+      {
+        "name": "World Thalassaemia Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Ovarian Cancer Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-10": [
+      {
+        "name": "World Lupus Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-12": [
+      {
+        "name": "Chronic Fatigue Syndrome Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "International Nurses Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-15": [
+      {
+        "name": "International Kangaroo Care Awareness",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-17": [
+      {
+        "name": "World Hypertension Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-18": [
+      {
+        "name": "World AIDS Vaccine Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-19": [
+      {
+        "name": "World Inflammatory Bowel Disease Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-22": [
+      {
+        "name": "World Preeclampsia Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-25": [
+      {
+        "name": "World Thyroid Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-29": [
+      {
+        "name": "World Digestive Health Day (WDHD)",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-30": [
+      {
+        "name": "World Multiple Sclerosis Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "05-31": [
+      {
+        "name": "World No Tobacco Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "06-01": [
+      {
+        "name": "Alzheimer’s & Brain Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      },
+      {
+        "name": "Migraine and Headache Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      },
+      {
+        "name": "Cancer Immunotherapy Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      }
+    ],
+    "06-05": [
+      {
+        "name": "World Environment Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "06-08": [
+      {
+        "name": "World Brain Tumor Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "06-09": [
+      {
+        "name": "International Men’s Health Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "06-14": [
+      {
+        "name": "World Blood Donor Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "06-15": [
+      {
+        "name": "World Elder Abuse Awareness Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "06-16": [
+      {
+        "name": "World Continence Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "06-18": [
+      {
+        "name": "Autistic Pride Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "06-19": [
+      {
+        "name": "World Kidney Cancer Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Sickle Cell Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "06-21": [
+      {
+        "name": "International Day of Yoga",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "06-25": [
+      {
+        "name": "World Vitiligo Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "06-26": [
+      {
+        "name": "International Day against Drug Abuse and Illicit Trafficking",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "06-29": [
+      {
+        "name": "World Allergy Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "07-01": [
+      {
+        "name": "National Doctors Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "Sarcoma or Bone Cancer Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      }
+    ],
+    "07-11": [
+      {
+        "name": "World Population Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "07-22": [
+      {
+        "name": "World Brain Day / International brain day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "07-23": [
+      {
+        "name": "World Sjogren’s Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "07-24": [
+      {
+        "name": "International Self-care Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "07-25": [
+      {
+        "name": "World IVF Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "07-28": [
+      {
+        "name": "World Hepatitis Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "07-29": [
+      {
+        "name": "World ORS day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "08-01": [
+      {
+        "name": "World Lung Cancer Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Breastfeeding Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "08-03": [
+      {
+        "name": "Indian Organ Donation Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "08-13": [
+      {
+        "name": "World Organ Donation Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "08-31": [
+      {
+        "name": "International Overdose Awareness Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "09-01": [
+      {
+        "name": "Polycystic Ovary Syndrome (PCOS) Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      },
+      {
+        "name": "National Nutrition Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "09-08": [
+      {
+        "name": "World Physiotherapy Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "09-10": [
+      {
+        "name": "World Suicide Prevention Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "09-13": [
+      {
+        "name": "World First Aid Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Sepsis Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "09-15": [
+      {
+        "name": "World Lymphoma Awareness Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Mitochondrial Disease Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "09-17": [
+      {
+        "name": "World Patient Safety Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "09-20": [
+      {
+        "name": "Usher Syndrome Awareness Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "09-21": [
+      {
+        "name": "World Alzheimer's Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "09-25": [
+      {
+        "name": "World Lung Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Pharmacists Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "09-26": [
+      {
+        "name": "World Contraception Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "09-28": [
+      {
+        "name": "World Rabies Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "09-29": [
+      {
+        "name": "World Heart Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-01": [
+      {
+        "name": "International Day for Older Persons / World Elders Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "Breast Cancer Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      },
+      {
+        "name": "Rett Syndrome Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      }
+    ],
+    "10-05": [
+      {
+        "name": "World Meningitis Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-06": [
+      {
+        "name": "World Cerebral Palsy Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-09": [
+      {
+        "name": "World Sight Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-10": [
+      {
+        "name": "World Mental Health Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-12": [
+      {
+        "name": "World Arthritis Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-13": [
+      {
+        "name": "World Thrombosis Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-15": [
+      {
+        "name": "World Pregnancy & Infant Loss Remembrance Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "Global Handwashing Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-16": [
+      {
+        "name": "World Spine Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Anaesthesia Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Food Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-17": [
+      {
+        "name": "World Trauma Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-19": [
+      {
+        "name": "World Paediatric Bone and Joint Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "International Infection Prevention Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "10-20": [
+      {
+        "name": "World Osteoporosis Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-21": [
+      {
+        "name": "World Iodine Deficiency Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-22": [
+      {
+        "name": "International Stuttering Awareness Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-24": [
+      {
+        "name": "World Polio Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "10-25": [
+      {
+        "name": "International Brain Tumour Awareness Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "10-29": [
+      {
+        "name": "World Stroke Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Psoriasis Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "11-01": [
+      {
+        "name": "Pancreatic Cancer Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      },
+      {
+        "name": "Lung Cancer Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      },
+      {
+        "name": "Stomach Cancer Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      },
+      {
+        "name": "Prostate Cancer Awareness Month / Prostate Health Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      }
+    ],
+    "11-07": [
+      {
+        "name": "National Cancer Awareness Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "11-08": [
+      {
+        "name": "World Radiography Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "11-10": [
+      {
+        "name": "World Immunization Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Keratoconus Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "World Neuroendocrine Cancer Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "11-12": [
+      {
+        "name": "World Pneumonia Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "11-14": [
+      {
+        "name": "World Diabetes Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "11-15": [
+      {
+        "name": "National Newborn Care Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "11-16": [
+      {
+        "name": "World Day of Remembrance for Road Traffic Victims",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "11-17": [
+      {
+        "name": "World Prematurity Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "National Epilepsy Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      },
+      {
+        "name": "Cervical Cancer Elimination Day of Action",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "11-18": [
+      {
+        "name": "World Antimicrobial Awareness Week / World Antibiotics Awareness Week",
+        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
+      }
+    ],
+    "11-19": [
+      {
+        "name": "World COPD Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "11-20": [
+      {
+        "name": "World Pancreatic Cancer Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "12-01": [
+      {
+        "name": "Constipation Awareness Month",
+        "type": "ଜାଗରୁକତା ମାସ"
+      },
+      {
+        "name": "World AIDS Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "12-03": [
+      {
+        "name": "International Day of Persons with Disabilities / World Diabled Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
+    ],
+    "12-12": [
+      {
+        "name": "International Universal Health Coverage Day",
+        "type": "ଜାଗରୁକତା ଦିବସ"
+      }
     ]
   }
 }
