@@ -1,814 +1,1770 @@
 {
-  "2026": {
-    "01-01": [
-      {
-        "name": "Cervical Health Awareness Month",
-        "type": "जागरूकता महीना"
-      }
-    ],
-    "01-25": [
-      {
-        "name": "World Leprosy Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "01-30": [
-      {
-        "name": "World Neglected Tropical Diseases Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "02-04": [
-      {
-        "name": "World Cancer Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "02-09": [
-      {
-        "name": "Toothache Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "International Epilepsy Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "02-28": [
-      {
-        "name": "Rare Disease Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "03-03": [
-      {
-        "name": "World Hearing Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "03-04": [
-      {
-        "name": "World Obesity Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "03-05": [
-      {
-        "name": "National Dissociative Identity Disorder Awareness Day (Multiple Personality Day)",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "03-08": [
-      {
-        "name": "International Women's Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "03-13": [
-      {
-        "name": "World Kidney Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "03-16": [
-      {
-        "name": "National Immunization Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "03-20": [
-      {
-        "name": "World Oral Health Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "03-21": [
-      {
-        "name": "World Down Syndrome Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "03-22": [
-      {
-        "name": "World Water Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "03-24": [
-      {
-        "name": "World Tuberculosis Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "03-30": [
-      {
-        "name": "World Bipolar Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "04-01": [
-      {
-        "name": "Irritable Bowel Syndrome (IBS) Awareness Month",
-        "type": "जागरूकता महीना"
-      },
-      {
-        "name": "Stress Awareness Month",
-        "type": "जागरूकता महीना"
-      },
-      {
-        "name": "International Cesarean Awareness Month",
-        "type": "जागरूकता महीना"
-      }
-    ],
-    "04-02": [
-      {
-        "name": "World Autism Awareness Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "04-03": [
-      {
-        "name": "गुड फ्राइडे",
-        "type": "सार्वजनिक अवकाश"
-      },
-      {
-        "name": "हनुमान ध्यान स्मरण",
-        "type": "भक्ति विशेष"
-      }
-    ],
-    "04-07": [
-      {
-        "name": "World Health Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "04-11": [
-      {
-        "name": "World Parkinson's Disease Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "04-14": [
-      {
-        "name": "World Chagas Disease Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "बैसाखी",
-        "type": "त्योहार"
-      }
-    ],
-    "04-17": [
-      {
-        "name": "World Hemophilia Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "04-19": [
-      {
-        "name": "World Liver Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Irritable Bowel Syndrome Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "04-22": [
-      {
-        "name": "Earth Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Primary Immunodeficiency Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "04-24": [
-      {
-        "name": "World Immunization Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "04-25": [
-      {
-        "name": "World Malaria Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "04-28": [
-      {
-        "name": "World Day for Safety and Health at Work",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-03": [
-      {
-        "name": "World Ankylosing Spondylitis Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-05": [
-      {
-        "name": "World Hand Hygiene Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-06": [
-      {
-        "name": "World Asthma Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-08": [
-      {
-        "name": "World Thalassaemia Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Ovarian Cancer Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-10": [
-      {
-        "name": "World Lupus Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-12": [
-      {
-        "name": "Chronic Fatigue Syndrome Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "International Nurses Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-15": [
-      {
-        "name": "International Kangaroo Care Awareness",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-17": [
-      {
-        "name": "World Hypertension Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-18": [
-      {
-        "name": "World AIDS Vaccine Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-19": [
-      {
-        "name": "World Inflammatory Bowel Disease Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-22": [
-      {
-        "name": "World Preeclampsia Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-25": [
-      {
-        "name": "World Thyroid Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-29": [
-      {
-        "name": "World Digestive Health Day (WDHD)",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-30": [
-      {
-        "name": "World Multiple Sclerosis Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "05-31": [
-      {
-        "name": "World No Tobacco Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "06-01": [
-      {
-        "name": "Alzheimer’s & Brain Awareness Month",
-        "type": "जागरूकता महीना"
-      },
-      {
-        "name": "Migraine and Headache Awareness Month",
-        "type": "जागरूकता महीना"
-      },
-      {
-        "name": "Cancer Immunotherapy Month",
-        "type": "जागरूकता महीना"
-      }
-    ],
-    "06-05": [
-      {
-        "name": "World Environment Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "06-08": [
-      {
-        "name": "World Brain Tumor Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "06-09": [
-      {
-        "name": "International Men’s Health Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "06-14": [
-      {
-        "name": "World Blood Donor Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "06-15": [
-      {
-        "name": "World Elder Abuse Awareness Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "06-16": [
-      {
-        "name": "World Continence Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "06-18": [
-      {
-        "name": "Autistic Pride Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "06-19": [
-      {
-        "name": "World Kidney Cancer Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Sickle Cell Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "06-21": [
-      {
-        "name": "International Day of Yoga",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "06-25": [
-      {
-        "name": "World Vitiligo Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "06-26": [
-      {
-        "name": "International Day against Drug Abuse and Illicit Trafficking",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "06-29": [
-      {
-        "name": "World Allergy Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "07-01": [
-      {
-        "name": "National Doctors Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "Sarcoma or Bone Cancer Awareness Month",
-        "type": "जागरूकता महीना"
-      }
-    ],
-    "07-11": [
-      {
-        "name": "World Population Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "07-22": [
-      {
-        "name": "World Brain Day / International brain day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "07-23": [
-      {
-        "name": "World Sjogren’s Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "07-24": [
-      {
-        "name": "International Self-care Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "07-25": [
-      {
-        "name": "World IVF Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "07-28": [
-      {
-        "name": "World Hepatitis Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "07-29": [
-      {
-        "name": "World ORS day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "08-01": [
-      {
-        "name": "World Lung Cancer Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Breastfeeding Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "08-03": [
-      {
-        "name": "Indian Organ Donation Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "08-13": [
-      {
-        "name": "World Organ Donation Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "08-31": [
-      {
-        "name": "International Overdose Awareness Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "09-01": [
-      {
-        "name": "Polycystic Ovary Syndrome (PCOS) Awareness Month",
-        "type": "जागरूकता महीना"
-      },
-      {
-        "name": "National Nutrition Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "09-08": [
-      {
-        "name": "World Physiotherapy Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "09-10": [
-      {
-        "name": "World Suicide Prevention Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "09-13": [
-      {
-        "name": "World First Aid Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Sepsis Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "09-15": [
-      {
-        "name": "World Lymphoma Awareness Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Mitochondrial Disease Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "09-17": [
-      {
-        "name": "World Patient Safety Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "09-20": [
-      {
-        "name": "Usher Syndrome Awareness Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "09-21": [
-      {
-        "name": "World Alzheimer's Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "09-25": [
-      {
-        "name": "World Lung Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Pharmacists Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "09-26": [
-      {
-        "name": "World Contraception Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "09-28": [
-      {
-        "name": "World Rabies Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "09-29": [
-      {
-        "name": "World Heart Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-01": [
-      {
-        "name": "International Day for Older Persons / World Elders Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "Breast Cancer Awareness Month",
-        "type": "जागरूकता महीना"
-      },
-      {
-        "name": "Rett Syndrome Awareness Month",
-        "type": "जागरूकता महीना"
-      }
-    ],
-    "10-05": [
-      {
-        "name": "World Meningitis Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-06": [
-      {
-        "name": "World Cerebral Palsy Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-09": [
-      {
-        "name": "World Sight Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-10": [
-      {
-        "name": "World Mental Health Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-12": [
-      {
-        "name": "World Arthritis Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-13": [
-      {
-        "name": "World Thrombosis Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-15": [
-      {
-        "name": "World Pregnancy & Infant Loss Remembrance Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "Global Handwashing Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-16": [
-      {
-        "name": "World Spine Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Anaesthesia Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Food Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-17": [
-      {
-        "name": "World Trauma Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-19": [
-      {
-        "name": "World Paediatric Bone and Joint Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "International Infection Prevention Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "10-20": [
-      {
-        "name": "World Osteoporosis Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-21": [
-      {
-        "name": "World Iodine Deficiency Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-22": [
-      {
-        "name": "International Stuttering Awareness Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-24": [
-      {
-        "name": "World Polio Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "10-25": [
-      {
-        "name": "International Brain Tumour Awareness Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "10-29": [
-      {
-        "name": "World Stroke Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Psoriasis Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "11-01": [
-      {
-        "name": "Pancreatic Cancer Awareness Month",
-        "type": "जागरूकता महीना"
-      },
-      {
-        "name": "Lung Cancer Awareness Month",
-        "type": "जागरूकता महीना"
-      },
-      {
-        "name": "Stomach Cancer Awareness Month",
-        "type": "जागरूकता महीना"
-      },
-      {
-        "name": "Prostate Cancer Awareness Month / Prostate Health Month",
-        "type": "जागरूकता महीना"
-      }
-    ],
-    "11-07": [
-      {
-        "name": "National Cancer Awareness Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "11-08": [
-      {
-        "name": "World Radiography Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "11-10": [
-      {
-        "name": "World Immunization Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Keratoconus Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "World Neuroendocrine Cancer Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "11-12": [
-      {
-        "name": "World Pneumonia Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "11-14": [
-      {
-        "name": "World Diabetes Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "11-15": [
-      {
-        "name": "National Newborn Care Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "11-16": [
-      {
-        "name": "World Day of Remembrance for Road Traffic Victims",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "11-17": [
-      {
-        "name": "World Prematurity Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "National Epilepsy Day",
-        "type": "जागरूकता दिवस"
-      },
-      {
-        "name": "Cervical Cancer Elimination Day of Action",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "11-18": [
-      {
-        "name": "World Antimicrobial Awareness Week / World Antibiotics Awareness Week",
-        "type": "जागरूकता सप्ताह"
-      }
-    ],
-    "11-19": [
-      {
-        "name": "World COPD Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "11-20": [
-      {
-        "name": "World Pancreatic Cancer Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "12-01": [
-      {
-        "name": "Constipation Awareness Month",
-        "type": "जागरूकता महीना"
-      },
-      {
-        "name": "World AIDS Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "12-03": [
-      {
-        "name": "International Day of Persons with Disabilities / World Diabled Day",
-        "type": "जागरूकता दिवस"
-      }
-    ],
-    "12-12": [
-      {
-        "name": "International Universal Health Coverage Day",
-        "type": "जागरूकता दिवस"
-      }
-    ]
-  }
+    "2026":  {
+                 "01-01":  [
+                               {
+                                   "name":  "नव वर्ष दिवस",
+                                   "type":  "सार्वजनिक अवकाश"
+                               },
+                               {
+                                   "name":  "Cervical Health Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               }
+                           ],
+                 "01-02":  [
+                               {
+                                   "name":  "पूर्ण्णिमार चन्द्र पूजा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "शिब चतुर्द्दशी उपबास",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "बेढ଼ापरिक्रमा",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-03":  [
+                               {
+                                   "name":  "देबाभिषेक पूर्ण्णिमा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "माघ स्नानारम्भ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "महोदधि आरती",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-05":  [
+                               {
+                                   "name":  "पूष्याभिषेक",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "राजाभिषेक",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-06":  [
+                               {
+                                   "name":  "संकट चतुर्थी ब्रत",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-12":  [
+                               {
+                                   "name":  "स्वामी बिबेकानन्द जयन्ती",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-13":  [
+                               {
+                                   "name":  "नबाङ्क बेढ଼ा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "मासान्त",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-14":  [
+                               {
+                                   "name":  "उत्तरायण मकर संक्रान्ति",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "षट्‌तिळा एकादशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "ओळाशुणि मेळा",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-16":  [
+                               {
+                                   "name":  "रटन्ती काळी पूजा",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-17":  [
+                               {
+                                   "name":  "रटन्ती चतुर्द्दशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "शिब चतुर्द्दशी उपबास",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-18":  [
+                               {
+                                   "name":  "त्रिबेणी अमाबास्या",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "मा बिरजा जन्मोत्सब",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "अभिराम परमहंस जयन्ती",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-21":  [
+                               {
+                                   "name":  "श्रीजगन्नाथङ्क पद्ममुख बेश",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "बरदा चतुर्थी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-23":  [
+                               {
+                                   "name":  "बसन्तोत्सब",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "रथकाठ अनुकूळ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "नेताजी जयन्ती",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "बीर सुरेन्द्र साए जयन्ती",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-25":  [
+                               {
+                                   "name":  "माघ सप्तमी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "चन्द्रभागा स्नान",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Leprosy Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "01-26":  [
+                               {
+                                   "name":  "भीष्माष्टमी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "77वां गणतंत्र दिवस",
+                                   "type":  "सार्वजनिक अवकाश"
+                               }
+                           ],
+                 "01-29":  [
+                               {
+                                   "name":  "भौमी एकादशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "ब्यास सरोबर मेळा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "लक्ष्मीनारायण ब्रत",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "01-30":  [
+                               {
+                                   "name":  "World Neglected Tropical Diseases Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "01-31":  [
+                               {
+                                   "name":  "नित्यानन्द प्रभु जन्मोत्सब",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "शिब चतुर्द्दशी उपबास",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "02-01":  [
+                               {
+                                   "name":  "माघ पूर्ण्णिमा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "श्रीजगन्नाथङ्क राजाभिषेक बेश",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "02-04":  [
+                               {
+                                   "name":  "शबे-बरात्",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "मधुसूदन दासङ्क तिरोधान दिबस",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "World Cancer Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "02-09":  [
+                               {
+                                   "name":  "Toothache Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "International Epilepsy Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "02-12":  [
+                               {
+                                   "name":  "स्वामी दयानन्द सरस्वती जयन्ती",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "02-13":  [
+                               {
+                                   "name":  "फालगुन शुक्ळ एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "02-15":  [
+                               {
+                                   "name":  "महा शिबरात्री (जागर उपबास)",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "02-17":  [
+                               {
+                                   "name":  "अमाबास्या",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "गोसहस्रा स्नान",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "02-19":  [
+                               {
+                                   "name":  "रमजान मास आरम्भ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "रामकृष्ण परमहंस जयन्ती",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "02-26":  [
+                               {
+                                   "name":  "फगु दशमी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "सुदशा ब्रत",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "श्रीजीउङ्क चाचेरी बेश",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "02-27":  [
+                               {
+                                   "name":  "पाप नाशिनी एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "02-28":  [
+                               {
+                                   "name":  "गोबिन्द द्वादशी स्नान",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "Rare Disease Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-01":  [
+                               {
+                                   "name":  "अभिमन्यु मेळण (कटक)",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "03-02":  [
+                               {
+                                   "name":  "बराह दोळ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "शिब चतुर्द्दशी उपबास",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "03-03":  [
+                               {
+                                   "name":  "दोळ पूर्ण्णिमा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "श्री चैतन्य जयन्ती",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "चन्द्रग्रहण",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Hearing Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-04":  [
+                               {
+                                   "name":  "होलि उत्सब",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Obesity Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-05":  [
+                               {
+                                   "name":  "National Dissociative Identity Disorder Awareness Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-08":  [
+                               {
+                                   "name":  "International Women\u0027s Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-13":  [
+                               {
+                                   "name":  "World Kidney Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-14":  [
+                               {
+                                   "name":  "पापमोचना एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "03-16":  [
+                               {
+                                   "name":  "National Immunization Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-17":  [
+                               {
+                                   "name":  "बारुणी स्नान",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "तारातारिणी यात्रा",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "03-19":  [
+                               {
+                                   "name":  "मधु अमाबास्या",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "तेलुगु नूतन बर्ष (उगादि)",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "03-20":  [
+                               {
+                                   "name":  "जमातुल-बिदा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Oral Health Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-21":  [
+                               {
+                                   "name":  "ईद-उल-फितर",
+                                   "type":  "सार्वजनिक अवकाश"
+                               },
+                               {
+                                   "name":  "World Down Syndrome Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-22":  [
+                               {
+                                   "name":  "बासन्ती दुर्गा पूजा आरम्भ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Water Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-24":  [
+                               {
+                                   "name":  "World Tuberculosis Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-26":  [
+                               {
+                                   "name":  "अशोकाष्टमी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "श्री लिङ्गराजङ्क रथयात्रा",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "03-27":  [
+                               {
+                                   "name":  "श्रीराम नबमी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "03-29":  [
+                               {
+                                   "name":  "कामदा एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "03-30":  [
+                               {
+                                   "name":  "World Bipolar Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "03-31":  [
+                               {
+                                   "name":  "महाबीर जयन्ती",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "शिब चतुर्द्दशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "04-01":  [
+                               {
+                                   "name":  "उत्कल दिवस",
+                                   "type":  "सार्वजनिक अवकाश"
+                               },
+                               {
+                                   "name":  "IBS Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               },
+                               {
+                                   "name":  "Stress Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               }
+                           ],
+                 "04-02":  [
+                               {
+                                   "name":  "चैत्र पूर्ण्णिमा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "बैशाख ब्रतारम्भ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Autism Awareness Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "04-03":  [
+                               {
+                                   "name":  "गुड फ्राइडे",
+                                   "type":  "सार्वजनिक अवकाश"
+                               },
+                               {
+                                   "name":  "लङ्कापोडि उत्सब",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "04-07":  [
+                               {
+                                   "name":  "World Health Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "04-11":  [
+                               {
+                                   "name":  "World Parkinson\u0027s Disease Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "04-13":  [
+                               {
+                                   "name":  "बरुथिनी एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "04-14":  [
+                               {
+                                   "name":  "महाबिषुभ पणा संक्रान्ति",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "हनुमान जयन्ती",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Chagas Disease Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "बैशाखी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "04-17":  [
+                               {
+                                   "name":  "रुक्मिणी अमाबास्या",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Hemophilia Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "04-19":  [
+                               {
+                                   "name":  "पर्शुराम जयन्ती",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Liver Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "World IBS Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "04-20":  [
+                               {
+                                   "name":  "अक्षय तृतीया",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "चन्दन यात्रा आरम्भ",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "04-21":  [
+                               {
+                                   "name":  "आदि शङ्कराचार्य्य जयन्ती",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "04-22":  [
+                               {
+                                   "name":  "श्री रामानुजाचार्य्य जयन्ती",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "Earth Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "04-24":  [
+                               {
+                                   "name":  "नीळाद्रि महोदय",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Primary Immunodeficiency Week",
+                                   "type":  "जागरूकता सप्ताह"
+                               }
+                           ],
+                 "04-25":  [
+                               {
+                                   "name":  "सीता नबमी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Malaria Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "04-27":  [
+                               {
+                                   "name":  "मोहिनी एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "04-28":  [
+                               {
+                                   "name":  "मधुसूदन दास जयन्ती",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Day for Safety and Health at Work",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "04-30":  [
+                               {
+                                   "name":  "नृसिंह जन्म चतुर्द्दशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "05-01":  [
+                               {
+                                   "name":  "श्रमिक दिवस",
+                                   "type":  "सार्वजनिक अवकाश"
+                               },
+                               {
+                                   "name":  "बुद्ध जयंती",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "चन्दन पूर्ण्णिमा",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "05-03":  [
+                               {
+                                   "name":  "World Ankylosing Spondylitis Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-05":  [
+                               {
+                                   "name":  "World Hand Hygiene Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-06":  [
+                               {
+                                   "name":  "World Asthma Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-08":  [
+                               {
+                                   "name":  "World Thalassaemia Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "World Ovarian Cancer Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-10":  [
+                               {
+                                   "name":  "World Lupus Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-12":  [
+                               {
+                                   "name":  "Chronic Fatigue Syndrome Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "International Nurses Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-13":  [
+                               {
+                                   "name":  "जळक्रीडा एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "05-15":  [
+                               {
+                                   "name":  "रुक्मिणी संक्रान्ति",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "International Kangaroo Care Awareness",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-16":  [
+                               {
+                                   "name":  "साबित्री ब्रत",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "अमाबास्या",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "05-17":  [
+                               {
+                                   "name":  "मळमास आरम्भ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Hypertension Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-18":  [
+                               {
+                                   "name":  "World AIDS Vaccine Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-19":  [
+                               {
+                                   "name":  "World Inflammatory Bowel Disease Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-22":  [
+                               {
+                                   "name":  "World Preeclampsia Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-25":  [
+                               {
+                                   "name":  "World Thyroid Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-27":  [
+                               {
+                                   "name":  "पुरुषोत्तमी एकादशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "ईद-उल-जुहा",
+                                   "type":  "सार्वजनिक अवकाश"
+                               }
+                           ],
+                 "05-29":  [
+                               {
+                                   "name":  "World Digestive Health Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-30":  [
+                               {
+                                   "name":  "मळ पूर्ण्णिमा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Multiple Sclerosis Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "05-31":  [
+                               {
+                                   "name":  "World No Tobacco Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "06-01":  [
+                               {
+                                   "name":  "Alzheimer’s \u0026 Brain Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               }
+                           ],
+                 "06-05":  [
+                               {
+                                   "name":  "World Environment Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "06-08":  [
+                               {
+                                   "name":  "World Brain Tumor Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "06-09":  [
+                               {
+                                   "name":  "International Men’s Health Week",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "06-14":  [
+                               {
+                                   "name":  "पहिलि रज",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Blood Donor Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "06-15":  [
+                               {
+                                   "name":  "रज संक्रान्ति",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "अमाबास्या",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Elder Abuse Awareness Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "06-16":  [
+                               {
+                                   "name":  "शुद्ध मास आरम्भ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Continence Week",
+                                   "type":  "जागरूकता सप्ताह"
+                               }
+                           ],
+                 "06-18":  [
+                               {
+                                   "name":  "शिब बिबाहोत्सब",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "Autistic Pride Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "06-19":  [
+                               {
+                                   "name":  "शीतळ षष्ठी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Sickle Cell Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "World Kidney Cancer Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "06-21":  [
+                               {
+                                   "name":  "International Day of Yoga",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "06-25":  [
+                               {
+                                   "name":  "निर्जळा एकादशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Vitiligo Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "06-26":  [
+                               {
+                                   "name":  "चम्पक द्वादशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "मुहर्रम",
+                                   "type":  "सार्वजनिक अवकाश"
+                               },
+                               {
+                                   "name":  "Intl. Day against Drug Abuse",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "06-29":  [
+                               {
+                                   "name":  "देबस्नान पूर्ण्णिमा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Allergy Week",
+                                   "type":  "जागरूकता सप्ताह"
+                               }
+                           ],
+                 "07-01":  [
+                               {
+                                   "name":  "National Doctors Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "Sarcoma Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               }
+                           ],
+                 "07-06":  [
+                               {
+                                   "name":  "रथ टणा अनुकूळ",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "07-11":  [
+                               {
+                                   "name":  "खळिलागि एकादशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Population Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "07-14":  [
+                               {
+                                   "name":  "अमाबास्या",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "नेत्रोत्सब",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "07-16":  [
+                               {
+                                   "name":  "श्रीगुण्डिचा (रथयात्रा)",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "कर्कट संक्रान्ति",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "07-20":  [
+                               {
+                                   "name":  "हेरा पञ्चमी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "07-22":  [
+                               {
+                                   "name":  "World Brain Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "07-23":  [
+                               {
+                                   "name":  "World Sjogren’s Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "07-24":  [
+                               {
+                                   "name":  "बाहुड଼ा यात्रा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "International Self-care Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "07-25":  [
+                               {
+                                   "name":  "सुनाबेश",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "हरिशयन एकादशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World IVF Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "07-27":  [
+                               {
+                                   "name":  "नीळाद्रि बिजे",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "07-28":  [
+                               {
+                                   "name":  "World Hepatitis Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "07-29":  [
+                               {
+                                   "name":  "ब्यास पूर्ण्णिमा (गुरु पूर्ण्णिमा)",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World ORS Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "08-01":  [
+                               {
+                                   "name":  "World Lung Cancer Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "World Breastfeeding Week",
+                                   "type":  "जागरूकता सप्ताह"
+                               }
+                           ],
+                 "08-03":  [
+                               {
+                                   "name":  "बोलबम् आरम्भ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "Indian Organ Donation Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "08-09":  [
+                               {
+                                   "name":  "कामदा एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "08-12":  [
+                               {
+                                   "name":  "चितालागि अमाबास्या",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "08-13":  [
+                               {
+                                   "name":  "World Organ Donation Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "08-15":  [
+                               {
+                                   "name":  "80वां स्वतंत्रता दिवस",
+                                   "type":  "सार्वजनिक अवकाश"
+                               },
+                               {
+                                   "name":  "श्री अरबिन्द जयन्ती",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "08-22":  [
+                               {
+                                   "name":  "झुलण यात्रा आरम्भ",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "08-23":  [
+                               {
+                                   "name":  "पुत्रदा एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "08-26":  [
+                               {
+                                   "name":  "हजरत मोहम्मद जयंती",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "08-27":  [
+                               {
+                                   "name":  "बळभद्र जन्म",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "राक्षी पूर्ण्णिमा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "गह्मा पर्ब",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "08-30":  [
+                               {
+                                   "name":  "खुदुरुकुणी ओषा आरम्भ",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "08-31":  [
+                               {
+                                   "name":  "International Overdose Awareness Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-01":  [
+                               {
+                                   "name":  "PCOS Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               },
+                               {
+                                   "name":  "National Nutrition Week",
+                                   "type":  "जागरूकता सप्ताह"
+                               }
+                           ],
+                 "09-04":  [
+                               {
+                                   "name":  "श्रीकृष्ण जन्माष्टमी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "09-05":  [
+                               {
+                                   "name":  "नन्दोत्सब",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "शिक्षक दिवस",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-07":  [
+                               {
+                                   "name":  "काळीयदळन एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "09-08":  [
+                               {
+                                   "name":  "World Physiotherapy Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-10":  [
+                               {
+                                   "name":  "सप्तपुरी अमाबास्या",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Suicide Prevention Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-13":  [
+                               {
+                                   "name":  "World First Aid Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "World Sepsis Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-14":  [
+                               {
+                                   "name":  "श्री गणेश चतुर्थी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "09-15":  [
+                               {
+                                   "name":  "नूआखाइ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Lymphoma Awareness Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "World Mitochondrial Disease Week",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-17":  [
+                               {
+                                   "name":  "बिश्वकर्मा पूजा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "कन्या संक्रान्ति",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Patient Safety Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-19":  [
+                               {
+                                   "name":  "श्री राधाष्टमी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "09-20":  [
+                               {
+                                   "name":  "Usher Syndrome Awareness Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-21":  [
+                               {
+                                   "name":  "World Alzheimer\u0027s Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-22":  [
+                               {
+                                   "name":  "पार्श्वपरिबर्त्तन एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "09-23":  [
+                               {
+                                   "name":  "बामन जन्म",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "सुनिआँ (ओड଼िआ नूतन बर्ष)",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "09-25":  [
+                               {
+                                   "name":  "अनन्त ब्रत",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Lung Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "World Pharmacists Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-26":  [
+                               {
+                                   "name":  "इन्द्रोत्सब पूर्ण्णिमा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "भागबत जन्म",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Contraception Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-28":  [
+                               {
+                                   "name":  "World Rabies Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "09-29":  [
+                               {
+                                   "name":  "World Heart Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-01":  [
+                               {
+                                   "name":  "गज षष्ठी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "Breast Cancer Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               }
+                           ],
+                 "10-02":  [
+                               {
+                                   "name":  "गांधी जयंती",
+                                   "type":  "सार्वजनिक अवकाश"
+                               },
+                               {
+                                   "name":  "शास्त्री जयंती",
+                                   "type":  "सार्वजनिक अवकाश"
+                               }
+                           ],
+                 "10-03":  [
+                               {
+                                   "name":  "श्री दुर्गा देब्योत्‌थापन",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "सहस्र कुम्भाभिषेक",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "षोडश पूजा आरम्भ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "मूळाष्टमी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "10-05":  [
+                               {
+                                   "name":  "World Meningitis Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-06":  [
+                               {
+                                   "name":  "इन्दिरा एकादशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Cerebral Palsy Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-09":  [
+                               {
+                                   "name":  "शिब चतुर्द्दशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "बेढ଼ा परिक्रमा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Sight Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-10":  [
+                               {
+                                   "name":  "महाळया अमाबास्या",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "चन्द्रक्षय",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "निशिपाळन",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Mental Health Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-11":  [
+                               {
+                                   "name":  "श्री दुर्गा देब्या नबदिनात्मक पूजारम्भ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "मा बिरजाङ्क रथयात्रा",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "10-12":  [
+                               {
+                                   "name":  "चन्द्र दर्शन पूजा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Arthritis Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-13":  [
+                               {
+                                   "name":  "World Thrombosis Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-14":  [
+                               {
+                                   "name":  "शरण आरम्भ",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "10-15":  [
+                               {
+                                   "name":  "नेता पञ्चमी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "मा\u0027 बिरजाङ्क पञ्चमी होम",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "Global Handwashing Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-16":  [
+                               {
+                                   "name":  "तपा षष्ठी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "मृण्मयी देबीङ्क बिल्वधिबास",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Food Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "Spine Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-17":  [
+                               {
+                                   "name":  "महासप्तमी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "गर्भणा संक्रान्ति",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "तुळा संक्रान्ति",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Trauma Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-18":  [
+                               {
+                                   "name":  "महाष्टमी पूजा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "शरण आरम्भ",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "10-19":  [
+                               {
+                                   "name":  "महानबमी पूजा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Paediatric Bone and Joint Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-20":  [
+                               {
+                                   "name":  "बिजया दशमी (दशहरा)",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Osteoporosis Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-21":  [
+                               {
+                                   "name":  "श्रीमन्दिररे दशहरा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "सोमनाथ ब्रत समापन",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "भसाणि",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Iodine Deficiency Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-22":  [
+                               {
+                                   "name":  "पापाङ्कुशा एकादशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "International Stuttering Awareness Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-24":  [
+                               {
+                                   "name":  "शिब चतुर्द्दशी उपबास",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Polio Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "10-25":  [
+                               {
+                                   "name":  "कुमार पूर्ण्णिमा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "गजलक्ष्मी पूजा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "चन्द्रपूजा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "Intl. Brain Tumour Awareness Week",
+                                   "type":  "जागरूकता सप्ताह"
+                               }
+                           ],
+                 "10-26":  [
+                               {
+                                   "name":  "कार्त्तिक ब्रतारम्भ",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "पण्डित बिष्णु प्रसाद खड଼ीरत्नङ्क श्राद्ध",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "10-29":  [
+                               {
+                                   "name":  "World Stroke Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "World Psoriasis Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "11-01":  [
+                               {
+                                   "name":  "Pancreatic Cancer Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               },
+                               {
+                                   "name":  "Lung Cancer Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               },
+                               {
+                                   "name":  "Stomach Cancer Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               },
+                               {
+                                   "name":  "Prostate Cancer Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               }
+                           ],
+                 "11-05":  [
+                               {
+                                   "name":  "रमा एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "11-07":  [
+                               {
+                                   "name":  "National Cancer Awareness Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "11-08":  [
+                               {
+                                   "name":  "दीपावली",
+                                   "type":  "सार्वजनिक अवकाश"
+                               },
+                               {
+                                   "name":  "श्यामाकाळी पूजा",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Radiography Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "11-09":  [
+                               {
+                                   "name":  "कार्त्तिक अमाबास्या",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "11-10":  [
+                               {
+                                   "name":  "World Immunization Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "World Keratoconus Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "11-12":  [
+                               {
+                                   "name":  "World Pneumonia Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "11-14":  [
+                               {
+                                   "name":  "कार्त्तिक पूर्ण्णिमा (रास पूर्ण्णिमा, बालियात्रा)",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Diabetes Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "11-15":  [
+                               {
+                                   "name":  "National Newborn Care Week",
+                                   "type":  "जागरूकता सप्ताह"
+                               }
+                           ],
+                 "11-16":  [
+                               {
+                                   "name":  "World Day of Remembrance for Road Traffic Victims",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "11-17":  [
+                               {
+                                   "name":  "अँळा नबमी (राधापाद दर्शन)",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World Prematurity Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "National Epilepsy Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "Cervical Cancer Action Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "11-18":  [
+                               {
+                                   "name":  "World Antimicrobial Awareness Week",
+                                   "type":  "जागरूकता सप्ताह"
+                               }
+                           ],
+                 "11-19":  [
+                               {
+                                   "name":  "World COPD Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "11-20":  [
+                               {
+                                   "name":  "World Pancreatic Cancer Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "11-26":  [
+                               {
+                                   "name":  "मार्गशीर गुरुबार आरम्भ",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "12-01":  [
+                               {
+                                   "name":  "प्रथमाष्टमी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "World AIDS Day",
+                                   "type":  "जागरूकता दिवस"
+                               },
+                               {
+                                   "name":  "Constipation Awareness Month",
+                                   "type":  "जागरूकता महीना"
+                               }
+                           ],
+                 "12-03":  [
+                               {
+                                   "name":  "माणबसा गुरुबार",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "Intl. Day of Persons with Disabilities",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "12-04":  [
+                               {
+                                   "name":  "उत्पन्ना एकादशी",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "12-08":  [
+                               {
+                                   "name":  "महोदधि अमाबास्या",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "12-12":  [
+                               {
+                                   "name":  "International Universal Health Coverage Day",
+                                   "type":  "जागरूकता दिवस"
+                               }
+                           ],
+                 "12-16":  [
+                               {
+                                   "name":  "धनु संक्रान्ति",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "पहिलि भोग आरम्भ",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "12-18":  [
+                               {
+                                   "name":  "मोक्षदा एकादशी",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "गीता जयन्ती",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "12-23":  [
+                               {
+                                   "name":  "पण्डु ओषा",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "12-24":  [
+                               {
+                                   "name":  "पूर्ण्णिमा",
+                                   "type":  "त्योहार"
+                               }
+                           ],
+                 "12-25":  [
+                               {
+                                   "name":  "क्रिसमस दिवस",
+                                   "type":  "सार्वजनिक अवकाश"
+                               }
+                           ],
+                 "12-31":  [
+                               {
+                                   "name":  "पठाणि सामन्त जयन्ती",
+                                   "type":  "त्योहार"
+                               },
+                               {
+                                   "name":  "वर्षांत",
+                                   "type":  "त्योहार"
+                               }
+                           ]
+             }
 }

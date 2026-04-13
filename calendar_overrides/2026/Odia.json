@@ -1,814 +1,1770 @@
 {
-  "2026": {
-    "01-01": [
-      {
-        "name": "Cervical Health Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      }
-    ],
-    "01-25": [
-      {
-        "name": "World Leprosy Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "01-30": [
-      {
-        "name": "World Neglected Tropical Diseases Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "02-04": [
-      {
-        "name": "World Cancer Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "02-09": [
-      {
-        "name": "Toothache Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "International Epilepsy Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "02-28": [
-      {
-        "name": "Rare Disease Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "03-03": [
-      {
-        "name": "World Hearing Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "03-04": [
-      {
-        "name": "World Obesity Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "03-05": [
-      {
-        "name": "National Dissociative Identity Disorder Awareness Day (Multiple Personality Day)",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "03-08": [
-      {
-        "name": "International Women's Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "03-13": [
-      {
-        "name": "World Kidney Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "03-16": [
-      {
-        "name": "National Immunization Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "03-20": [
-      {
-        "name": "World Oral Health Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "03-21": [
-      {
-        "name": "World Down Syndrome Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "03-22": [
-      {
-        "name": "World Water Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "03-24": [
-      {
-        "name": "World Tuberculosis Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "03-30": [
-      {
-        "name": "World Bipolar Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "04-01": [
-      {
-        "name": "Irritable Bowel Syndrome (IBS) Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      },
-      {
-        "name": "Stress Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      },
-      {
-        "name": "International Cesarean Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      }
-    ],
-    "04-02": [
-      {
-        "name": "World Autism Awareness Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "04-03": [
-      {
-        "name": "ଗୁଡ୍ ଫ୍ରାଇଡେ",
-        "type": "ସାର୍ବଜନୀନ ଛୁଟିଦିନ"
-      },
-      {
-        "name": "ହନୁମାନ ଧ୍ୟାନ ସ୍ମରଣ",
-        "type": "ଭକ୍ତି ବିଶେଷ"
-      }
-    ],
-    "04-07": [
-      {
-        "name": "World Health Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "04-11": [
-      {
-        "name": "World Parkinson's Disease Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "04-14": [
-      {
-        "name": "World Chagas Disease Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "ବୈଶାଖୀ",
-        "type": "ପର୍ବ"
-      }
-    ],
-    "04-17": [
-      {
-        "name": "World Hemophilia Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "04-19": [
-      {
-        "name": "World Liver Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Irritable Bowel Syndrome Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "04-22": [
-      {
-        "name": "Earth Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Primary Immunodeficiency Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "04-24": [
-      {
-        "name": "World Immunization Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "04-25": [
-      {
-        "name": "World Malaria Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "04-28": [
-      {
-        "name": "World Day for Safety and Health at Work",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-03": [
-      {
-        "name": "World Ankylosing Spondylitis Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-05": [
-      {
-        "name": "World Hand Hygiene Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-06": [
-      {
-        "name": "World Asthma Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-08": [
-      {
-        "name": "World Thalassaemia Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Ovarian Cancer Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-10": [
-      {
-        "name": "World Lupus Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-12": [
-      {
-        "name": "Chronic Fatigue Syndrome Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "International Nurses Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-15": [
-      {
-        "name": "International Kangaroo Care Awareness",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-17": [
-      {
-        "name": "World Hypertension Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-18": [
-      {
-        "name": "World AIDS Vaccine Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-19": [
-      {
-        "name": "World Inflammatory Bowel Disease Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-22": [
-      {
-        "name": "World Preeclampsia Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-25": [
-      {
-        "name": "World Thyroid Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-29": [
-      {
-        "name": "World Digestive Health Day (WDHD)",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-30": [
-      {
-        "name": "World Multiple Sclerosis Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "05-31": [
-      {
-        "name": "World No Tobacco Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "06-01": [
-      {
-        "name": "Alzheimer’s & Brain Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      },
-      {
-        "name": "Migraine and Headache Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      },
-      {
-        "name": "Cancer Immunotherapy Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      }
-    ],
-    "06-05": [
-      {
-        "name": "World Environment Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "06-08": [
-      {
-        "name": "World Brain Tumor Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "06-09": [
-      {
-        "name": "International Men’s Health Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "06-14": [
-      {
-        "name": "World Blood Donor Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "06-15": [
-      {
-        "name": "World Elder Abuse Awareness Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "06-16": [
-      {
-        "name": "World Continence Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "06-18": [
-      {
-        "name": "Autistic Pride Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "06-19": [
-      {
-        "name": "World Kidney Cancer Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Sickle Cell Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "06-21": [
-      {
-        "name": "International Day of Yoga",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "06-25": [
-      {
-        "name": "World Vitiligo Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "06-26": [
-      {
-        "name": "International Day against Drug Abuse and Illicit Trafficking",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "06-29": [
-      {
-        "name": "World Allergy Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "07-01": [
-      {
-        "name": "National Doctors Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "Sarcoma or Bone Cancer Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      }
-    ],
-    "07-11": [
-      {
-        "name": "World Population Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "07-22": [
-      {
-        "name": "World Brain Day / International brain day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "07-23": [
-      {
-        "name": "World Sjogren’s Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "07-24": [
-      {
-        "name": "International Self-care Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "07-25": [
-      {
-        "name": "World IVF Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "07-28": [
-      {
-        "name": "World Hepatitis Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "07-29": [
-      {
-        "name": "World ORS day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "08-01": [
-      {
-        "name": "World Lung Cancer Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Breastfeeding Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "08-03": [
-      {
-        "name": "Indian Organ Donation Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "08-13": [
-      {
-        "name": "World Organ Donation Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "08-31": [
-      {
-        "name": "International Overdose Awareness Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "09-01": [
-      {
-        "name": "Polycystic Ovary Syndrome (PCOS) Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      },
-      {
-        "name": "National Nutrition Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "09-08": [
-      {
-        "name": "World Physiotherapy Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "09-10": [
-      {
-        "name": "World Suicide Prevention Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "09-13": [
-      {
-        "name": "World First Aid Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Sepsis Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "09-15": [
-      {
-        "name": "World Lymphoma Awareness Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Mitochondrial Disease Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "09-17": [
-      {
-        "name": "World Patient Safety Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "09-20": [
-      {
-        "name": "Usher Syndrome Awareness Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "09-21": [
-      {
-        "name": "World Alzheimer's Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "09-25": [
-      {
-        "name": "World Lung Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Pharmacists Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "09-26": [
-      {
-        "name": "World Contraception Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "09-28": [
-      {
-        "name": "World Rabies Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "09-29": [
-      {
-        "name": "World Heart Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-01": [
-      {
-        "name": "International Day for Older Persons / World Elders Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "Breast Cancer Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      },
-      {
-        "name": "Rett Syndrome Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      }
-    ],
-    "10-05": [
-      {
-        "name": "World Meningitis Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-06": [
-      {
-        "name": "World Cerebral Palsy Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-09": [
-      {
-        "name": "World Sight Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-10": [
-      {
-        "name": "World Mental Health Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-12": [
-      {
-        "name": "World Arthritis Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-13": [
-      {
-        "name": "World Thrombosis Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-15": [
-      {
-        "name": "World Pregnancy & Infant Loss Remembrance Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "Global Handwashing Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-16": [
-      {
-        "name": "World Spine Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Anaesthesia Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Food Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-17": [
-      {
-        "name": "World Trauma Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-19": [
-      {
-        "name": "World Paediatric Bone and Joint Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "International Infection Prevention Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "10-20": [
-      {
-        "name": "World Osteoporosis Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-21": [
-      {
-        "name": "World Iodine Deficiency Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-22": [
-      {
-        "name": "International Stuttering Awareness Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-24": [
-      {
-        "name": "World Polio Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "10-25": [
-      {
-        "name": "International Brain Tumour Awareness Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "10-29": [
-      {
-        "name": "World Stroke Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Psoriasis Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "11-01": [
-      {
-        "name": "Pancreatic Cancer Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      },
-      {
-        "name": "Lung Cancer Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      },
-      {
-        "name": "Stomach Cancer Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      },
-      {
-        "name": "Prostate Cancer Awareness Month / Prostate Health Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      }
-    ],
-    "11-07": [
-      {
-        "name": "National Cancer Awareness Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "11-08": [
-      {
-        "name": "World Radiography Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "11-10": [
-      {
-        "name": "World Immunization Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Keratoconus Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "World Neuroendocrine Cancer Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "11-12": [
-      {
-        "name": "World Pneumonia Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "11-14": [
-      {
-        "name": "World Diabetes Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "11-15": [
-      {
-        "name": "National Newborn Care Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "11-16": [
-      {
-        "name": "World Day of Remembrance for Road Traffic Victims",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "11-17": [
-      {
-        "name": "World Prematurity Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "National Epilepsy Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      },
-      {
-        "name": "Cervical Cancer Elimination Day of Action",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "11-18": [
-      {
-        "name": "World Antimicrobial Awareness Week / World Antibiotics Awareness Week",
-        "type": "ଜାଗରୁକତା ସପ୍ତାହ"
-      }
-    ],
-    "11-19": [
-      {
-        "name": "World COPD Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "11-20": [
-      {
-        "name": "World Pancreatic Cancer Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "12-01": [
-      {
-        "name": "Constipation Awareness Month",
-        "type": "ଜାଗରୁକତା ମାସ"
-      },
-      {
-        "name": "World AIDS Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "12-03": [
-      {
-        "name": "International Day of Persons with Disabilities / World Diabled Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ],
-    "12-12": [
-      {
-        "name": "International Universal Health Coverage Day",
-        "type": "ଜାଗରୁକତା ଦିବସ"
-      }
-    ]
-  }
+    "2026":  {
+                 "01-01":  [
+                               {
+                                   "name":  "ଇଂରାଜୀ ନୂତନ ବର୍ଷ",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               },
+                               {
+                                   "name":  "Cervical Health Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               }
+                           ],
+                 "01-02":  [
+                               {
+                                   "name":  "ପୂର୍ଣ୍ଣିମାର ଚନ୍ଦ୍ର ପୂଜା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଶିବ ଚତୁର୍ଦ୍ଦଶୀ ଉପବାସ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ବେଢ଼ାପରିକ୍ରମା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-03":  [
+                               {
+                                   "name":  "ଦେବାଭିଷେକ ପୂର୍ଣ୍ଣିମା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ମାଘ ସ୍ନାନାରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ମହୋଦଧି ଆରତୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-05":  [
+                               {
+                                   "name":  "ପୂଷ୍ୟାଭିଷେକ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ରାଜାଭିଷେକ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-06":  [
+                               {
+                                   "name":  "ସଂକଟ ଚତୁର୍ଥୀ ବ୍ରତ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-12":  [
+                               {
+                                   "name":  "ସ୍ୱାମୀ ବିବେକାନନ୍ଦ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-13":  [
+                               {
+                                   "name":  "ନବାଙ୍କ ବେଢ଼ା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ମାସାନ୍ତ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-14":  [
+                               {
+                                   "name":  "ଉତ୍ତରାୟଣ ମକର ସଂକ୍ରାନ୍ତି",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଷଟ୍‌ତିଳା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଓଳାଶୁଣି ମେଳା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-16":  [
+                               {
+                                   "name":  "ରଟନ୍ତୀ କାଳୀ ପୂଜା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-17":  [
+                               {
+                                   "name":  "ରଟନ୍ତୀ ଚତୁର୍ଦ୍ଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଶିବ ଚତୁର୍ଦ୍ଦଶୀ ଉପବାସ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-18":  [
+                               {
+                                   "name":  "ତ୍ରିବେଣୀ ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ମା ବିରଜା ଜନ୍ମୋତ୍ସବ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଅଭିରାମ ପରମହଂସ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-21":  [
+                               {
+                                   "name":  "ଶ୍ରୀଜଗନ୍ନାଥଙ୍କ ପଦ୍ମମୁଖ ବେଶ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ବରଦା ଚତୁର୍ଥୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-23":  [
+                               {
+                                   "name":  "ବସନ୍ତୋତ୍ସବ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ରଥକାଠ ଅନୁକୂଳ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ନେତାଜୀ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ବୀର ସୁରେନ୍ଦ୍ର ସାଏ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-25":  [
+                               {
+                                   "name":  "ମାଘ ସପ୍ତମୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଚନ୍ଦ୍ରଭାଗା ସ୍ନାନ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Leprosy Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "01-26":  [
+                               {
+                                   "name":  "ଭୀଷ୍ମାଷ୍ଟମୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "୭୭ତମ ସାଧାରଣତନ୍ତ୍ର ଦିବସ",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               }
+                           ],
+                 "01-29":  [
+                               {
+                                   "name":  "ଭୌମୀ ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ବ୍ୟାସ ସରୋବର ମେଳା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଲକ୍ଷ୍ମୀନାରାୟଣ ବ୍ରତ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "01-30":  [
+                               {
+                                   "name":  "World Neglected Tropical Diseases Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "01-31":  [
+                               {
+                                   "name":  "ନିତ୍ୟାନନ୍ଦ ପ୍ରଭୁ ଜନ୍ମୋତ୍ସବ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଶିବ ଚତୁର୍ଦ୍ଦଶୀ ଉପବାସ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "02-01":  [
+                               {
+                                   "name":  "ମାଘ ପୂର୍ଣ୍ଣିମା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଶ୍ରୀଜଗନ୍ନାଥଙ୍କ ରାଜାଭିଷେକ ବେଶ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "02-04":  [
+                               {
+                                   "name":  "ଶବେ-ବରାତ୍",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ମଧୁସୂଦନ ଦାସଙ୍କ ତିରୋଧାନ ଦିବସ",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "World Cancer Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "02-09":  [
+                               {
+                                   "name":  "Toothache Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "International Epilepsy Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "02-12":  [
+                               {
+                                   "name":  "ସ୍ୱାମୀ ଦୟାନନ୍ଦ ସରସ୍ୱତୀ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "02-13":  [
+                               {
+                                   "name":  "ଫାଲଗୁନ ଶୁକ୍ଳ ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "02-15":  [
+                               {
+                                   "name":  "ମହା ଶିବରାତ୍ରୀ (ଜାଗର ଉପବାସ)",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "02-17":  [
+                               {
+                                   "name":  "ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଗୋସହସ୍ରା ସ୍ନାନ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "02-19":  [
+                               {
+                                   "name":  "ରମଜାନ ମାସ ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ରାମକୃଷ୍ଣ ପରମହଂସ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "02-26":  [
+                               {
+                                   "name":  "ଫଗୁ ଦଶମୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ସୁଦଶା ବ୍ରତ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଶ୍ରୀଜୀଉଙ୍କ ଚାଚେରୀ ବେଶ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "02-27":  [
+                               {
+                                   "name":  "ପାପ ନାଶିନୀ ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "02-28":  [
+                               {
+                                   "name":  "ଗୋବିନ୍ଦ ଦ୍ୱାଦଶୀ ସ୍ନାନ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "Rare Disease Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-01":  [
+                               {
+                                   "name":  "ଅଭିମନ୍ୟୁ ମେଳଣ (କଟକ)",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "03-02":  [
+                               {
+                                   "name":  "ବରାହ ଦୋଳ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଶିବ ଚତୁର୍ଦ୍ଦଶୀ ଉପବାସ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "03-03":  [
+                               {
+                                   "name":  "ଦୋଳ ପୂର୍ଣ୍ଣିମା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଶ୍ରୀ ଚୈତନ୍ୟ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଚନ୍ଦ୍ରଗ୍ରହଣ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Hearing Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-04":  [
+                               {
+                                   "name":  "ହୋଲି ଉତ୍ସବ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Obesity Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-05":  [
+                               {
+                                   "name":  "National Dissociative Identity Disorder Awareness Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-08":  [
+                               {
+                                   "name":  "International Women\u0027s Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-13":  [
+                               {
+                                   "name":  "World Kidney Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-14":  [
+                               {
+                                   "name":  "ପାପମୋଚନା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "03-16":  [
+                               {
+                                   "name":  "National Immunization Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-17":  [
+                               {
+                                   "name":  "ବାରୁଣୀ ସ୍ନାନ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ତାରାତାରିଣୀ ଯାତ୍ରା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "03-19":  [
+                               {
+                                   "name":  "ମଧୁ ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ତେଲୁଗୁ ନୂତନ ବର୍ଷ (ଉଗାଦି)",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "03-20":  [
+                               {
+                                   "name":  "ଜମାତୁଲ-ବିଦା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Oral Health Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-21":  [
+                               {
+                                   "name":  "ଇଦ୍-ଉଲ୍-ଫିତର",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               },
+                               {
+                                   "name":  "World Down Syndrome Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-22":  [
+                               {
+                                   "name":  "ବାସନ୍ତୀ ଦୁର୍ଗା ପୂଜା ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Water Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-24":  [
+                               {
+                                   "name":  "World Tuberculosis Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-26":  [
+                               {
+                                   "name":  "ଅଶୋକାଷ୍ଟମୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଶ୍ରୀ ଲିଙ୍ଗରାଜଙ୍କ ରଥଯାତ୍ରା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "03-27":  [
+                               {
+                                   "name":  "ଶ୍ରୀରାମ ନବମୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "03-29":  [
+                               {
+                                   "name":  "କାମଦା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "03-30":  [
+                               {
+                                   "name":  "World Bipolar Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "03-31":  [
+                               {
+                                   "name":  "ମହାବୀର ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଶିବ ଚତୁର୍ଦ୍ଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "04-01":  [
+                               {
+                                   "name":  "ଉତ୍କଳ ଦିବସ",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               },
+                               {
+                                   "name":  "IBS Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               },
+                               {
+                                   "name":  "Stress Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               }
+                           ],
+                 "04-02":  [
+                               {
+                                   "name":  "ଚୈତ୍ର ପୂର୍ଣ୍ଣିମା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ବୈଶାଖ ବ୍ରତାରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Autism Awareness Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "04-03":  [
+                               {
+                                   "name":  "ଗୁଡ୍ ଫ୍ରାଇଡେ",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               },
+                               {
+                                   "name":  "ଲଙ୍କାପୋଡି ଉତ୍ସବ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "04-07":  [
+                               {
+                                   "name":  "World Health Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "04-11":  [
+                               {
+                                   "name":  "World Parkinson\u0027s Disease Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "04-13":  [
+                               {
+                                   "name":  "ବରୁଥିନୀ ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "04-14":  [
+                               {
+                                   "name":  "ମହାବିଷୁଭ ପଣା ସଂକ୍ରାନ୍ତି",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ହନୁମାନ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Chagas Disease Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "ବୈଶାଖୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "04-17":  [
+                               {
+                                   "name":  "ରୁକ୍ମିଣୀ ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Hemophilia Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "04-19":  [
+                               {
+                                   "name":  "ପର୍ଶୁରାମ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Liver Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "World IBS Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "04-20":  [
+                               {
+                                   "name":  "ଅକ୍ଷୟ ତୃତୀୟା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଚନ୍ଦନ ଯାତ୍ରା ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "04-21":  [
+                               {
+                                   "name":  "ଆଦି ଶଙ୍କରାଚାର୍ଯ୍ୟ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "04-22":  [
+                               {
+                                   "name":  "ଶ୍ରୀ ରାମାନୁଜାଚାର୍ଯ୍ୟ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "Earth Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "04-24":  [
+                               {
+                                   "name":  "ନୀଳାଦ୍ରି ମହୋଦୟ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Primary Immunodeficiency Week",
+                                   "type":  "ଜାଗରୁକତା ସପ୍ତାହ"
+                               }
+                           ],
+                 "04-25":  [
+                               {
+                                   "name":  "ସୀତା ନବମୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Malaria Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "04-27":  [
+                               {
+                                   "name":  "ମୋହିନୀ ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "04-28":  [
+                               {
+                                   "name":  "ମଧୁସୂଦନ ଦାସ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Day for Safety and Health at Work",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "04-30":  [
+                               {
+                                   "name":  "ନୃସିଂହ ଜନ୍ମ ଚତୁର୍ଦ୍ଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "05-01":  [
+                               {
+                                   "name":  "ଶ୍ରମିକ ଦିବସ",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               },
+                               {
+                                   "name":  "ବୁଦ୍ଧ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଚନ୍ଦନ ପୂର୍ଣ୍ଣିମା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "05-03":  [
+                               {
+                                   "name":  "World Ankylosing Spondylitis Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-05":  [
+                               {
+                                   "name":  "World Hand Hygiene Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-06":  [
+                               {
+                                   "name":  "World Asthma Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-08":  [
+                               {
+                                   "name":  "World Thalassaemia Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "World Ovarian Cancer Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-10":  [
+                               {
+                                   "name":  "World Lupus Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-12":  [
+                               {
+                                   "name":  "Chronic Fatigue Syndrome Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "International Nurses Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-13":  [
+                               {
+                                   "name":  "ଜଳକ୍ରୀଡା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "05-15":  [
+                               {
+                                   "name":  "ରୁକ୍ମିଣୀ ସଂକ୍ରାନ୍ତି",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "International Kangaroo Care Awareness",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-16":  [
+                               {
+                                   "name":  "ସାବିତ୍ରୀ ବ୍ରତ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "05-17":  [
+                               {
+                                   "name":  "ମଳମାସ ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Hypertension Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-18":  [
+                               {
+                                   "name":  "World AIDS Vaccine Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-19":  [
+                               {
+                                   "name":  "World Inflammatory Bowel Disease Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-22":  [
+                               {
+                                   "name":  "World Preeclampsia Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-25":  [
+                               {
+                                   "name":  "World Thyroid Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-27":  [
+                               {
+                                   "name":  "ପୁରୁଷୋତ୍ତମୀ ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଇଦ୍-ଉଲ୍-ଜୁହା",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               }
+                           ],
+                 "05-29":  [
+                               {
+                                   "name":  "World Digestive Health Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-30":  [
+                               {
+                                   "name":  "ମଳ ପୂର୍ଣ୍ଣିମା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Multiple Sclerosis Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "05-31":  [
+                               {
+                                   "name":  "World No Tobacco Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "06-01":  [
+                               {
+                                   "name":  "Alzheimer’s \u0026 Brain Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               }
+                           ],
+                 "06-05":  [
+                               {
+                                   "name":  "World Environment Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "06-08":  [
+                               {
+                                   "name":  "World Brain Tumor Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "06-09":  [
+                               {
+                                   "name":  "International Men’s Health Week",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "06-14":  [
+                               {
+                                   "name":  "ପହିଲି ରଜ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Blood Donor Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "06-15":  [
+                               {
+                                   "name":  "ରଜ ସଂକ୍ରାନ୍ତି",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Elder Abuse Awareness Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "06-16":  [
+                               {
+                                   "name":  "ଶୁଦ୍ଧ ମାସ ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Continence Week",
+                                   "type":  "ଜାଗରୁକତା ସପ୍ତାହ"
+                               }
+                           ],
+                 "06-18":  [
+                               {
+                                   "name":  "ଶିବ ବିବାହୋତ୍ସବ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "Autistic Pride Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "06-19":  [
+                               {
+                                   "name":  "ଶୀତଳ ଷଷ୍ଠୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Sickle Cell Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "World Kidney Cancer Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "06-21":  [
+                               {
+                                   "name":  "International Day of Yoga",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "06-25":  [
+                               {
+                                   "name":  "ନିର୍ଜଳା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Vitiligo Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "06-26":  [
+                               {
+                                   "name":  "ଚମ୍ପକ ଦ୍ୱାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ମହରମ୍",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               },
+                               {
+                                   "name":  "Intl. Day against Drug Abuse",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "06-29":  [
+                               {
+                                   "name":  "ଦେବସ୍ନାନ ପୂର୍ଣ୍ଣିମା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Allergy Week",
+                                   "type":  "ଜାଗରୁକତା ସପ୍ତାହ"
+                               }
+                           ],
+                 "07-01":  [
+                               {
+                                   "name":  "National Doctors Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "Sarcoma Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               }
+                           ],
+                 "07-06":  [
+                               {
+                                   "name":  "ରଥ ଟଣା ଅନୁକୂଳ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "07-11":  [
+                               {
+                                   "name":  "ଖଳିଲାଗି ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Population Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "07-14":  [
+                               {
+                                   "name":  "ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ନେତ୍ରୋତ୍ସବ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "07-16":  [
+                               {
+                                   "name":  "ଶ୍ରୀଗୁଣ୍ଡିଚା (ରଥଯାତ୍ରା)",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "କର୍କଟ ସଂକ୍ରାନ୍ତି",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "07-20":  [
+                               {
+                                   "name":  "ହେରା ପଞ୍ଚମୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "07-22":  [
+                               {
+                                   "name":  "World Brain Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "07-23":  [
+                               {
+                                   "name":  "World Sjogren’s Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "07-24":  [
+                               {
+                                   "name":  "ବାହୁଡ଼ା ଯାତ୍ରା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "International Self-care Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "07-25":  [
+                               {
+                                   "name":  "ସୁନାବେଶ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ହରିଶୟନ ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World IVF Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "07-27":  [
+                               {
+                                   "name":  "ନୀଳାଦ୍ରି ବିଜେ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "07-28":  [
+                               {
+                                   "name":  "World Hepatitis Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "07-29":  [
+                               {
+                                   "name":  "ବ୍ୟାସ ପୂର୍ଣ୍ଣିମା (ଗୁରୁ ପୂର୍ଣ୍ଣିମା)",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World ORS Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "08-01":  [
+                               {
+                                   "name":  "World Lung Cancer Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "World Breastfeeding Week",
+                                   "type":  "ଜାଗରୁକତା ସପ୍ତାହ"
+                               }
+                           ],
+                 "08-03":  [
+                               {
+                                   "name":  "ବୋଲବମ୍ ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "Indian Organ Donation Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "08-09":  [
+                               {
+                                   "name":  "କାମଦା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "08-12":  [
+                               {
+                                   "name":  "ଚିତାଲାଗି ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "08-13":  [
+                               {
+                                   "name":  "World Organ Donation Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "08-15":  [
+                               {
+                                   "name":  "୮୦ ତମ ସ୍ୱାଧୀନତା ଦିବସ",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               },
+                               {
+                                   "name":  "ଶ୍ରୀ ଅରବିନ୍ଦ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "08-22":  [
+                               {
+                                   "name":  "ଝୁଲଣ ଯାତ୍ରା ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "08-23":  [
+                               {
+                                   "name":  "ପୁତ୍ରଦା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "08-26":  [
+                               {
+                                   "name":  "ମହାପୁରୁଷ ମହମ୍ମଦଙ୍କ ଜନ୍ମ ଦିବସ",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "08-27":  [
+                               {
+                                   "name":  "ବଳଭଦ୍ର ଜନ୍ମ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ରାକ୍ଷୀ ପୂର୍ଣ୍ଣିମା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଗହ୍ମା ପର୍ବ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "08-30":  [
+                               {
+                                   "name":  "ଖୁଦୁରୁକୁଣୀ ଓଷା ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "08-31":  [
+                               {
+                                   "name":  "International Overdose Awareness Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-01":  [
+                               {
+                                   "name":  "PCOS Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               },
+                               {
+                                   "name":  "National Nutrition Week",
+                                   "type":  "ଜାଗରୁକତା ସପ୍ତାହ"
+                               }
+                           ],
+                 "09-04":  [
+                               {
+                                   "name":  "ଶ୍ରୀକୃଷ୍ଣ ଜନ୍ମାଷ୍ଟମୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "09-05":  [
+                               {
+                                   "name":  "ନନ୍ଦୋତ୍ସବ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଗୁରୁ ଦିବସ",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-07":  [
+                               {
+                                   "name":  "କାଳୀୟଦଳନ ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "09-08":  [
+                               {
+                                   "name":  "World Physiotherapy Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-10":  [
+                               {
+                                   "name":  "ସପ୍ତପୁରୀ ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Suicide Prevention Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-13":  [
+                               {
+                                   "name":  "World First Aid Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "World Sepsis Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-14":  [
+                               {
+                                   "name":  "ଶ୍ରୀ ଗଣେଶ ଚତୁର୍ଥୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "09-15":  [
+                               {
+                                   "name":  "ନୂଆଖାଇ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Lymphoma Awareness Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "World Mitochondrial Disease Week",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-17":  [
+                               {
+                                   "name":  "ବିଶ୍ୱକର୍ମା ପୂଜା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "କନ୍ୟା ସଂକ୍ରାନ୍ତି",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Patient Safety Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-19":  [
+                               {
+                                   "name":  "ଶ୍ରୀ ରାଧାଷ୍ଟମୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "09-20":  [
+                               {
+                                   "name":  "Usher Syndrome Awareness Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-21":  [
+                               {
+                                   "name":  "World Alzheimer\u0027s Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-22":  [
+                               {
+                                   "name":  "ପାର୍ଶ୍ଵପରିବର୍ତ୍ତନ ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "09-23":  [
+                               {
+                                   "name":  "ବାମନ ଜନ୍ମ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ସୁନିଆଁ (ଓଡ଼ିଆ ନୂତନ ବର୍ଷ)",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "09-25":  [
+                               {
+                                   "name":  "ଅନନ୍ତ ବ୍ରତ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Lung Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "World Pharmacists Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-26":  [
+                               {
+                                   "name":  "ଇନ୍ଦ୍ରୋତ୍ସବ ପୂର୍ଣ୍ଣିମା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଭାଗବତ ଜନ୍ମ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Contraception Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-28":  [
+                               {
+                                   "name":  "World Rabies Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "09-29":  [
+                               {
+                                   "name":  "World Heart Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-01":  [
+                               {
+                                   "name":  "ଗଜ ଷଷ୍ଠୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "Breast Cancer Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               }
+                           ],
+                 "10-02":  [
+                               {
+                                   "name":  "ଗାନ୍ଧୀ ଜୟନ୍ତୀ",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               },
+                               {
+                                   "name":  "ଶାସ୍ତ୍ରୀ ଜୟନ୍ତୀ",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               }
+                           ],
+                 "10-03":  [
+                               {
+                                   "name":  "ଶ୍ରୀ ଦୁର୍ଗା ଦେବ୍ୟୋତ୍‌ଥାପନ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ସହସ୍ର କୁମ୍ଭାଭିଷେକ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଷୋଡଶ ପୂଜା ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ମୂଳାଷ୍ଟମୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "10-05":  [
+                               {
+                                   "name":  "World Meningitis Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-06":  [
+                               {
+                                   "name":  "ଇନ୍ଦିରା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Cerebral Palsy Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-09":  [
+                               {
+                                   "name":  "ଶିବ ଚତୁର୍ଦ୍ଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ବେଢ଼ା ପରିକ୍ରମା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Sight Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-10":  [
+                               {
+                                   "name":  "ମହାଳୟା ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଚନ୍ଦ୍ରକ୍ଷୟ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ନିଶିପାଳନ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Mental Health Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-11":  [
+                               {
+                                   "name":  "ଶ୍ରୀ ଦୁର୍ଗା ଦେବ୍ୟା ନବଦିନାତ୍ମକ ପୂଜାରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ମା ବିରଜାଙ୍କ ରଥଯାତ୍ରା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "10-12":  [
+                               {
+                                   "name":  "ଚନ୍ଦ୍ର ଦର୍ଶନ ପୂଜା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Arthritis Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-13":  [
+                               {
+                                   "name":  "World Thrombosis Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-14":  [
+                               {
+                                   "name":  "ଶରଣ ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "10-15":  [
+                               {
+                                   "name":  "ନେତା ପଞ୍ଚମୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ମା’ ବିରଜାଙ୍କ ପଞ୍ଚମୀ ହୋମ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "Global Handwashing Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-16":  [
+                               {
+                                   "name":  "ତପା ଷଷ୍ଠୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ମୃଣ୍ମୟୀ ଦେବୀଙ୍କ ବିଲ୍ଵଧିବାସ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Food Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "Spine Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-17":  [
+                               {
+                                   "name":  "ମହାସପ୍ତମୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଗର୍ଭଣା ସଂକ୍ରାନ୍ତି",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ତୁଳା ସଂକ୍ରାନ୍ତି",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Trauma Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-18":  [
+                               {
+                                   "name":  "ମହାଷ୍ଟମୀ ପୂଜା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଶରଣ ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "10-19":  [
+                               {
+                                   "name":  "ମହାନବମୀ ପୂଜା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Paediatric Bone and Joint Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-20":  [
+                               {
+                                   "name":  "ବିଜୟା ଦଶମୀ (ଦଶହରା)",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Osteoporosis Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-21":  [
+                               {
+                                   "name":  "ଶ୍ରୀମନ୍ଦିରରେ ଦଶହରା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ସୋମନାଥ ବ୍ରତ ସମାପନ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଭସାଣି",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Iodine Deficiency Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-22":  [
+                               {
+                                   "name":  "ପାପାଙ୍କୁଶା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "International Stuttering Awareness Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-24":  [
+                               {
+                                   "name":  "ଶିବ ଚତୁର୍ଦ୍ଦଶୀ ଉପବାସ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Polio Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "10-25":  [
+                               {
+                                   "name":  "କୁମାର ପୂର୍ଣ୍ଣିମା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଗଜଲକ୍ଷ୍ମୀ ପୂଜା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଚନ୍ଦ୍ରପୂଜା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "Intl. Brain Tumour Awareness Week",
+                                   "type":  "ଜାଗରୁକତା ସପ୍ତାହ"
+                               }
+                           ],
+                 "10-26":  [
+                               {
+                                   "name":  "କାର୍ତ୍ତିକ ବ୍ରତାରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ପଣ୍ଡିତ ବିଷ୍ଣୁ ପ୍ରସାଦ ଖଡ଼ୀରତ୍ନଙ୍କ ଶ୍ରାଦ୍ଧ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "10-29":  [
+                               {
+                                   "name":  "World Stroke Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "World Psoriasis Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "11-01":  [
+                               {
+                                   "name":  "Pancreatic Cancer Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               },
+                               {
+                                   "name":  "Lung Cancer Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               },
+                               {
+                                   "name":  "Stomach Cancer Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               },
+                               {
+                                   "name":  "Prostate Cancer Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               }
+                           ],
+                 "11-05":  [
+                               {
+                                   "name":  "ରମା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "11-07":  [
+                               {
+                                   "name":  "National Cancer Awareness Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "11-08":  [
+                               {
+                                   "name":  "ଦୀପାବଳୀ",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               },
+                               {
+                                   "name":  "ଶ୍ୟାମାକାଳୀ ପୂଜା",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Radiography Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "11-09":  [
+                               {
+                                   "name":  "କାର୍ତ୍ତିକ ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "11-10":  [
+                               {
+                                   "name":  "World Immunization Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "World Keratoconus Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "11-12":  [
+                               {
+                                   "name":  "World Pneumonia Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "11-14":  [
+                               {
+                                   "name":  "କାର୍ତ୍ତିକ ପୂର୍ଣ୍ଣିମା (ରାସ ପୂର୍ଣ୍ଣିମା, ବାଲିଯାତ୍ରା)",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Diabetes Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "11-15":  [
+                               {
+                                   "name":  "National Newborn Care Week",
+                                   "type":  "ଜାଗରୁକତା ସପ୍ତାହ"
+                               }
+                           ],
+                 "11-16":  [
+                               {
+                                   "name":  "World Day of Remembrance for Road Traffic Victims",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "11-17":  [
+                               {
+                                   "name":  "ଅଁଳା ନବମୀ (ରାଧାପାଦ ଦର୍ଶନ)",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World Prematurity Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "National Epilepsy Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "Cervical Cancer Action Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "11-18":  [
+                               {
+                                   "name":  "World Antimicrobial Awareness Week",
+                                   "type":  "ଜାଗରୁକତା ସପ୍ତାହ"
+                               }
+                           ],
+                 "11-19":  [
+                               {
+                                   "name":  "World COPD Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "11-20":  [
+                               {
+                                   "name":  "World Pancreatic Cancer Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "11-26":  [
+                               {
+                                   "name":  "ମାର୍ଗଶୀର ଗୁରୁବାର ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "12-01":  [
+                               {
+                                   "name":  "ପ୍ରଥମାଷ୍ଟମୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "World AIDS Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               },
+                               {
+                                   "name":  "Constipation Awareness Month",
+                                   "type":  "ଜାଗରୁକତା ମାସ"
+                               }
+                           ],
+                 "12-03":  [
+                               {
+                                   "name":  "ମାଣବସା ଗୁରୁବାର",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "Intl. Day of Persons with Disabilities",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "12-04":  [
+                               {
+                                   "name":  "ଉତ୍ପନ୍ନା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "12-08":  [
+                               {
+                                   "name":  "ମହୋଦଧି ଅମାବାସ୍ୟା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "12-12":  [
+                               {
+                                   "name":  "International Universal Health Coverage Day",
+                                   "type":  "ଜାଗରୁକତା ଦିବସ"
+                               }
+                           ],
+                 "12-16":  [
+                               {
+                                   "name":  "ଧନୁ ସଂକ୍ରାନ୍ତି",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ପହିଲି ଭୋଗ ଆରମ୍ଭ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "12-18":  [
+                               {
+                                   "name":  "ମୋକ୍ଷଦା ଏକାଦଶୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଗୀତା ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "12-23":  [
+                               {
+                                   "name":  "ପଣ୍ଡୁ ଓଷା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "12-24":  [
+                               {
+                                   "name":  "ପୂର୍ଣ୍ଣିମା",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ],
+                 "12-25":  [
+                               {
+                                   "name":  "ଯୀଶୁଖ୍ରୀଷ୍ଟଙ୍କ ଜନ୍ମ (ବଡ଼ଦିନ)",
+                                   "type":  "ସାର୍ବଜନିକ ଛୁଟି"
+                               }
+                           ],
+                 "12-31":  [
+                               {
+                                   "name":  "ପଠାଣି ସାମନ୍ତ ଜୟନ୍ତୀ",
+                                   "type":  "ପର୍ବ"
+                               },
+                               {
+                                   "name":  "ଇଂରାଜୀ ବର୍ଷ ଶେଷ",
+                                   "type":  "ପର୍ବ"
+                               }
+                           ]
+             }
 }

@@ -1,814 +1,1770 @@
 {
-  "2026": {
-    "01-01": [
-      {
-        "name": "Cervical Health Awareness Month",
-        "type": "awareness month"
-      }
-    ],
-    "01-25": [
-      {
-        "name": "World Leprosy Day",
-        "type": "awareness day"
-      }
-    ],
-    "01-30": [
-      {
-        "name": "World Neglected Tropical Diseases Day",
-        "type": "awareness day"
-      }
-    ],
-    "02-04": [
-      {
-        "name": "World Cancer Day",
-        "type": "awareness day"
-      }
-    ],
-    "02-09": [
-      {
-        "name": "Toothache Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "International Epilepsy Day",
-        "type": "awareness day"
-      }
-    ],
-    "02-28": [
-      {
-        "name": "Rare Disease Day",
-        "type": "awareness day"
-      }
-    ],
-    "03-03": [
-      {
-        "name": "World Hearing Day",
-        "type": "awareness day"
-      }
-    ],
-    "03-04": [
-      {
-        "name": "World Obesity Day",
-        "type": "awareness day"
-      }
-    ],
-    "03-05": [
-      {
-        "name": "National Dissociative Identity Disorder Awareness Day (Multiple Personality Day)",
-        "type": "awareness day"
-      }
-    ],
-    "03-08": [
-      {
-        "name": "International Women's Day",
-        "type": "awareness day"
-      }
-    ],
-    "03-13": [
-      {
-        "name": "World Kidney Day",
-        "type": "awareness day"
-      }
-    ],
-    "03-16": [
-      {
-        "name": "National Immunization Day",
-        "type": "awareness day"
-      }
-    ],
-    "03-20": [
-      {
-        "name": "World Oral Health Day",
-        "type": "awareness day"
-      }
-    ],
-    "03-21": [
-      {
-        "name": "World Down Syndrome Day",
-        "type": "awareness day"
-      }
-    ],
-    "03-22": [
-      {
-        "name": "World Water Day",
-        "type": "awareness day"
-      }
-    ],
-    "03-24": [
-      {
-        "name": "World Tuberculosis Day",
-        "type": "awareness day"
-      }
-    ],
-    "03-30": [
-      {
-        "name": "World Bipolar Day",
-        "type": "awareness day"
-      }
-    ],
-    "04-01": [
-      {
-        "name": "Irritable Bowel Syndrome (IBS) Awareness Month",
-        "type": "awareness month"
-      },
-      {
-        "name": "Stress Awareness Month",
-        "type": "awareness month"
-      },
-      {
-        "name": "International Cesarean Awareness Month",
-        "type": "awareness month"
-      }
-    ],
-    "04-02": [
-      {
-        "name": "World Autism Awareness Day",
-        "type": "awareness day"
-      }
-    ],
-    "04-03": [
-      {
-        "name": "Good Friday",
-        "type": "public holiday"
-      },
-      {
-        "name": "Hanuman Dhyan Reminder",
-        "type": "devotional highlight"
-      }
-    ],
-    "04-07": [
-      {
-        "name": "World Health Day",
-        "type": "awareness day"
-      }
-    ],
-    "04-11": [
-      {
-        "name": "World Parkinson's Disease Day",
-        "type": "awareness day"
-      }
-    ],
-    "04-14": [
-      {
-        "name": "World Chagas Disease Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "Baisakhi",
-        "type": "festival"
-      }
-    ],
-    "04-17": [
-      {
-        "name": "World Hemophilia Day",
-        "type": "awareness day"
-      }
-    ],
-    "04-19": [
-      {
-        "name": "World Liver Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Irritable Bowel Syndrome Day",
-        "type": "awareness day"
-      }
-    ],
-    "04-22": [
-      {
-        "name": "Earth Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Primary Immunodeficiency Week",
-        "type": "awareness week"
-      }
-    ],
-    "04-24": [
-      {
-        "name": "World Immunization Week",
-        "type": "awareness week"
-      }
-    ],
-    "04-25": [
-      {
-        "name": "World Malaria Day",
-        "type": "awareness day"
-      }
-    ],
-    "04-28": [
-      {
-        "name": "World Day for Safety and Health at Work",
-        "type": "awareness day"
-      }
-    ],
-    "05-03": [
-      {
-        "name": "World Ankylosing Spondylitis Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-05": [
-      {
-        "name": "World Hand Hygiene Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-06": [
-      {
-        "name": "World Asthma Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-08": [
-      {
-        "name": "World Thalassaemia Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Ovarian Cancer Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-10": [
-      {
-        "name": "World Lupus Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-12": [
-      {
-        "name": "Chronic Fatigue Syndrome Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "International Nurses Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-15": [
-      {
-        "name": "International Kangaroo Care Awareness",
-        "type": "awareness day"
-      }
-    ],
-    "05-17": [
-      {
-        "name": "World Hypertension Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-18": [
-      {
-        "name": "World AIDS Vaccine Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-19": [
-      {
-        "name": "World Inflammatory Bowel Disease Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-22": [
-      {
-        "name": "World Preeclampsia Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-25": [
-      {
-        "name": "World Thyroid Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-29": [
-      {
-        "name": "World Digestive Health Day (WDHD)",
-        "type": "awareness day"
-      }
-    ],
-    "05-30": [
-      {
-        "name": "World Multiple Sclerosis Day",
-        "type": "awareness day"
-      }
-    ],
-    "05-31": [
-      {
-        "name": "World No Tobacco Day",
-        "type": "awareness day"
-      }
-    ],
-    "06-01": [
-      {
-        "name": "Alzheimer’s & Brain Awareness Month",
-        "type": "awareness month"
-      },
-      {
-        "name": "Migraine and Headache Awareness Month",
-        "type": "awareness month"
-      },
-      {
-        "name": "Cancer Immunotherapy Month",
-        "type": "awareness month"
-      }
-    ],
-    "06-05": [
-      {
-        "name": "World Environment Day",
-        "type": "awareness day"
-      }
-    ],
-    "06-08": [
-      {
-        "name": "World Brain Tumor Day",
-        "type": "awareness day"
-      }
-    ],
-    "06-09": [
-      {
-        "name": "International Men’s Health Week",
-        "type": "awareness week"
-      }
-    ],
-    "06-14": [
-      {
-        "name": "World Blood Donor Day",
-        "type": "awareness day"
-      }
-    ],
-    "06-15": [
-      {
-        "name": "World Elder Abuse Awareness Day",
-        "type": "awareness day"
-      }
-    ],
-    "06-16": [
-      {
-        "name": "World Continence Week",
-        "type": "awareness week"
-      }
-    ],
-    "06-18": [
-      {
-        "name": "Autistic Pride Day",
-        "type": "awareness day"
-      }
-    ],
-    "06-19": [
-      {
-        "name": "World Kidney Cancer Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Sickle Cell Day",
-        "type": "awareness day"
-      }
-    ],
-    "06-21": [
-      {
-        "name": "International Day of Yoga",
-        "type": "awareness day"
-      }
-    ],
-    "06-25": [
-      {
-        "name": "World Vitiligo Day",
-        "type": "awareness day"
-      }
-    ],
-    "06-26": [
-      {
-        "name": "International Day against Drug Abuse and Illicit Trafficking",
-        "type": "awareness day"
-      }
-    ],
-    "06-29": [
-      {
-        "name": "World Allergy Week",
-        "type": "awareness week"
-      }
-    ],
-    "07-01": [
-      {
-        "name": "National Doctors Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "Sarcoma or Bone Cancer Awareness Month",
-        "type": "awareness month"
-      }
-    ],
-    "07-11": [
-      {
-        "name": "World Population Day",
-        "type": "awareness day"
-      }
-    ],
-    "07-22": [
-      {
-        "name": "World Brain Day / International brain day",
-        "type": "awareness day"
-      }
-    ],
-    "07-23": [
-      {
-        "name": "World Sjogren’s Day",
-        "type": "awareness day"
-      }
-    ],
-    "07-24": [
-      {
-        "name": "International Self-care Day",
-        "type": "awareness day"
-      }
-    ],
-    "07-25": [
-      {
-        "name": "World IVF Day",
-        "type": "awareness day"
-      }
-    ],
-    "07-28": [
-      {
-        "name": "World Hepatitis Day",
-        "type": "awareness day"
-      }
-    ],
-    "07-29": [
-      {
-        "name": "World ORS day",
-        "type": "awareness day"
-      }
-    ],
-    "08-01": [
-      {
-        "name": "World Lung Cancer Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Breastfeeding Week",
-        "type": "awareness week"
-      }
-    ],
-    "08-03": [
-      {
-        "name": "Indian Organ Donation Day",
-        "type": "awareness day"
-      }
-    ],
-    "08-13": [
-      {
-        "name": "World Organ Donation Day",
-        "type": "awareness day"
-      }
-    ],
-    "08-31": [
-      {
-        "name": "International Overdose Awareness Day",
-        "type": "awareness day"
-      }
-    ],
-    "09-01": [
-      {
-        "name": "Polycystic Ovary Syndrome (PCOS) Awareness Month",
-        "type": "awareness month"
-      },
-      {
-        "name": "National Nutrition Week",
-        "type": "awareness week"
-      }
-    ],
-    "09-08": [
-      {
-        "name": "World Physiotherapy Day",
-        "type": "awareness day"
-      }
-    ],
-    "09-10": [
-      {
-        "name": "World Suicide Prevention Day",
-        "type": "awareness day"
-      }
-    ],
-    "09-13": [
-      {
-        "name": "World First Aid Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Sepsis Day",
-        "type": "awareness day"
-      }
-    ],
-    "09-15": [
-      {
-        "name": "World Lymphoma Awareness Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Mitochondrial Disease Week",
-        "type": "awareness week"
-      }
-    ],
-    "09-17": [
-      {
-        "name": "World Patient Safety Day",
-        "type": "awareness day"
-      }
-    ],
-    "09-20": [
-      {
-        "name": "Usher Syndrome Awareness Day",
-        "type": "awareness day"
-      }
-    ],
-    "09-21": [
-      {
-        "name": "World Alzheimer's Day",
-        "type": "awareness day"
-      }
-    ],
-    "09-25": [
-      {
-        "name": "World Lung Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Pharmacists Day",
-        "type": "awareness day"
-      }
-    ],
-    "09-26": [
-      {
-        "name": "World Contraception Day",
-        "type": "awareness day"
-      }
-    ],
-    "09-28": [
-      {
-        "name": "World Rabies Day",
-        "type": "awareness day"
-      }
-    ],
-    "09-29": [
-      {
-        "name": "World Heart Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-01": [
-      {
-        "name": "International Day for Older Persons / World Elders Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "Breast Cancer Awareness Month",
-        "type": "awareness month"
-      },
-      {
-        "name": "Rett Syndrome Awareness Month",
-        "type": "awareness month"
-      }
-    ],
-    "10-05": [
-      {
-        "name": "World Meningitis Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-06": [
-      {
-        "name": "World Cerebral Palsy Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-09": [
-      {
-        "name": "World Sight Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-10": [
-      {
-        "name": "World Mental Health Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-12": [
-      {
-        "name": "World Arthritis Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-13": [
-      {
-        "name": "World Thrombosis Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-15": [
-      {
-        "name": "World Pregnancy & Infant Loss Remembrance Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "Global Handwashing Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-16": [
-      {
-        "name": "World Spine Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Anaesthesia Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Food Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-17": [
-      {
-        "name": "World Trauma Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-19": [
-      {
-        "name": "World Paediatric Bone and Joint Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "International Infection Prevention Week",
-        "type": "awareness week"
-      }
-    ],
-    "10-20": [
-      {
-        "name": "World Osteoporosis Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-21": [
-      {
-        "name": "World Iodine Deficiency Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-22": [
-      {
-        "name": "International Stuttering Awareness Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-24": [
-      {
-        "name": "World Polio Day",
-        "type": "awareness day"
-      }
-    ],
-    "10-25": [
-      {
-        "name": "International Brain Tumour Awareness Week",
-        "type": "awareness week"
-      }
-    ],
-    "10-29": [
-      {
-        "name": "World Stroke Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Psoriasis Day",
-        "type": "awareness day"
-      }
-    ],
-    "11-01": [
-      {
-        "name": "Pancreatic Cancer Awareness Month",
-        "type": "awareness month"
-      },
-      {
-        "name": "Lung Cancer Awareness Month",
-        "type": "awareness month"
-      },
-      {
-        "name": "Stomach Cancer Awareness Month",
-        "type": "awareness month"
-      },
-      {
-        "name": "Prostate Cancer Awareness Month / Prostate Health Month",
-        "type": "awareness month"
-      }
-    ],
-    "11-07": [
-      {
-        "name": "National Cancer Awareness Day",
-        "type": "awareness day"
-      }
-    ],
-    "11-08": [
-      {
-        "name": "World Radiography Day",
-        "type": "awareness day"
-      }
-    ],
-    "11-10": [
-      {
-        "name": "World Immunization Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Keratoconus Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "World Neuroendocrine Cancer Day",
-        "type": "awareness day"
-      }
-    ],
-    "11-12": [
-      {
-        "name": "World Pneumonia Day",
-        "type": "awareness day"
-      }
-    ],
-    "11-14": [
-      {
-        "name": "World Diabetes Day",
-        "type": "awareness day"
-      }
-    ],
-    "11-15": [
-      {
-        "name": "National Newborn Care Week",
-        "type": "awareness week"
-      }
-    ],
-    "11-16": [
-      {
-        "name": "World Day of Remembrance for Road Traffic Victims",
-        "type": "awareness day"
-      }
-    ],
-    "11-17": [
-      {
-        "name": "World Prematurity Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "National Epilepsy Day",
-        "type": "awareness day"
-      },
-      {
-        "name": "Cervical Cancer Elimination Day of Action",
-        "type": "awareness day"
-      }
-    ],
-    "11-18": [
-      {
-        "name": "World Antimicrobial Awareness Week / World Antibiotics Awareness Week",
-        "type": "awareness week"
-      }
-    ],
-    "11-19": [
-      {
-        "name": "World COPD Day",
-        "type": "awareness day"
-      }
-    ],
-    "11-20": [
-      {
-        "name": "World Pancreatic Cancer Day",
-        "type": "awareness day"
-      }
-    ],
-    "12-01": [
-      {
-        "name": "Constipation Awareness Month",
-        "type": "awareness month"
-      },
-      {
-        "name": "World AIDS Day",
-        "type": "awareness day"
-      }
-    ],
-    "12-03": [
-      {
-        "name": "International Day of Persons with Disabilities / World Diabled Day",
-        "type": "awareness day"
-      }
-    ],
-    "12-12": [
-      {
-        "name": "International Universal Health Coverage Day",
-        "type": "awareness day"
-      }
-    ]
-  }
+    "2026":  {
+                 "01-01":  [
+                               {
+                                   "name":  "New Year\u0027s Day",
+                                   "type":  "public holiday"
+                               },
+                               {
+                                   "name":  "Cervical Health Awareness Month",
+                                   "type":  "awareness month"
+                               }
+                           ],
+                 "01-02":  [
+                               {
+                                   "name":  "Puurnnimaara Chandra Puujaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Shiba Chaturddashii Upabaasa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Bedhaାparikramaa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-03":  [
+                               {
+                                   "name":  "Debaabhisheka Puurnnimaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Maagha Snaanaarambha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Mahodadhi Aaratii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-05":  [
+                               {
+                                   "name":  "Puushyaabhisheka",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Raajaabhisheka",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-06":  [
+                               {
+                                   "name":  "Samkata Chaturthii Brata",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-12":  [
+                               {
+                                   "name":  "Svaamii Bibekaananda Jayantii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-13":  [
+                               {
+                                   "name":  "Nabaangka Bedhaା",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Maasaanta",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-14":  [
+                               {
+                                   "name":  "Uttaraayana Makara Samkraanti",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Shattilaa Ekaadashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Olaashuni Melaa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-16":  [
+                               {
+                                   "name":  "Ratantii Kaalii Puujaa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-17":  [
+                               {
+                                   "name":  "Ratantii Chaturddashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Shiba Chaturddashii Upabaasa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-18":  [
+                               {
+                                   "name":  "Tribenii Amaabaasyaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Maa Birajaa Birth Festival",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Abhiraama Paramahamsa Jayantii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-21":  [
+                               {
+                                   "name":  "Shriijagannaathangka Padmamukha Besha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Baradaa Chaturthii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-23":  [
+                               {
+                                   "name":  "Basantotsaba",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Rathakaatha Anukuula",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Netaajii Jayantii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Biira Surendra Saae Jayantii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-25":  [
+                               {
+                                   "name":  "Maagha Saptamii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Chandrabhaagaa Snaana",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Leprosy Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "01-26":  [
+                               {
+                                   "name":  "Bhiishmaashtamii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "77th Republic Day",
+                                   "type":  "public holiday"
+                               }
+                           ],
+                 "01-29":  [
+                               {
+                                   "name":  "Bhaumii Ekaadashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Byaasa Sarobara Melaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Lakshmiinaaraayana Brata",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "01-30":  [
+                               {
+                                   "name":  "World Neglected Tropical Diseases Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "01-31":  [
+                               {
+                                   "name":  "Nityaananda Prabhu Birth Festival",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Shiba Chaturddashii Upabaasa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "02-01":  [
+                               {
+                                   "name":  "Maagha Puurnnimaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Shriijagannaathangka Raajaabhisheka Besha",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "02-04":  [
+                               {
+                                   "name":  "Shabe-Baraat",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Madhusuudana Daasangka Tirodhaana Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "World Cancer Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "02-09":  [
+                               {
+                                   "name":  "Toothache Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "International Epilepsy Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "02-12":  [
+                               {
+                                   "name":  "Svaamii Dayaananda Sarasvatii Jayantii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "02-13":  [
+                               {
+                                   "name":  "Phaalaguna Shukla Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "02-15":  [
+                               {
+                                   "name":  "Mahaa Shibaraatrii (Jaagara Upabaasa)",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "02-17":  [
+                               {
+                                   "name":  "Amaabaasyaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Gosahasraa Snaana",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "02-19":  [
+                               {
+                                   "name":  "Ramajaana Maasa Aarambha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Raamakrishna Paramahamsa Jayantii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "02-26":  [
+                               {
+                                   "name":  "Phagu Dashamii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Sudashaa Brata",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Shriijiiungka Chaacherii Besha",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "02-27":  [
+                               {
+                                   "name":  "Paapa Naashinii Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "02-28":  [
+                               {
+                                   "name":  "Gobinda Dvaadashii Snaana",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Rare Disease Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-01":  [
+                               {
+                                   "name":  "Abhimanyu Melana (Kataka)",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "03-02":  [
+                               {
+                                   "name":  "Baraaha Dola",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Shiba Chaturddashii Upabaasa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "03-03":  [
+                               {
+                                   "name":  "Dola Puurnnimaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Shrii Chaitanya Jayantii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Chandragrahana",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Hearing Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-04":  [
+                               {
+                                   "name":  "Holi Festival",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Obesity Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-05":  [
+                               {
+                                   "name":  "National Dissociative Identity Disorder Awareness Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-08":  [
+                               {
+                                   "name":  "International Women\u0027s Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-13":  [
+                               {
+                                   "name":  "World Kidney Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-14":  [
+                               {
+                                   "name":  "Paapamochanaa Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "03-16":  [
+                               {
+                                   "name":  "National Immunization Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-17":  [
+                               {
+                                   "name":  "Baarunii Snaana",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Taaraataarinii Yaatraa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "03-19":  [
+                               {
+                                   "name":  "Madhu Amaabaasyaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Telugu Nuutana Barsha (Ugaadi)",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "03-20":  [
+                               {
+                                   "name":  "Jamaatula-Bidaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Oral Health Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-21":  [
+                               {
+                                   "name":  "Eid-ul-Fitr",
+                                   "type":  "public holiday"
+                               },
+                               {
+                                   "name":  "World Down Syndrome Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-22":  [
+                               {
+                                   "name":  "Baasantii Durgaa Puujaa Aarambha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Water Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-24":  [
+                               {
+                                   "name":  "World Tuberculosis Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-26":  [
+                               {
+                                   "name":  "Ashokaashtamii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Shrii Linggaraajangka Rathayaatraa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "03-27":  [
+                               {
+                                   "name":  "Shriiraama Nabamii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "03-29":  [
+                               {
+                                   "name":  "Kaamadaa Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "03-30":  [
+                               {
+                                   "name":  "World Bipolar Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "03-31":  [
+                               {
+                                   "name":  "Mahaabiira Jayantii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Shiba Chaturddashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "04-01":  [
+                               {
+                                   "name":  "Utkala Dibasa",
+                                   "type":  "public holiday"
+                               },
+                               {
+                                   "name":  "IBS Awareness Month",
+                                   "type":  "awareness month"
+                               },
+                               {
+                                   "name":  "Stress Awareness Month",
+                                   "type":  "awareness month"
+                               }
+                           ],
+                 "04-02":  [
+                               {
+                                   "name":  "Chaitra Puurnnimaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Baishaakha Brataarambha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Autism Awareness Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "04-03":  [
+                               {
+                                   "name":  "Good Friday",
+                                   "type":  "public holiday"
+                               },
+                               {
+                                   "name":  "Langkaapodi Festival",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "04-07":  [
+                               {
+                                   "name":  "World Health Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "04-11":  [
+                               {
+                                   "name":  "World Parkinson\u0027s Disease Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "04-13":  [
+                               {
+                                   "name":  "Baruthinii Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "04-14":  [
+                               {
+                                   "name":  "Mahaabishubha Panaa Samkraanti",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Hanumaana Jayantii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Chagas Disease Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "Baishaakhii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "04-17":  [
+                               {
+                                   "name":  "Rukminii Amaabaasyaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Hemophilia Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "04-19":  [
+                               {
+                                   "name":  "Parshuraama Jayantii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Liver Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "World IBS Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "04-20":  [
+                               {
+                                   "name":  "Akshaya Tritiiyaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Chandana Yaatraa Aarambha",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "04-21":  [
+                               {
+                                   "name":  "Aadi Shangkaraachaaryya Jayantii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "04-22":  [
+                               {
+                                   "name":  "Shrii Raamaanujaachaaryya Jayantii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Earth Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "04-24":  [
+                               {
+                                   "name":  "Niilaadri Mahodaya",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Primary Immunodeficiency Week",
+                                   "type":  "awareness week"
+                               }
+                           ],
+                 "04-25":  [
+                               {
+                                   "name":  "Siitaa Nabamii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Malaria Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "04-27":  [
+                               {
+                                   "name":  "Mohinii Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "04-28":  [
+                               {
+                                   "name":  "Madhusuudana Daasa Jayantii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Day for Safety and Health at Work",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "04-30":  [
+                               {
+                                   "name":  "Nrisimha Birth Chaturddashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "05-01":  [
+                               {
+                                   "name":  "Labour Day",
+                                   "type":  "public holiday"
+                               },
+                               {
+                                   "name":  "Buddha Jayanti",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Chandana Puurnnimaa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "05-03":  [
+                               {
+                                   "name":  "World Ankylosing Spondylitis Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-05":  [
+                               {
+                                   "name":  "World Hand Hygiene Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-06":  [
+                               {
+                                   "name":  "World Asthma Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-08":  [
+                               {
+                                   "name":  "World Thalassaemia Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "World Ovarian Cancer Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-10":  [
+                               {
+                                   "name":  "World Lupus Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-12":  [
+                               {
+                                   "name":  "Chronic Fatigue Syndrome Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "International Nurses Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-13":  [
+                               {
+                                   "name":  "Jalakriidaa Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "05-15":  [
+                               {
+                                   "name":  "Rukminii Samkraanti",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "International Kangaroo Care Awareness",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-16":  [
+                               {
+                                   "name":  "Saabitrii Brata",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Amaabaasyaa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "05-17":  [
+                               {
+                                   "name":  "Malamaasa Aarambha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Hypertension Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-18":  [
+                               {
+                                   "name":  "World AIDS Vaccine Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-19":  [
+                               {
+                                   "name":  "World Inflammatory Bowel Disease Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-22":  [
+                               {
+                                   "name":  "World Preeclampsia Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-25":  [
+                               {
+                                   "name":  "World Thyroid Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-27":  [
+                               {
+                                   "name":  "Purushottamii Ekaadashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Eid-ul-Zuha",
+                                   "type":  "public holiday"
+                               }
+                           ],
+                 "05-29":  [
+                               {
+                                   "name":  "World Digestive Health Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-30":  [
+                               {
+                                   "name":  "Mala Puurnnimaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Multiple Sclerosis Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "05-31":  [
+                               {
+                                   "name":  "World No Tobacco Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "06-01":  [
+                               {
+                                   "name":  "Alzheimer’s \u0026 Brain Awareness Month",
+                                   "type":  "awareness month"
+                               }
+                           ],
+                 "06-05":  [
+                               {
+                                   "name":  "World Environment Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "06-08":  [
+                               {
+                                   "name":  "World Brain Tumor Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "06-09":  [
+                               {
+                                   "name":  "International Men’s Health Week",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "06-14":  [
+                               {
+                                   "name":  "Pahili Raja",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Blood Donor Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "06-15":  [
+                               {
+                                   "name":  "Raja Samkraanti",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Amaabaasyaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Elder Abuse Awareness Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "06-16":  [
+                               {
+                                   "name":  "Shuddha Maasa Aarambha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Continence Week",
+                                   "type":  "awareness week"
+                               }
+                           ],
+                 "06-18":  [
+                               {
+                                   "name":  "Shiba Bibaahotsaba",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Autistic Pride Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "06-19":  [
+                               {
+                                   "name":  "Shiitala Shashthii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Sickle Cell Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "World Kidney Cancer Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "06-21":  [
+                               {
+                                   "name":  "International Day of Yoga",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "06-25":  [
+                               {
+                                   "name":  "Nirjalaa Ekaadashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Vitiligo Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "06-26":  [
+                               {
+                                   "name":  "Champaka Dvaadashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Muharram",
+                                   "type":  "public holiday"
+                               },
+                               {
+                                   "name":  "Intl. Day against Drug Abuse",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "06-29":  [
+                               {
+                                   "name":  "Debasnaana Puurnnimaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Allergy Week",
+                                   "type":  "awareness week"
+                               }
+                           ],
+                 "07-01":  [
+                               {
+                                   "name":  "National Doctors Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "Sarcoma Awareness Month",
+                                   "type":  "awareness month"
+                               }
+                           ],
+                 "07-06":  [
+                               {
+                                   "name":  "Ratha Tanaa Anukuula",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "07-11":  [
+                               {
+                                   "name":  "Khalilaagi Ekaadashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Population Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "07-14":  [
+                               {
+                                   "name":  "Amaabaasyaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Netrotsaba",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "07-16":  [
+                               {
+                                   "name":  "Shriigundichaa (Rathayaatraa)",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Karkata Samkraanti",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "07-20":  [
+                               {
+                                   "name":  "Heraa Panychamii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "07-22":  [
+                               {
+                                   "name":  "World Brain Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "07-23":  [
+                               {
+                                   "name":  "World Sjogren’s Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "07-24":  [
+                               {
+                                   "name":  "Baahudaା Yaatraa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "International Self-care Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "07-25":  [
+                               {
+                                   "name":  "Sunaabesha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Harishayana Ekaadashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World IVF Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "07-27":  [
+                               {
+                                   "name":  "Niilaadri Bije",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "07-28":  [
+                               {
+                                   "name":  "World Hepatitis Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "07-29":  [
+                               {
+                                   "name":  "Byaasa Puurnnimaa (Guru Puurnnimaa)",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World ORS Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "08-01":  [
+                               {
+                                   "name":  "World Lung Cancer Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "World Breastfeeding Week",
+                                   "type":  "awareness week"
+                               }
+                           ],
+                 "08-03":  [
+                               {
+                                   "name":  "Bolabam Aarambha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Indian Organ Donation Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "08-09":  [
+                               {
+                                   "name":  "Kaamadaa Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "08-12":  [
+                               {
+                                   "name":  "Chitaalaagi Amaabaasyaa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "08-13":  [
+                               {
+                                   "name":  "World Organ Donation Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "08-15":  [
+                               {
+                                   "name":  "80th Independence Day",
+                                   "type":  "public holiday"
+                               },
+                               {
+                                   "name":  "Shrii Arabinda Jayantii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "08-22":  [
+                               {
+                                   "name":  "Jhulana Yaatraa Aarambha",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "08-23":  [
+                               {
+                                   "name":  "Putradaa Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "08-26":  [
+                               {
+                                   "name":  "Prophet Muhammad\u0027s Birthday",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "08-27":  [
+                               {
+                                   "name":  "Balabhadra Birth",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Raakshii Puurnnimaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Gahmaa Parba",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "08-30":  [
+                               {
+                                   "name":  "Khudurukunii Oshaa Aarambha",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "08-31":  [
+                               {
+                                   "name":  "International Overdose Awareness Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-01":  [
+                               {
+                                   "name":  "PCOS Awareness Month",
+                                   "type":  "awareness month"
+                               },
+                               {
+                                   "name":  "National Nutrition Week",
+                                   "type":  "awareness week"
+                               }
+                           ],
+                 "09-04":  [
+                               {
+                                   "name":  "Shriikrishna Janmaashtamii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "09-05":  [
+                               {
+                                   "name":  "Nandotsaba",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Teachers\u0027 Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-07":  [
+                               {
+                                   "name":  "Kaaliiyadalana Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "09-08":  [
+                               {
+                                   "name":  "World Physiotherapy Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-10":  [
+                               {
+                                   "name":  "Saptapurii Amaabaasyaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Suicide Prevention Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-13":  [
+                               {
+                                   "name":  "World First Aid Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "World Sepsis Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-14":  [
+                               {
+                                   "name":  "Shrii Ganesha Chaturthii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "09-15":  [
+                               {
+                                   "name":  "Nuuaakhaai",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Lymphoma Awareness Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "World Mitochondrial Disease Week",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-17":  [
+                               {
+                                   "name":  "Bishvakarmaa Puujaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Kanyaa Samkraanti",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Patient Safety Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-19":  [
+                               {
+                                   "name":  "Shrii Raadhaashtamii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "09-20":  [
+                               {
+                                   "name":  "Usher Syndrome Awareness Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-21":  [
+                               {
+                                   "name":  "World Alzheimer\u0027s Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-22":  [
+                               {
+                                   "name":  "Paarshvaparibarttana Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "09-23":  [
+                               {
+                                   "name":  "Baamana Birth",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Suniaan (Odaିaa Nuutana Barsha)",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "09-25":  [
+                               {
+                                   "name":  "Ananta Brata",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Lung Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "World Pharmacists Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-26":  [
+                               {
+                                   "name":  "Indrotsaba Puurnnimaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Bhaagabata Birth",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Contraception Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-28":  [
+                               {
+                                   "name":  "World Rabies Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "09-29":  [
+                               {
+                                   "name":  "World Heart Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-01":  [
+                               {
+                                   "name":  "Gaja Shashthii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Breast Cancer Awareness Month",
+                                   "type":  "awareness month"
+                               }
+                           ],
+                 "10-02":  [
+                               {
+                                   "name":  "Gandhi Jayanti",
+                                   "type":  "public holiday"
+                               },
+                               {
+                                   "name":  "Shastri Jayanti",
+                                   "type":  "public holiday"
+                               }
+                           ],
+                 "10-03":  [
+                               {
+                                   "name":  "Shrii Durgaa Debyotthaapana",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Sahasra Kumbhaabhisheka",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Shodasha Puujaa Aarambha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Muulaashtamii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "10-05":  [
+                               {
+                                   "name":  "World Meningitis Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-06":  [
+                               {
+                                   "name":  "Indiraa Ekaadashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Cerebral Palsy Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-09":  [
+                               {
+                                   "name":  "Shiba Chaturddashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Bedhaା Parikramaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Sight Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-10":  [
+                               {
+                                   "name":  "Mahaalayaa Amaabaasyaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Chandrakshaya",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Nishipaalana",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Mental Health Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-11":  [
+                               {
+                                   "name":  "Shrii Durgaa Debyaa Nabadinaatmaka Puujaarambha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Maa Birajaangka Rathayaatraa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "10-12":  [
+                               {
+                                   "name":  "Chandra Darshana Puujaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Arthritis Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-13":  [
+                               {
+                                   "name":  "World Thrombosis Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-14":  [
+                               {
+                                   "name":  "Sharana Aarambha",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "10-15":  [
+                               {
+                                   "name":  "Netaa Panychamii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Maa\u0027 Birajaangka Panychamii Homa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Global Handwashing Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-16":  [
+                               {
+                                   "name":  "Tapaa Shashthii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Mrinmayii Debiingka Bilvadhibaasa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Food Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "Spine Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-17":  [
+                               {
+                                   "name":  "Mahaasaptamii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Garbhanaa Samkraanti",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Tulaa Samkraanti",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Trauma Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-18":  [
+                               {
+                                   "name":  "Mahaashtamii Puujaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Sharana Aarambha",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "10-19":  [
+                               {
+                                   "name":  "Mahaanabamii Puujaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Paediatric Bone and Joint Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-20":  [
+                               {
+                                   "name":  "Bijayaa Dashamii (Dashaharaa)",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Osteoporosis Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-21":  [
+                               {
+                                   "name":  "Shriimandirare Dashaharaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Somanaatha Brata Samaapana",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Bhasaani",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Iodine Deficiency Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-22":  [
+                               {
+                                   "name":  "Paapaangkushaa Ekaadashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "International Stuttering Awareness Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-24":  [
+                               {
+                                   "name":  "Shiba Chaturddashii Upabaasa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Polio Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "10-25":  [
+                               {
+                                   "name":  "Kumaara Puurnnimaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Gajalakshmii Puujaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Chandrapuujaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Intl. Brain Tumour Awareness Week",
+                                   "type":  "awareness week"
+                               }
+                           ],
+                 "10-26":  [
+                               {
+                                   "name":  "Kaarttika Brataarambha",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Pandita Bishnu Prasaada Khadaୀratnangka Shraaddha",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "10-29":  [
+                               {
+                                   "name":  "World Stroke Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "World Psoriasis Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "11-01":  [
+                               {
+                                   "name":  "Pancreatic Cancer Awareness Month",
+                                   "type":  "awareness month"
+                               },
+                               {
+                                   "name":  "Lung Cancer Awareness Month",
+                                   "type":  "awareness month"
+                               },
+                               {
+                                   "name":  "Stomach Cancer Awareness Month",
+                                   "type":  "awareness month"
+                               },
+                               {
+                                   "name":  "Prostate Cancer Awareness Month",
+                                   "type":  "awareness month"
+                               }
+                           ],
+                 "11-05":  [
+                               {
+                                   "name":  "Ramaa Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "11-07":  [
+                               {
+                                   "name":  "National Cancer Awareness Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "11-08":  [
+                               {
+                                   "name":  "Diwali",
+                                   "type":  "public holiday"
+                               },
+                               {
+                                   "name":  "Shyaamaakaalii Puujaa",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Radiography Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "11-09":  [
+                               {
+                                   "name":  "Kaarttika Amaabaasyaa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "11-10":  [
+                               {
+                                   "name":  "World Immunization Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "World Keratoconus Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "11-12":  [
+                               {
+                                   "name":  "World Pneumonia Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "11-14":  [
+                               {
+                                   "name":  "Kaarttika Puurnnimaa (Raasa Puurnnimaa, Baaliyaatraa)",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Diabetes Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "11-15":  [
+                               {
+                                   "name":  "National Newborn Care Week",
+                                   "type":  "awareness week"
+                               }
+                           ],
+                 "11-16":  [
+                               {
+                                   "name":  "World Day of Remembrance for Road Traffic Victims",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "11-17":  [
+                               {
+                                   "name":  "Anlaa Nabamii (Raadhaapaada Darshana)",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World Prematurity Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "National Epilepsy Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "Cervical Cancer Action Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "11-18":  [
+                               {
+                                   "name":  "World Antimicrobial Awareness Week",
+                                   "type":  "awareness week"
+                               }
+                           ],
+                 "11-19":  [
+                               {
+                                   "name":  "World COPD Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "11-20":  [
+                               {
+                                   "name":  "World Pancreatic Cancer Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "11-26":  [
+                               {
+                                   "name":  "Maargashiira Gurubaara Aarambha",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "12-01":  [
+                               {
+                                   "name":  "Prathamaashtamii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "World AIDS Day",
+                                   "type":  "awareness day"
+                               },
+                               {
+                                   "name":  "Constipation Awareness Month",
+                                   "type":  "awareness month"
+                               }
+                           ],
+                 "12-03":  [
+                               {
+                                   "name":  "Maanabasaa Gurubaara",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Intl. Day of Persons with Disabilities",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "12-04":  [
+                               {
+                                   "name":  "Utpannaa Ekaadashii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "12-08":  [
+                               {
+                                   "name":  "Mahodadhi Amaabaasyaa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "12-12":  [
+                               {
+                                   "name":  "International Universal Health Coverage Day",
+                                   "type":  "awareness day"
+                               }
+                           ],
+                 "12-16":  [
+                               {
+                                   "name":  "Dhanu Samkraanti",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Pahili Bhoga Aarambha",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "12-18":  [
+                               {
+                                   "name":  "Mokshadaa Ekaadashii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Giitaa Jayantii",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "12-23":  [
+                               {
+                                   "name":  "Pandu Oshaa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "12-24":  [
+                               {
+                                   "name":  "Puurnnimaa",
+                                   "type":  "festival"
+                               }
+                           ],
+                 "12-25":  [
+                               {
+                                   "name":  "Christmas Day",
+                                   "type":  "public holiday"
+                               }
+                           ],
+                 "12-31":  [
+                               {
+                                   "name":  "Pathaani Saamanta Jayantii",
+                                   "type":  "festival"
+                               },
+                               {
+                                   "name":  "Year End",
+                                   "type":  "festival"
+                               }
+                           ]
+             }
 }
