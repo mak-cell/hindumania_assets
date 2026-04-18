@@ -1,0 +1,37 @@
+{
+    "items":  [
+                  {
+                      "id":  "PODHI_001",
+                      "title":  "advance law of attractions (hindi)",
+                      "odiaTitle":  "",
+                      "hindiTitle":  "advance law of attractions (hindi)",
+                      "imageUrl":  "https://img.youtube.com/vi/Gb-79DKIxV4/hqdefault.jpg",
+                      "contentType":  "VIDEO",
+                      "category":  "PODCAST",
+                      "language":  "Hindi",
+                      "externalUrl":  "https://youtu.be/Gb-79DKIxV4"
+                  },
+                  {
+                      "id":  "PODEN_001",
+                      "title":  "Dr Joe Dispenza: Rewire Your Brain, Heal Your Mind, Fear \u0026 Anxiety | FO475 Raj Shamani (english)",
+                      "odiaTitle":  "",
+                      "hindiTitle":  "",
+                      "imageUrl":  "https://img.youtube.com/vi/90lLQVZe2Nc/hqdefault.jpg",
+                      "contentType":  "VIDEO",
+                      "category":  "PODCAST",
+                      "language":  "English",
+                      "externalUrl":  "https://youtu.be/90lLQVZe2Nc"
+                  },
+                  {
+                      "id":  "PODHI_002",
+                      "title":  "How to Attract Anything in 2026, Power of Subconscious Mind, Control your Emotions | Ft. Ram Verma (Hindi)",
+                      "odiaTitle":  "",
+                      "hindiTitle":  "How to Attract Anything in 2026, Power of Subconscious Mind, Control your Emotions | Ft. Ram Verma (Hindi)",
+                      "imageUrl":  "https://img.youtube.com/vi/hm5xSWE6s2E/hqdefault.jpg",
+                      "contentType":  "VIDEO",
+                      "category":  "PODCAST",
+                      "language":  "Hindi",
+                      "externalUrl":  "https://www.youtube.com/watch?v=hm5xSWE6s2E"
+                  }
+              ]
+}
