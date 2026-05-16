@@ -11,6 +11,18 @@
                       "language":  "Hindi",
                       "externalUrl":  "https://youtu.be/Gb-79DKIxV4"
                   },
+                  
+                  {
+                      "id":  "PODHI_002",
+                      "title":  "",
+                      "odiaTitle":  "",
+                      "hindiTitle":  "How to Attract Anything in 2026, Power of Subconscious Mind, Control your Emotions | Ft. Ram Verma (Hindi)",
+                      "imageUrl":  "https://img.youtube.com/vi/hm5xSWE6s2E/hqdefault.jpg",
+                      "contentType":  "VIDEO",
+                      "category":  "PODCAST",
+                      "language":  "Hindi",
+                      "externalUrl":  "https://www.youtube.com/watch?v=hm5xSWE6s2E"
+                  },
         {
                       "id":  "PODHI_003",
                       "title":  "",
@@ -22,6 +34,52 @@
                       "language":  "Hindi",
                       "externalUrl":  "https://youtu.be/uLnJy8LddgM?t=40m49s"
                   },
+ {
+                      "id":  "PODHI_004",
+                      "title":  "",
+                      "odiaTitle":  "",
+                      "hindiTitle":  "Law of attraction- Money, Power, Love, Manifestation | Mitesh Khatri on Body To Beiing | Shlloka (hindi)",
+                      "imageUrl":  "https://img.youtube.com/vi/nw2YuMFaTEQ/hqdefault.jpg",
+                      "contentType":  "VIDEO",
+                      "category":  "PODCAST",
+                      "language":  "Hindi",
+                      "externalUrl":  "https://youtu.be/nw2YuMFaTEQ?si=rWVQ3-IsNp7i_H5e"
+                  },
+                   {
+                      "id":  "PODHI_005",
+                      "title":  "",
+                      "odiaTitle":  "",
+                      "hindiTitle":  "Love Vs Arranged Marriage, Lust, Soulmate & Red Flags | Dr Madhumati Singh | FO354 Raj Shamani (hindi)",
+                      "imageUrl":  "https://img.youtube.com/vi/z5KAKDuvXD4/hqdefault.jpg",
+                      "contentType":  "VIDEO",
+                      "category":  "PODCAST",
+                      "language":  "Hindi",
+                      "externalUrl":  "https://youtu.be/z5KAKDuvXD4?si=BdHqs-1HhhdByPJS"
+                  },
+                   {
+                      "id":  "PODHI_006",
+                      "title":  "",
+                      "odiaTitle":  "",
+                      "hindiTitle":  "Before You Get Married, Watch This | Modern Indian Marriage | Expert Tips by Dr. Madhumati Singh (hindi)",
+                      "imageUrl":  "https://img.youtube.com/vi/2xpSTxk1Yqg/hqdefault.jpg",
+                      "contentType":  "VIDEO",
+                      "category":  "PODCAST",
+                      "language":  "Hindi",
+                      "externalUrl":  "https://youtu.be/2xpSTxk1Yqg?si=Si0hOHfDNMWHSu7c"
+                  },
+ {
+                      "id":  "PODHI_007",
+                      "title":  "",
+                      "odiaTitle":  "",
+                      "hindiTitle":  " If You Feel Insecure, Watch This (hindi)",
+                      "imageUrl":  "https://img.youtube.com/vi/9sH_SviL64c/hqdefault.jpg",
+                      "contentType":  "VIDEO",
+                      "category":  "PODCAST",
+                      "language":  "Hindi",
+                      "externalUrl":  "https://youtu.be/9sH_SviL64c?si=TbZlnvV_r-v5xiDS"
+                  },
+
+
                   {
                       "id":  "PODEN_001",
                       "title":  "Dr Joe Dispenza: Rewire Your Brain, Heal Your Mind, Fear \u0026 Anxiety | FO475 Raj Shamani (english)",
@@ -43,17 +101,6 @@
                       "category":  "PODCAST",
                       "language":  "Odia",
                       "externalUrl":  "https://www.youtube.com/watch?v=e7Pb4WRSbAE"
-                  },
-                  {
-                      "id":  "PODHI_002",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "How to Attract Anything in 2026, Power of Subconscious Mind, Control your Emotions | Ft. Ram Verma (Hindi)",
-                      "imageUrl":  "https://img.youtube.com/vi/hm5xSWE6s2E/hqdefault.jpg",
-                      "contentType":  "VIDEO",
-                      "category":  "PODCAST",
-                      "language":  "Hindi",
-                      "externalUrl":  "https://www.youtube.com/watch?v=hm5xSWE6s2E"
                   }
               ]
 }
