@@ -1,9 +1,10 @@
 {
-  "calender": "1",
-  "mp3": "1",
-  "mp4": "1",
-  "links": "1",
-  "notifications": "1",
-  "test_links": "1",
-  "podcast":"6"
+    "calender": "1",
+    "mp3": "1",
+    "mp4": "1",
+    "links": "1",
+    "notifications": "1",
+    "test_links": "1",
+    "podcast": "6",
+    "youtube": "1"
 }
