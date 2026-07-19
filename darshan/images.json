@@ -1,5 +1,9 @@
 {
   "images": [
-    { "id": "d1", "title": "Hanuman Ji", "url": "https://drive.google.com/file/d/1JzbO0vt8g4AUg1WkcUwYBja3U0CuLnr1/view?usp=sharing" }
+    { "id": "d1", "title": "Hanuman Ji", "url": "https://drive.google.com/file/d/1JzbO0vt8g4AUg1WkcUwYBja3U0CuLnr1/view?usp=sharing" },
+    { "id": "d2", "title": "Ganesh Ji", "url": "https://drive.google.com/file/d/1xwPq5KIsZZD2lm-dOpDOvsoR35h3Y7Dc/view?usp=sharing" },
+    { "id": "d3", "title": "Durga Ji", "url": "https://drive.google.com/file/d/1u5b32GPYkaGFrcVyHKSzjrZnxxSbHC87/view?usp=sharing" },
+    { "id": "d4", "title": "Laxmi maa", "url": "https://t4.ftcdn.net/jpg/14/20/54/31/360_F_1420543122_T4vc8SV5SWOVWezutNONnlBqH4Yz7Qa1.jpg" },
+    { "id": "d5", "title": "Laxmi maa", "url": "https://cdn.pixabay.com/photo/2021/11/25/11/56/statue-6823436_1280.jpg" }
   ]
 }
