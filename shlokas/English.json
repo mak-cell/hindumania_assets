@@ -1,0 +1,89 @@
+{
+  "version": "1",
+  "shlokas": [
+    {
+      "id": "sl_001",
+      "sanskrit": "सर्वे भवन्तु सुखिनः। सर्वे सन्तु निरामयाः।\nसर्वे भद्राणि पश्यन्तु। मा कश्चिद् दुःखभाग् भवेत्॥",
+      "meaning": "May all be happy. May all be free from illness. May all see auspiciousness. May none suffer.",
+      "source": "Brihadaranyaka Upanishad"
+    },
+    {
+      "id": "sl_002",
+      "sanskrit": "असतो मा सद्गमय। तमसो मा ज्योतिर्गमय।\nमृत्योर्मा अमृतं गमय॥",
+      "meaning": "Lead me from the unreal to the real, from darkness to light, from death to immortality.",
+      "source": "Brihadaranyaka Upanishad 1.3.28"
+    },
+    {
+      "id": "sl_003",
+      "sanskrit": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
+      "meaning": "O Lord with the curved trunk and great body, radiant as a million suns — make all my undertakings free of obstacles, always.",
+      "source": "Ganesha Stotra"
+    },
+    {
+      "id": "sl_004",
+      "sanskrit": "कराग्रे वसते लक्ष्मीः करमध्ये सरस्वती।\nकरमूले तु गोविन्दः प्रभाते करदर्शनम्॥",
+      "meaning": "At the fingertips dwells Lakshmi, in the palm Saraswati, at the wrist Govinda — gaze at your hands at dawn.",
+      "source": "Morning prayer"
+    },
+    {
+      "id": "sl_005",
+      "sanskrit": "त्वमेव माता च पिता त्वमेव।\nत्वमेव बन्धुश्च सखा त्वमेव।\nत्वमेव विद्या द्रविणं त्वमेव।\nत्वमेव सर्वं मम देव देव॥",
+      "meaning": "You alone are mother and father, kin and friend, knowledge and wealth — You are everything to me, O God of Gods.",
+      "source": "Pandava Gita"
+    },
+    {
+      "id": "sl_006",
+      "sanskrit": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।\nउर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात्॥",
+      "meaning": "We worship the three-eyed One, the fragrant nourisher. As the cucumber is freed from its stem, so free us from death — but not from immortality.",
+      "source": "Mahamrityunjaya Mantra · Rigveda 7.59.12"
+    },
+    {
+      "id": "sl_007",
+      "sanskrit": "सह नाववतु। सह नौ भुनक्तु।\nसह वीर्यं करवावहै। तेजस्वि नावधीतमस्तु।\nमा विद्विषावहै॥",
+      "meaning": "May we be protected together, nourished together, work together with vigour. May our learning be brilliant; may we never quarrel.",
+      "source": "Kena & Taittiriya Upanishads"
+    },
+    {
+      "id": "sl_008",
+      "sanskrit": "लोकाः समस्ताः सुखिनो भवन्तु।",
+      "meaning": "May all the worlds be happy.",
+      "source": "Universal Prayer"
+    },
+    {
+      "id": "sl_009",
+      "sanskrit": "या कुन्देन्दु तुषारहार धवला या शुभ्रवस्त्रावृता।\nया वीणावरदण्डमण्डितकरा या श्वेतपद्मासना॥",
+      "meaning": "White as jasmine, the moon, snow — clad in pure white, holding the veena, seated on the white lotus — Goddess Saraswati, source of wisdom.",
+      "source": "Saraswati Vandana"
+    },
+    {
+      "id": "sl_010",
+      "sanskrit": "मनोजवं मारुततुल्यवेगं जितेन्द्रियं बुद्धिमतां वरिष्ठम्।\nवातात्मजं वानरयूथमुख्यं श्रीरामदूतं शरणं प्रपद्ये॥",
+      "meaning": "Swift as thought and wind, master of the senses, foremost among the wise — son of the wind, chief of vanaras, messenger of Rama — I take refuge in Him.",
+      "source": "Hanuman Stotra"
+    },
+    {
+      "id": "sl_011",
+      "sanskrit": "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं।\nभर्गो देवस्य धीमहि। धियो यो नः प्रचोदयात्॥",
+      "meaning": "We meditate on the radiant glory of the divine Sun — may He inspire our intellect.",
+      "source": "Gayatri Mantra · Rigveda 3.62.10"
+    },
+    {
+      "id": "sl_012",
+      "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+      "meaning": "Whenever righteousness declines and unrighteousness rises, O Bharata, I manifest Myself.",
+      "source": "Bhagavad Gita 4.7"
+    },
+    {
+      "id": "sl_013",
+      "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+      "meaning": "You have a right to action alone, never to its fruits. Do not be motivated by the fruits, nor attached to inaction.",
+      "source": "Bhagavad Gita 2.47"
+    },
+    {
+      "id": "sl_014",
+      "sanskrit": "ॐ शान्तिः शान्तिः शान्तिः॥",
+      "meaning": "Peace, peace, peace — within, around, and beyond.",
+      "source": "Shanti Mantra"
+    }
+  ]
+}
