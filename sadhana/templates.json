@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "solah_somvar",
+      "name": "Solah Somvar Vrat",
+      "deity": "Lord Shiva",
+      "description": "Sixteen consecutive Mondays devoted to Shiva — traditionally kept for strength of will and family wellbeing.",
+      "icon": "moon",
+      "scheduleType": "vrat",
+      "weekday": 1,
+      "count": 16,
+      "reminderMinutesOfDay": 360,
+      "itemKeywords": ["Shiv Aarti", "Maha Mrityunjay", "Shiv Chalisa"]
+    },
+    {
+      "id": "mangalvar_hanuman",
+      "name": "Mangalvar Hanuman Vrat",
+      "deity": "Hanuman Ji",
+      "description": "Hanuman Chalisa and Bajrang Baan every Tuesday — the classic observance for courage and protection.",
+      "icon": "fire",
+      "scheduleType": "vrat",
+      "weekday": 2,
+      "count": 7,
+      "reminderMinutesOfDay": 360,
+      "itemKeywords": ["Hanuman Chalisa", "Bajrang Baan"]
+    },
+    {
+      "id": "shanivar_vrat",
+      "name": "Shanivar Vrat",
+      "deity": "Shani & Hanuman",
+      "description": "Seven Saturdays of Hanuman recitation, kept to ease the influence of Shani.",
+      "icon": "night",
+      "scheduleType": "vrat",
+      "weekday": 6,
+      "count": 7,
+      "reminderMinutesOfDay": 360,
+      "itemKeywords": ["Hanuman Chalisa", "Bajrang Baan"]
+    },
+    {
+      "id": "guruvar_vrat",
+      "name": "Guruvar Vrat",
+      "deity": "Vishnu / Brihaspati",
+      "description": "Sixteen Thursdays devoted to Guru Brihaspati and Lord Vishnu, for wisdom and prosperity.",
+      "icon": "sun",
+      "scheduleType": "vrat",
+      "weekday": 4,
+      "count": 16,
+      "reminderMinutesOfDay": 360,
+      "itemKeywords": ["Vishnu", "Gayatri Mantra"]
+    },
+    {
+      "id": "shukravar_vrat",
+      "name": "Shukravar Vrat",
+      "deity": "Lakshmi / Durga",
+      "description": "Sixteen Fridays for Maa Lakshmi — traditionally observed for abundance and household harmony.",
+      "icon": "spa",
+      "scheduleType": "vrat",
+      "weekday": 5,
+      "count": 16,
+      "reminderMinutesOfDay": 360,
+      "itemKeywords": ["Laxmi", "Lakshmi", "Durga"]
+    },
+    {
+      "id": "budhvar_ganesh",
+      "name": "Budhvar Ganesh Vrat",
+      "deity": "Lord Ganesha",
+      "description": "Seven Wednesdays of Ganesh worship, kept before beginning new ventures.",
+      "icon": "sparkle",
+      "scheduleType": "vrat",
+      "weekday": 3,
+      "count": 7,
+      "reminderMinutesOfDay": 360,
+      "itemKeywords": ["Ganesh Aarti", "Ganesh Chalisa"]
+    },
+    {
+      "id": "ravivar_surya",
+      "name": "Ravivar Surya Vrat",
+      "deity": "Surya Dev",
+      "description": "Seven Sundays honouring the Sun, traditionally kept for health and vitality.",
+      "icon": "light",
+      "scheduleType": "vrat",
+      "weekday": 7,
+      "count": 7,
+      "reminderMinutesOfDay": 360,
+      "itemKeywords": ["Gayatri Mantra", "Surya"]
+    },
+    {
+      "id": "hanuman_21",
+      "name": "21-Day Hanuman Path",
+      "deity": "Hanuman Ji",
+      "description": "Hanuman Chalisa every day for twenty-one days — a short, steady discipline to build the habit.",
+      "icon": "route",
+      "scheduleType": "program",
+      "count": 21,
+      "reminderMinutesOfDay": 360,
+      "itemKeywords": ["Hanuman Chalisa"]
+    },
+    {
+      "id": "navratri_9",
+      "name": "Navratri – 9 Days",
+      "deity": "Maa Durga",
+      "description": "Nine consecutive days of devotion to the Goddess. Set the start date to the first day of Navratri.",
+      "icon": "celebration",
+      "scheduleType": "program",
+      "count": 9,
+      "reminderMinutesOfDay": 360,
+      "itemKeywords": ["Durga", "Laxmi", "Saraswati"]
+    }
+  ]
+}
