@@ -1,9 +1,89 @@
 {
   "images": [
-    { "id": "d1", "title": "Hanuman Ji", "url": "https://drive.google.com/file/d/1JzbO0vt8g4AUg1WkcUwYBja3U0CuLnr1/view?usp=sharing" },
-    { "id": "d2", "title": "Ganesh Ji", "url": "https://drive.google.com/file/d/1xwPq5KIsZZD2lm-dOpDOvsoR35h3Y7Dc/view?usp=sharing" },
-    { "id": "d3", "title": "Durga Ji", "url": "https://drive.google.com/file/d/1u5b32GPYkaGFrcVyHKSzjrZnxxSbHC87/view?usp=sharing" },
-    { "id": "d4", "title": "Laxmi maa", "url": "https://t4.ftcdn.net/jpg/14/20/54/31/360_F_1420543122_T4vc8SV5SWOVWezutNONnlBqH4Yz7Qa1.jpg" },
-    { "id": "d5", "title": "Laxmi maa", "url": "https://cdn.pixabay.com/photo/2021/11/25/11/56/statue-6823436_1280.jpg" }
+    {
+      "id": "d1",
+      "title": "Hanuman Ji",
+      "url": "https://drive.google.com/file/d/1JzbO0vt8g4AUg1WkcUwYBja3U0CuLnr1/view?usp=sharing"
+    },
+    {
+      "id": "d2",
+      "title": "Ganesh Ji",
+      "url": "https://drive.google.com/file/d/1xwPq5KIsZZD2lm-dOpDOvsoR35h3Y7Dc/view?usp=sharing"
+    },
+    {
+      "id": "d3",
+      "title": "Durga Ji",
+      "url": "https://drive.google.com/file/d/1u5b32GPYkaGFrcVyHKSzjrZnxxSbHC87/view?usp=sharing"
+    },
+    {
+      "id": "d4",
+      "title": "Laxmi maa",
+      "url": "https://t4.ftcdn.net/jpg/14/20/54/31/360_F_1420543122_T4vc8SV5SWOVWezutNONnlBqH4Yz7Qa1.jpg"
+    },
+    {
+      "id": "d5",
+      "title": "Laxmi maa",
+      "url": "https://cdn.pixabay.com/photo/2021/11/25/11/56/statue-6823436_1280.jpg"
+    },
+    {
+      "id": "dia1",
+      "title": "Lord Ganesha",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/AshtaSiddhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "dia2",
+      "title": "Lord Shiva",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Attributed_to_Khushala%2C_Indian%2C_active_late_18th_century_-_The_Gods_Sing_and_Dance_for_Shiva_and_Parvati_-_Google_Art_Project.jpg/1280px-Attributed_to_Khushala%2C_Indian%2C_active_late_18th_century_-_The_Gods_Sing_and_Dance_for_Shiva_and_Parvati_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "dia3",
+      "title": "Lord Vishnu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Avatars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "dia4",
+      "title": "Goddess Lakshmi",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Goddess_Lakshmi_by_Raja_Ravi_Varma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "dia5",
+      "title": "Goddess Saraswati",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/A_vision_of_Sarasvati_from_the_Ravi_Varma_studio%2C_c.1910%27s%3B_it%27s_been_decorated_with_sequins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "dia6",
+      "title": "Goddess Durga",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Goddess_Durga_by_Raja_Ravi_Varma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "dia7",
+      "title": "Maa Kali",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unidentified_-_Kali_-_2021.344_-_Metropolitan_Museum_of_Art.jpg/1280px-Unidentified_-_Kali_-_2021.344_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "dia8",
+      "title": "Lord Hanuman",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hanuman_Mistakes_the_Sun_for_a_Fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "dia9",
+      "title": "Lord Krishna",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Raja_Ravi_Varma%2C_Birth_of_Krishna_%281890%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "dia10",
+      "title": "Lord Rama",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lord_Rama_with_arrows.jpg/1280px-Lord_Rama_with_arrows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "dia11",
+      "title": "Radha Krishna",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Radha-Krishna_chess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "dia12",
+      "title": "Goddess Parvati",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/6_%C5%9Aiva_and_P%C4%81rvat%C4%AB_seated_on_a_terrace._1800_%28circa%29_BM.jpg/1280px-6_%C5%9Aiva_and_P%C4%81rvat%C4%AB_seated_on_a_terrace._1800_%28circa%29_BM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
   ]
 }

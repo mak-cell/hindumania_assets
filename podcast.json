@@ -1,106 +1,224 @@
 {
-    "items":  [
-                  {
-                      "id":  "PODHI_001",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "advance law of attractions (hindi)",
-                      "imageUrl":  "https://img.youtube.com/vi/Gb-79DKIxV4/hqdefault.jpg",
-                      "contentType":  "VIDEO",
-                      "category":  "PODCAST",
-                      "language":  "Hindi",
-                      "externalUrl":  "https://youtu.be/Gb-79DKIxV4"
-                  },
-                  
-                  {
-                      "id":  "PODHI_002",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "How to Attract Anything in 2026, Power of Subconscious Mind, Control your Emotions | Ft. Ram Verma (Hindi)",
-                      "imageUrl":  "https://img.youtube.com/vi/hm5xSWE6s2E/hqdefault.jpg",
-                      "contentType":  "VIDEO",
-                      "category":  "PODCAST",
-                      "language":  "Hindi",
-                      "externalUrl":  "https://www.youtube.com/watch?v=hm5xSWE6s2E"
-                  },
-        {
-                      "id":  "PODHI_003",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "Vikas Divyakirti on Relationships, Money, Fame, Cheating & Social Norms | FO435 Raj Shamani (hindi)",
-                      "imageUrl":  "https://img.youtube.com/vi/uLnJy8LddgM/hqdefault.jpg",
-                      "contentType":  "VIDEO",
-                      "category":  "PODCAST",
-                      "language":  "Hindi",
-                      "externalUrl":  "https://youtu.be/uLnJy8LddgM?t=40m49s"
-                  },
- {
-                      "id":  "PODHI_004",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "Law of attraction- Money, Power, Love, Manifestation | Mitesh Khatri on Body To Beiing | Shlloka (hindi)",
-                      "imageUrl":  "https://img.youtube.com/vi/nw2YuMFaTEQ/hqdefault.jpg",
-                      "contentType":  "VIDEO",
-                      "category":  "PODCAST",
-                      "language":  "Hindi",
-                      "externalUrl":  "https://youtu.be/nw2YuMFaTEQ?si=rWVQ3-IsNp7i_H5e"
-                  },
-                   {
-                      "id":  "PODHI_005",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "Love Vs Arranged Marriage, Lust, Soulmate & Red Flags | Dr Madhumati Singh | FO354 Raj Shamani (hindi)",
-                      "imageUrl":  "https://img.youtube.com/vi/z5KAKDuvXD4/hqdefault.jpg",
-                      "contentType":  "VIDEO",
-                      "category":  "PODCAST",
-                      "language":  "Hindi",
-                      "externalUrl":  "https://youtu.be/z5KAKDuvXD4?si=BdHqs-1HhhdByPJS"
-                  },
-                   {
-                      "id":  "PODHI_006",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "Before You Get Married, Watch This | Modern Indian Marriage | Expert Tips by Dr. Madhumati Singh (hindi)",
-                      "imageUrl":  "https://img.youtube.com/vi/2xpSTxk1Yqg/hqdefault.jpg",
-                      "contentType":  "VIDEO",
-                      "category":  "PODCAST",
-                      "language":  "Hindi",
-                      "externalUrl":  "https://youtu.be/2xpSTxk1Yqg?si=Si0hOHfDNMWHSu7c"
-                  },
- {
-                      "id":  "PODHI_007",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  " If You Feel Insecure, Watch This (hindi)",
-                      "imageUrl":  "https://img.youtube.com/vi/9sH_SviL64c/hqdefault.jpg",
-                      "contentType":  "VIDEO",
-                      "category":  "PODCAST",
-                      "language":  "Hindi",
-                      "externalUrl":  "https://youtu.be/9sH_SviL64c?si=TbZlnvV_r-v5xiDS"
-                  },
-
-
-                  {
-                      "id":  "PODEN_001",
-                      "title":  "Dr Joe Dispenza: Rewire Your Brain, Heal Your Mind, Fear \u0026 Anxiety | FO475 Raj Shamani (english)",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "",
-                      "imageUrl":  "https://img.youtube.com/vi/90lLQVZe2Nc/hqdefault.jpg",
-                      "contentType":  "VIDEO",
-                      "category":  "PODCAST",
-                      "language":  "English",
-                      "externalUrl":  "https://youtu.be/90lLQVZe2Nc"
-                  },
-        {
-                      "id":  "PODOD_001",
-                      "title":  "",
-                      "odiaTitle":  "Odisha to America | An Odia's Startup Success Story ft Sibasis Nayak | Pankaj Motwani Podcast(Odia)",
-                      "hindiTitle":  "",
-                      "imageUrl":  "https://img.youtube.com/vi/e7Pb4WRSbAE/hqdefault.jpg",
-                      "contentType":  "VIDEO",
-                      "category":  "PODCAST",
-                      "language":  "Odia",
-                      "externalUrl":  "https://www.youtube.com/watch?v=e7Pb4WRSbAE"
-                  }
-              ]
+  "items": [
+    {
+      "id": "PODHI_001",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "advance law of attractions (hindi)",
+      "imageUrl": "https://img.youtube.com/vi/Gb-79DKIxV4/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://youtu.be/Gb-79DKIxV4"
+    },
+    {
+      "id": "PODHI_002",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "How to Attract Anything in 2026, Power of Subconscious Mind, Control your Emotions | Ft. Ram Verma (Hindi)",
+      "imageUrl": "https://img.youtube.com/vi/hm5xSWE6s2E/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=hm5xSWE6s2E"
+    },
+    {
+      "id": "PODHI_003",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "Vikas Divyakirti on Relationships, Money, Fame, Cheating & Social Norms | FO435 Raj Shamani (hindi)",
+      "imageUrl": "https://img.youtube.com/vi/uLnJy8LddgM/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://youtu.be/uLnJy8LddgM?t=40m49s"
+    },
+    {
+      "id": "PODHI_004",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "Law of attraction- Money, Power, Love, Manifestation | Mitesh Khatri on Body To Beiing | Shlloka (hindi)",
+      "imageUrl": "https://img.youtube.com/vi/nw2YuMFaTEQ/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://youtu.be/nw2YuMFaTEQ?si=rWVQ3-IsNp7i_H5e"
+    },
+    {
+      "id": "PODHI_005",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "Love Vs Arranged Marriage, Lust, Soulmate & Red Flags | Dr Madhumati Singh | FO354 Raj Shamani (hindi)",
+      "imageUrl": "https://img.youtube.com/vi/z5KAKDuvXD4/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://youtu.be/z5KAKDuvXD4?si=BdHqs-1HhhdByPJS"
+    },
+    {
+      "id": "PODHI_006",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "Before You Get Married, Watch This | Modern Indian Marriage | Expert Tips by Dr. Madhumati Singh (hindi)",
+      "imageUrl": "https://img.youtube.com/vi/2xpSTxk1Yqg/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://youtu.be/2xpSTxk1Yqg?si=Si0hOHfDNMWHSu7c"
+    },
+    {
+      "id": "PODHI_007",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": " If You Feel Insecure, Watch This (hindi)",
+      "imageUrl": "https://img.youtube.com/vi/9sH_SviL64c/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://youtu.be/9sH_SviL64c?si=TbZlnvV_r-v5xiDS"
+    },
+    {
+      "id": "PODEN_001",
+      "title": "Dr Joe Dispenza: Rewire Your Brain, Heal Your Mind, Fear & Anxiety | FO475 Raj Shamani (english)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/90lLQVZe2Nc/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "English",
+      "externalUrl": "https://youtu.be/90lLQVZe2Nc"
+    },
+    {
+      "id": "PODOD_001",
+      "title": "",
+      "odiaTitle": "Odisha to America | An Odia's Startup Success Story ft Sibasis Nayak | Pankaj Motwani Podcast(Odia)",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/e7Pb4WRSbAE/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Odia",
+      "externalUrl": "https://www.youtube.com/watch?v=e7Pb4WRSbAE"
+    },
+    {
+      "id": "PODIA_001",
+      "title": "I Confront India’s Biggest Law of Attraction Coach | Mitesh Khatri | PGX #61 @MiteshKhatriLOA",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/VNI3WQdXpeo/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=VNI3WQdXpeo"
+    },
+    {
+      "id": "PODIA_002",
+      "title": "Manifest Anything: Integrating Law of Attraction into Everyday Life @shyammujavadiya",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/63myPFeaMYc/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=63myPFeaMYc"
+    },
+    {
+      "id": "PODIA_003",
+      "title": "Manifest Anything in 5 Steps (Law of Attraction) Hindi",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/i8IWU-YAHDQ/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=i8IWU-YAHDQ"
+    },
+    {
+      "id": "PODIA_004",
+      "title": "Secret of Manifestation | Sonu Sharma",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/qkrNeN-x2VE/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=qkrNeN-x2VE"
+    },
+    {
+      "id": "PODIA_005",
+      "title": "The Power of Your Subconscious Mind by Dr. Joseph Murphy Audiobook | Books Summary in Hindi",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/BLEYCyrLpkI/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=BLEYCyrLpkI"
+    },
+    {
+      "id": "PODIA_006",
+      "title": "आपके अवचेतन मन की शक्ति | The Power Of Your Subconscious Mind | Full Audiobook in Hindi | J. Murphy",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/CuWU51MGP9c/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=CuWU51MGP9c"
+    },
+    {
+      "id": "PODIA_007",
+      "title": "श्रीमद भगवद गीता से 111 विचार Shrimad Bhagawad Geeta (Hindi)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/JK2Pz0YqZsE/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=JK2Pz0YqZsE"
+    },
+    {
+      "id": "PODIA_008",
+      "title": "श्री भगवद गीता की 21 सीख । 21 Teachings from Shri Bhagwad Geeta | Hindi Motivational Video JeetFix",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/0x2JTMSB5aE/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=0x2JTMSB5aE"
+    },
+    {
+      "id": "PODIA_009",
+      "title": "Spiritual Awakening Secrets 😱 99% लोगों में ये शक्ति सोई हुई है @ANURAGRISHI  Dr. Shikha Podcast 87",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/LXV7fo8LcHQ/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=LXV7fo8LcHQ"
+    },
+    {
+      "id": "PODIA_010",
+      "title": "Guided Meditation Experience (Hindi): BK Shivani",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/XnT_cOq_Ba8/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=XnT_cOq_Ba8"
+    },
+    {
+      "id": "PODIA_011",
+      "title": "तनाव कम करने के लिए निर्देशित ध्यान | गुरुदेव (Guided Meditation in Hindi)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://img.youtube.com/vi/xX8swFUPhLY/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "PODCAST",
+      "language": "Hindi",
+      "externalUrl": "https://www.youtube.com/watch?v=xX8swFUPhLY"
+    }
+  ]
 }

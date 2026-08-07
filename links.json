@@ -1,162 +1,1322 @@
 {
-    "items":  [
-                  {
-                      "id":  "RB_1",
-                      "title":  "Aditya Hridaya Strutam",
-                      "odiaTitle":  "ଆଦିତ୍ୟ ହୃଦୟମ୍",
-                      "hindiTitle":  "आदित्य हृदय स्तोत्र",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=1U9UohkvTsQtsMcQGAcnWghGZq_a7MUCt\u0026authuser=0",
-                      "contentType":  "BOOK",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=19ctgrrfTUr0ndLaVsrNzg8hgGgqPmAQY"
-                  },
-                  {
-                      "id":  "RB_2",
-                      "title":  "Laxmi Astakam",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=1uBC33Jah7Vlj4sGmFkMpI3PkvrH_fLk_\u0026authuser=0",
-                      "contentType":  "BOOK",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1j1Z-lU5de1NJ_ulii4_yG07Z56qqYhFD"
-                  },
-                  {
-                      "id":  "RB_3",
-                      "title":  "The Vedas and Upanishads for Children, Roopa Pai 2019",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=1qdwdUr0Oby4BcKWkJYEBSfLoZS-6lRKd\u0026authuser=0",
-                      "contentType":  "PDF",
-                      "category":  "VEDAS",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1H7N5fzlnf3tKGT7tVrctC_9InQFC229b"
-                  },
-                  {
-                      "id":  "RB_4",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "श्रीमद्भगवद्गीता",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=1P1Nlp2Z5xvS8smlIMQqO7rttay3_-JlV\u0026authuser=0",
-                      "contentType":  "PDF",
-                      "category":  "VEDAS",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1FdvFUuSNnTSxixI_zjnh2AW4nje2ZY0j"
-                  },
-                  {
-                      "id":  "RB_5",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "ऋग्वेद",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR\u0026authuser=0",
-                      "contentType":  "PDF",
-                      "category":  "VEDAS",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1v_Jva5Wggj2uDrB-10wv6Vri99tsKtds"
-                  },
-                  {
-                      "id":  "RB_6",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "यजुर्वेद",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR\u0026authuser=0",
-                      "contentType":  "PDF",
-                      "category":  "VEDAS",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1De-T77yqUltVXKjguZjeW0SUpsn_VEIs"
-                  },
-                  {
-                      "id":  "RB_7",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "सामवेद",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR\u0026authuser=0",
-                      "contentType":  "PDF",
-                      "category":  "VEDAS",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1bMBP_bwOCP2XBak9LL6xLqnrwEubKw5n"
-                  },
-                  {
-                      "id":  "RB_8",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "अथर्ववेद",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR\u0026authuser=0",
-                      "contentType":  "PDF",
-                      "category":  "VEDAS",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1LVWGSX4EcxH2mx2nPJslEUEslO3CJSSr"
-                  },
-                  {
-                      "id":  "RB_9",
-                      "title":  "",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "संपूर्ण रामायण",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=1N4xbBLYMRM3MXrRNVORaF3aLW6rF_tDU\u0026authuser=0",
-                      "contentType":  "PDF",
-                      "category":  "VEDAS",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1ngorQERZ7iBxzFEOHZRo9DypehbzjPCM"
-                  },
-                  {
-                      "id":  "RB_10",
-                      "title":  "",
-                      "odiaTitle":  "ସାବିତ୍ରୀ ବ୍ରତ କଥା",
-                      "hindiTitle":  "",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=1NiZbgfRgWP8YLYcuDSHbB4iMh2HNT3lm\u0026authuser=0",
-                      "contentType":  "PDF",
-                      "category":  "VEDAS",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1FwEU7JngxAXxZuMQgA1f8IE_U8_YcDH2"
-                  },
-                  {
-                      "id":  "RB_11",
-                      "title":  "",
-                      "odiaTitle":  "ଖୁଦୁରୁକୁଣୀ ଓଷା",
-                      "hindiTitle":  "",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=1uygoyi3mDVaIumwqjMu5p5Qnlf2LJd0I\u0026authuser=0",
-                      "contentType":  "BOOK",
-                      "category":  "OSA",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1IGkr0sX2q-mWu-gN5_tNPYG0J0IvjZxQ"
-                  },
-                  {
-                      "id":  "RB_12",
-                      "title":  "",
-                      "odiaTitle":  "ଶ୍ରୀ ଵିଷ୍ଣୁ ସହସ୍ର ନାମ ସ୍ତୋତ୍ରମ୍",
-                      "hindiTitle":  "",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=1aUTAXWLNIGMcM_0XgNtul7Aw1fBYiK3f\u0026authuser=0",
-                      "contentType":  "PDF",
-                      "category":  "BOOK",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1fO-_HBDUJKY_K3OjV8BvzzmTRoKTFqcv"
-                  },
-                  {
-                      "id":  "RB_13",
-                      "title":  "",
-                      "odiaTitle":  "ଶନିଦେବ ମେଳା",
-                      "hindiTitle":  "",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=1Bomqq1Gus15k0vByinNdz8NieafqHr8j\u0026authuser=0",
-                      "contentType":  "PDF",
-                      "category":  "VEDAS",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=1fk7JJCPXZ9jLBv9Tefcp16Id2WDA3IIX"
-                  },
-                  {
-                      "id":  "RB_14",
-                      "title":  "",
-                      "odiaTitle":  "ତ୍ରିନାଥ ମେଳା ",
-                      "hindiTitle":  "",
-                      "imageUrl":  "https://drive.usercontent.google.com/download?id=1VD8xF4kouJb7i_a_-KeY9Uy7qBkt_Di2\u0026authuser=0",
-                      "contentType":  "PDF",
-                      "category":  "VEDAS",
-                      "dataJsonUrl":  "https://drive.google.com/uc?id=115G5V4hgtWG3hpIGL8lm6N5Hd7Fn01mF"
-                  },
-                  {
-                      "id":  "RM_2",
-                      "title":  "Hanuman Chalisa Audio",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "Hanuman Chalisa Audio",
-                      "imageUrl":  "https://img.youtube.com/vi/AETFvQonfV8/hqdefault.jpg",
-                      "contentType":  "AUDIO",
-                      "category":  "MEDIA",
-                      "audioPath":  "https://raw.githubusercontent.com/mak-cell/hindumania_assets/master/mp3/hanuman_chalisa.mp3"
-                  },
-                  {
-                      "id":  "RM_3",
-                      "title":  "Hanuman Chalisa Video",
-                      "odiaTitle":  "",
-                      "hindiTitle":  "Hanuman Chalisa Video",
-                      "imageUrl":  "https://img.youtube.com/vi/AETFvQonfV8/hqdefault.jpg",
-                      "contentType":  "VIDEO",
-                      "category":  "MEDIA",
-                      "videoPath":  "https://raw.githubusercontent.com/mak-cell/hindumania_assets/master/mp4/ShreeHanumanChalisa.mp4"
-                  }
-              ]
+  "items": [
+    {
+      "id": "RB_1",
+      "title": "Aditya Hridaya Strutam",
+      "odiaTitle": "ଆଦିତ୍ୟ ହୃଦୟମ୍",
+      "hindiTitle": "आदित्य हृदय स्तोत्र",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=1U9UohkvTsQtsMcQGAcnWghGZq_a7MUCt&authuser=0",
+      "contentType": "BOOK",
+      "dataJsonUrl": "https://drive.google.com/uc?id=19ctgrrfTUr0ndLaVsrNzg8hgGgqPmAQY"
+    },
+    {
+      "id": "RB_2",
+      "title": "Laxmi Astakam",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=1uBC33Jah7Vlj4sGmFkMpI3PkvrH_fLk_&authuser=0",
+      "contentType": "BOOK",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1j1Z-lU5de1NJ_ulii4_yG07Z56qqYhFD"
+    },
+    {
+      "id": "RB_3",
+      "title": "The Vedas and Upanishads for Children, Roopa Pai 2019",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=1qdwdUr0Oby4BcKWkJYEBSfLoZS-6lRKd&authuser=0",
+      "contentType": "PDF",
+      "category": "VEDAS",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1H7N5fzlnf3tKGT7tVrctC_9InQFC229b"
+    },
+    {
+      "id": "RB_4",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "श्रीमद्भगवद्गीता",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=1P1Nlp2Z5xvS8smlIMQqO7rttay3_-JlV&authuser=0",
+      "contentType": "PDF",
+      "category": "VEDAS",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1FdvFUuSNnTSxixI_zjnh2AW4nje2ZY0j"
+    },
+    {
+      "id": "RB_5",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "ऋग्वेद",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR&authuser=0",
+      "contentType": "PDF",
+      "category": "VEDAS",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1v_Jva5Wggj2uDrB-10wv6Vri99tsKtds"
+    },
+    {
+      "id": "RB_6",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "यजुर्वेद",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR&authuser=0",
+      "contentType": "PDF",
+      "category": "VEDAS",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1De-T77yqUltVXKjguZjeW0SUpsn_VEIs"
+    },
+    {
+      "id": "RB_7",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "सामवेद",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR&authuser=0",
+      "contentType": "PDF",
+      "category": "VEDAS",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1bMBP_bwOCP2XBak9LL6xLqnrwEubKw5n"
+    },
+    {
+      "id": "RB_8",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "अथर्ववेद",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=10LuDgCitX43nRD2HHbDdFMvXmSinJqvR&authuser=0",
+      "contentType": "PDF",
+      "category": "VEDAS",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1LVWGSX4EcxH2mx2nPJslEUEslO3CJSSr"
+    },
+    {
+      "id": "RB_9",
+      "title": "",
+      "odiaTitle": "",
+      "hindiTitle": "संपूर्ण रामायण",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=1N4xbBLYMRM3MXrRNVORaF3aLW6rF_tDU&authuser=0",
+      "contentType": "PDF",
+      "category": "VEDAS",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1ngorQERZ7iBxzFEOHZRo9DypehbzjPCM"
+    },
+    {
+      "id": "RB_10",
+      "title": "",
+      "odiaTitle": "ସାବିତ୍ରୀ ବ୍ରତ କଥା",
+      "hindiTitle": "",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=1NiZbgfRgWP8YLYcuDSHbB4iMh2HNT3lm&authuser=0",
+      "contentType": "PDF",
+      "category": "VEDAS",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1FwEU7JngxAXxZuMQgA1f8IE_U8_YcDH2"
+    },
+    {
+      "id": "RB_11",
+      "title": "",
+      "odiaTitle": "ଖୁଦୁରୁକୁଣୀ ଓଷା",
+      "hindiTitle": "",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=1uygoyi3mDVaIumwqjMu5p5Qnlf2LJd0I&authuser=0",
+      "contentType": "BOOK",
+      "category": "OSA",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1IGkr0sX2q-mWu-gN5_tNPYG0J0IvjZxQ"
+    },
+    {
+      "id": "RB_12",
+      "title": "",
+      "odiaTitle": "ଶ୍ରୀ ଵିଷ୍ଣୁ ସହସ୍ର ନାମ ସ୍ତୋତ୍ରମ୍",
+      "hindiTitle": "",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=1aUTAXWLNIGMcM_0XgNtul7Aw1fBYiK3f&authuser=0",
+      "contentType": "PDF",
+      "category": "BOOK",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1fO-_HBDUJKY_K3OjV8BvzzmTRoKTFqcv"
+    },
+    {
+      "id": "RB_13",
+      "title": "",
+      "odiaTitle": "ଶନିଦେବ ମେଳା",
+      "hindiTitle": "",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=1Bomqq1Gus15k0vByinNdz8NieafqHr8j&authuser=0",
+      "contentType": "PDF",
+      "category": "VEDAS",
+      "dataJsonUrl": "https://drive.google.com/uc?id=1fk7JJCPXZ9jLBv9Tefcp16Id2WDA3IIX"
+    },
+    {
+      "id": "RB_14",
+      "title": "",
+      "odiaTitle": "ତ୍ରିନାଥ ମେଳା ",
+      "hindiTitle": "",
+      "imageUrl": "https://drive.usercontent.google.com/download?id=1VD8xF4kouJb7i_a_-KeY9Uy7qBkt_Di2&authuser=0",
+      "contentType": "PDF",
+      "category": "VEDAS",
+      "dataJsonUrl": "https://drive.google.com/uc?id=115G5V4hgtWG3hpIGL8lm6N5Hd7Fn01mF"
+    },
+    {
+      "id": "RM_2",
+      "title": "Hanuman Chalisa Audio",
+      "odiaTitle": "",
+      "hindiTitle": "Hanuman Chalisa Audio",
+      "imageUrl": "https://img.youtube.com/vi/AETFvQonfV8/hqdefault.jpg",
+      "contentType": "AUDIO",
+      "category": "MEDIA",
+      "audioPath": "https://raw.githubusercontent.com/mak-cell/hindumania_assets/master/mp3/hanuman_chalisa.mp3"
+    },
+    {
+      "id": "RM_3",
+      "title": "Hanuman Chalisa Video",
+      "odiaTitle": "",
+      "hindiTitle": "Hanuman Chalisa Video",
+      "imageUrl": "https://img.youtube.com/vi/AETFvQonfV8/hqdefault.jpg",
+      "contentType": "VIDEO",
+      "category": "MEDIA",
+      "videoPath": "https://raw.githubusercontent.com/mak-cell/hindumania_assets/master/mp4/ShreeHanumanChalisa.mp4"
+    },
+    {
+      "id": "RIA_0001",
+      "title": "Shrimad Valmiki Ramayana | श्रीमद वाल्मीकि रामायण ~ Hindi",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/shrimad-valmiki-ramayana-hindi-edition-valmiki",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/shrimad-valmiki-ramayana-hindi-edition-valmiki/Shrimad%20Valmiki%20Ramayana%20%28Hindi%20Edition%29%20-%20Valmiki.pdf"
+    },
+    {
+      "id": "RIA_0002",
+      "title": "The Ramayana of Valmiki, translated by Hari Prasad Shastri - 3 Volumes Combined - 1709 Pages, with complete Outline",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/The.Ramayana.of.Valmiki.by.Hari.Prasad.Shastri",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/The.Ramayana.of.Valmiki.by.Hari.Prasad.Shastri/The.Ramayana.of.Valmiki.by.Hari.Prasad.Shastri.pdf"
+    },
+    {
+      "id": "RIA_0003",
+      "title": "Kannada Ramayana Vol-1",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/in.ernet.dli.2015.382070",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/in.ernet.dli.2015.382070/2015.382070.Kannada-Ramayana_text.pdf"
+    },
+    {
+      "id": "RIA_0004",
+      "title": "Hindi Book Shrimad Valmiki Ramayana(all Kand)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/HindiBookShrimadValmikiRamayanaallKand",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/HindiBookShrimadValmikiRamayanaallKand/Hindi%20Book-Shrimad%20Valmiki%20Ramayana%28all%20kand%29.pdf"
+    },
+    {
+      "id": "RIA_0005",
+      "title": "Srimad Valmiki Ramayana (Sanskrit) 1933 AD",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/361952998SrimadValmikiRamayanaSanskrit1933AD",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/361952998SrimadValmikiRamayanaSanskrit1933AD/361952998-Srimad-Valmiki-Ramayana-Sanskrit-1933-AD_text.pdf"
+    },
+    {
+      "id": "RIA_0006",
+      "title": "श्रीरामचरितमानस Ramcharitmanas in Hindi",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/ramcharitmanas_202204",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/ramcharitmanas_202204/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B8-Ramcharitmanas.pdf"
+    },
+    {
+      "id": "RIA_0007",
+      "title": "Ramcharitmanas Gitapress",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/RamcharitmanasGitapress",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/RamcharitmanasGitapress/Ramcharitmanas%20Gitapress.pdf"
+    },
+    {
+      "id": "RIA_0008",
+      "title": "Shri Ramcharitmanas by Gita Press Gorakhpur (Code No. 790)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/GitaPress790",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/GitaPress790/790_Shrimadgoswami%20Tulsidasji%20Virchit%20Shriramcaritmanas%28Kewal%20Hindi%20Anuwad%29.pdf"
+    },
+    {
+      "id": "RIA_0009",
+      "title": "Ramcharitmanas Gitapress English",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/RamcharitmanasGitapressEnglish",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/RamcharitmanasGitapressEnglish/Ramcharitmanas%20Gitapress%20English.pdf"
+    },
+    {
+      "id": "RIA_0010",
+      "title": "ଶ୍ରୀରାମଚରିତମାନସ - ଗୋସ୍ୱାମୀ ତୁଳସୀଦାସ (Ramcharitmanas - Odia)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/ramcharitmanas-goswami-tulsidas-odia",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/ramcharitmanas-goswami-tulsidas-odia/Ramcharitmanas%20-%20Goswami%20Tulsidas%20%28Odia%29.pdf"
+    },
+    {
+      "id": "RIA_0011",
+      "title": "Mahabharata by Gita Press in Hindi and sanskrit",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/mahabharata-by-gita-press-in-hindi-and-sanskrit",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/mahabharata-by-gita-press-in-hindi-and-sanskrit/Mahabharata%20Volume%201.pdf"
+    },
+    {
+      "id": "RIA_0012",
+      "title": "Gita Press Mahabharat / Mahabharata 6 Volume Set In Hindi",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/unabridged-mahabharata-6-volumes-set-in-hindi-by-veda-vyasa-compressed",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/unabridged-mahabharata-6-volumes-set-in-hindi-by-veda-vyasa-compressed/Mahabharata%20Volume%201.pdf"
+    },
+    {
+      "id": "RIA_0013",
+      "title": "The Complete Mahabharata",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/the-complete-mahabharata",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/the-complete-mahabharata/The%20Complete%20Mahabharata%20.pdf"
+    },
+    {
+      "id": "RIA_0014",
+      "title": "Mahabharata with Hindi Translation - SD Satwalekar",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Mahabharata_with_Hindi_Translation_-_SD_Satwalekar",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/Mahabharata_with_Hindi_Translation_-_SD_Satwalekar/01%20Mahabharat%20Adi%20Parva%20-%20SD%20Satwalekar%201968_text.pdf"
+    },
+    {
+      "id": "RIA_0015",
+      "title": "The Mahabharata of Krishna-Dwaipayana Vyasa",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/TheMahabharataOfKrishna-dwaipayanaVyasa",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/TheMahabharataOfKrishna-dwaipayanaVyasa/MahabharataOfVyasa-EnglishTranslationByKMGanguli.pdf"
+    },
+    {
+      "id": "RIA_0016",
+      "title": "Srimad Bhagavatam Malayalam Anvayakrama-Paribhasha-sahitam 12 Volumes - Vidvan S.G. Narayanan Embranthiri, S.V. Paramesv",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Srimad_Bhagavatam_Malayalam_Anvayakrama_Paribhasha_sahitam",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/Srimad_Bhagavatam_Malayalam_Anvayakrama_Paribhasha_sahitam/Srimad%20Bhagavatam%20Anvayakrama-Paribhasha-sahitam%20Volume%2001%20-%20Vidvan%20S.G.%20Narayanan%20Embranthiri_text.pdf"
+    },
+    {
+      "id": "RIA_0017",
+      "title": "Srimad Bhagavatam (with Hindi Translation)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/sb_hindi",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/sb_hindi/bhagavatam_hindi_text.pdf"
+    },
+    {
+      "id": "RIA_0018",
+      "title": "Bhagavata Purana Gita Press",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/bhagavatapuranagitapress_201907",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/bhagavatapuranagitapress_201907/Bhagavata%20Purana%20-%20Gita%20Press_text.pdf"
+    },
+    {
+      "id": "RIA_0019",
+      "title": "Srimad Bhagavatam 1st Canto(Bengali-Bangla)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/SB1Md",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/SB1Md/SB1_md_Logo_Reduced_text.pdf"
+    },
+    {
+      "id": "RIA_0020",
+      "title": "Srimad Bhagavatam English Translation with Sanskrit",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/SrimadBhagavatamEnglish-Sanskrit",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/SrimadBhagavatamEnglish-Sanskrit/Krishna%20Book/Krishna%20Book%201970%20Vol%201%20and%202/KRSNA_Book_Vol.1_1970_ISKCON_Press_edition_SCAN.pdf"
+    },
+    {
+      "id": "RIA_0021",
+      "title": "Linga Purana (with the Shiva-toshini Sanskrit Commentary)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/lingapurana",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/lingapurana/linga_purana_text.pdf"
+    },
+    {
+      "id": "RIA_0022",
+      "title": "ସଂକ୍ଷିପ୍ତ ଶିବପୁରାଣ - Shiva Purana - Gita Press",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/shiva-purana-odia-gita-press",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/shiva-purana-odia-gita-press/Shiva%20Purana%20-%20Gita%20Press%20%28Odia%29_text.pdf"
+    },
+    {
+      "id": "RIA_0023",
+      "title": "Shri Shiva Maha Purana Part 2 Rudra Samhita By Pt. Ram Nath Sanskrit Printed Jangamwadi Math Collection",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/shri-shiva-maha-purana-part-2-rudra-samhita-by-pt.-ram-nath-sanskrit-printed-jan",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/shri-shiva-maha-purana-part-2-rudra-samhita-by-pt.-ram-nath-sanskrit-printed-jan/Shri%20Shiva%20Maha%20Purana%20Part-2%20Rudra%20Samhita%20by%20Pt.%20Ram%20Nath%20Sanskrit%20Printed%20-%20Jangamwadi%20Math%20Collection.pdf"
+    },
+    {
+      "id": "RIA_0024",
+      "title": "Shiva Purana Katha Saar",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/shiv-puran-katha-saar",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/shiv-puran-katha-saar/Shiv%20Puran%20Katha%20Saar.pdf"
+    },
+    {
+      "id": "RIA_0025",
+      "title": "Vishnu Purana English Translation with Sanskrit Text",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/vishnu-purana-sanskrit-english-ocr",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/vishnu-purana-sanskrit-english-ocr/VISHNU-PURANA-Sanskrit-English-OCR.pdf"
+    },
+    {
+      "id": "RIA_0026",
+      "title": "The Vishnu Purana: A System Of Hindu Mythology And Tradition. Vol-V",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/TheVishnuPuranaASystemOfHinduMythologyAndTraditionVolV",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/TheVishnuPuranaASystemOfHinduMythologyAndTraditionVolV/TheVishnuPuranaASystemOfHinduMythologyAndTraditionVolV.pdf"
+    },
+    {
+      "id": "RIA_0027",
+      "title": "Brihat Vishnu Purana (Bengali Translation Only)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/brhatvishnupurana",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/brhatvishnupurana/brhat_vishnu_purana_bengali_text.pdf"
+    },
+    {
+      "id": "RIA_0028",
+      "title": "Vishnu_Purana_with_Vishnuchittiyam_-_PB_Annangaracharya_1972",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Vishnu_Purana_with_Vishnuchittiyam_-_PB_Annangaracharya_1972",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/Vishnu_Purana_with_Vishnuchittiyam_-_PB_Annangaracharya_1972/VishnuPuranaWithVishnuchittiyam-PbAnnangaracharya1972_text.pdf"
+    },
+    {
+      "id": "RIA_0029",
+      "title": "Sri Sri Vishnu Purana",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/in.ernet.dli.2015.382889",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/in.ernet.dli.2015.382889/2015.382889.Sri-Sri_text.pdf"
+    },
+    {
+      "id": "RIA_0030",
+      "title": "Garuda Purana Gita Press Gorakhpur",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/GarudaPuranaGitaPressGorakhpur",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/GarudaPuranaGitaPressGorakhpur/Garuda%20Purana%20-%20Gita%20Press%20Gorakhpur_text.pdf"
+    },
+    {
+      "id": "RIA_0031",
+      "title": "Garuda Purana ( Preta Kanda)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/garudapuranapretakanda",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/garudapuranapretakanda/garuda_purana%20%28%20preta%20kanda%29_text.pdf"
+    },
+    {
+      "id": "RIA_0032",
+      "title": "Garuda Purana English Motilal 3 Volumes In 1",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/GarudaPuranaEnglishMotilal3VolumesIn1",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/GarudaPuranaEnglishMotilal3VolumesIn1/Garuda%20Purana%20English%20-%20Motilal%20-%203%20Volumes%20in%201_text.pdf"
+    },
+    {
+      "id": "RIA_0033",
+      "title": "Garuda Purana in kannada(preta kanda) with slokas and kannada commentary",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/garuda-purana-preta-kanda",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/garuda-purana-preta-kanda/garuda_purana%20%28%20preta%20kanda%29_text.pdf"
+    },
+    {
+      "id": "RIA_0034",
+      "title": "Srimad Devi Bhagavatam. Translated by Swami Vijnanananda",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/srimaddevibhagav26vijnuoft",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/srimaddevibhagav26vijnuoft/srimaddevibhagav26vijnuoft.pdf"
+    },
+    {
+      "id": "RIA_0035",
+      "title": "Sri Devi Bhagavatam Volume 1 - Tamil",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/SriDeviBhagavatamVolume1-Tamil",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/SriDeviBhagavatamVolume1-Tamil/SriDeviBhagavatamVolume1_text.pdf"
+    },
+    {
+      "id": "RIA_0036",
+      "title": "Srimad Devi Bhagavatam - English Translation",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/SrimadDeviBhagavatamEnglish",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/SrimadDeviBhagavatamEnglish/Srimad%20Devi%20Bhagavatam%20-%20English%20-%20Swami%20Vijnanananda.pdf"
+    },
+    {
+      "id": "RIA_0037",
+      "title": "Srimad Devi Bhagavatam (Sanskrit Text Only)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/SrimadDeviBhagavatamSanskrit",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/SrimadDeviBhagavatamSanskrit/Srimad%20Devi%20Bhagavatam%20-%20Sanskrit_text.pdf"
+    },
+    {
+      "id": "RIA_0038",
+      "title": "The Srimad Devi Bhagavatam by Veda Vyasa and Translated by Swami Vijnanananda",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/the-srimad-devi-bhagawatam-swami-vijnanananda",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/the-srimad-devi-bhagawatam-swami-vijnanananda/The%20Srimad%20Devi%20Bhagawatam%20-%20Swami%20Vijnanananda.pdf"
+    },
+    {
+      "id": "RIA_0039",
+      "title": "Markandeya Purana (with Hindi Translation)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/markandeyapurana",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/markandeyapurana/markandeya_purana_hindi_text.pdf"
+    },
+    {
+      "id": "RIA_0040",
+      "title": "Varahi Tantra Chandi Path Phal Durga Kavach Maha Kali Suktam Markandeya Purana Rahasya Sharada Manuscript E Gangotri Dig",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/VarahiTantraChandiPathPhalDurgaKavachMahaKaliSuktamMarkandeyaPuranaRahasyaSharad",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/VarahiTantraChandiPathPhalDurgaKavachMahaKaliSuktamMarkandeyaPuranaRahasyaSharad/Varahi%20Tantra%20Chandi%20Path%20Phal_Durga%20Kavach_MahaKali%20Suktam_Markandeya%20Purana%20Rahasya%20Sharada%20Manuscript%20-%20eGangotri%20Digital%20Trust2.pdf"
+    },
+    {
+      "id": "RIA_0041",
+      "title": "Sanshipt Markandeya Purana Gita Press",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/sanshipt-markandeya-purana-gita-press",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/sanshipt-markandeya-purana-gita-press/Sanshipt%20Markandeya%20Purana%20-%20Gita%20Press.pdf"
+    },
+    {
+      "id": "RIA_0042",
+      "title": "Markandeya Purana",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/in.ernet.dli.2015.188841",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/in.ernet.dli.2015.188841/2015.188841.Markandeya-Purana_text.pdf"
+    },
+    {
+      "id": "RIA_0043",
+      "title": "Markandeya Purana Sanskrit Text With English Translation",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/markandeya-purana-sanskrit-text-with-english-translatio",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/markandeya-purana-sanskrit-text-with-english-translatio/Markandeya%20Purana%20%20Sanskrit%20Text%20with%20English%20Translation%20%28%20PDFDrive%20%29.pdf"
+    },
+    {
+      "id": "RIA_0044",
+      "title": "The Skanda-Purana, Part 1",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/dli.bengal.10689.12961",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/dli.bengal.10689.12961/10689.12961_text.pdf"
+    },
+    {
+      "id": "RIA_0045",
+      "title": "The Skanda Purana Vol 25 Ancient Indian Tradition And Mythology",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/the-skanda-purana-vol-25-ancient-indian-tradition-and-mythology",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/the-skanda-purana-vol-25-ancient-indian-tradition-and-mythology/The%20Skanda%20Purana%20Vol%2025%20-%20Ancient%20Indian%20Tradition%20and%20Mythology_text.pdf"
+    },
+    {
+      "id": "RIA_0046",
+      "title": "Sri Narmada Purana ( Atha Sri Skanda Purana Antargata Reva Khandoktha) Hindi Commentary By Pt. Chidamilal Ji Shastri Pan",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Kdfu_sri-narmada-purana-atha-sri-skanda-purana-antargata-reva-khandoktha-hindi-commen",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/Kdfu_sri-narmada-purana-atha-sri-skanda-purana-antargata-reva-khandoktha-hindi-commen/Sri%20Narmada%20Purana%20%28Atha%20Sri%20Skanda%20Purana%20Antargata%20Reva%20Khandoktha%29%20Hindi%20Commentary%20By%20Pt.%20Chidamilal%20Ji%20Shastri%20-%20Pankaj%20Prakashan%2C%20Mathura_text.pdf"
+    },
+    {
+      "id": "RIA_0047",
+      "title": "The Skanda-Purana, Part 2",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/dli.bengal.10689.13010",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/dli.bengal.10689.13010/10689.13010_text.pdf"
+    },
+    {
+      "id": "RIA_0048",
+      "title": "The Skanda-Purana, Part 10",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/dli.bengal.10689.13007",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/dli.bengal.10689.13007/10689.13007_text.pdf"
+    },
+    {
+      "id": "RIA_0049",
+      "title": "Durga Saptashati",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/durga-saptashati-geetapress",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/durga-saptashati-geetapress/Durga_Saptashati.pdf"
+    },
+    {
+      "id": "RIA_0050",
+      "title": "दुर्गा सप्तशती संपूर्ण पाठ हिंदी में PDF | Durga Saptashati PDF",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/durga-saptashati-01",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/durga-saptashati-01/durga-saptashati-sampurn-path-hindi.pdf"
+    },
+    {
+      "id": "RIA_0051",
+      "title": "Devi Mahatmyam English Transliteration",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/DeviMahatmyamEnglishTransiteration",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/DeviMahatmyamEnglishTransiteration/Devi%20Mahatmyam%20English%20Transliteration.pdf"
+    },
+    {
+      "id": "RIA_0052",
+      "title": "Sri Durga Saptashati (Odia)",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Sri.Durga.Saptashati.Odia",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/Sri.Durga.Saptashati.Odia/Sri%20Durga%20Saptashati%20-%20Gita%20Press%20%28Odia%29_text.pdf"
+    },
+    {
+      "id": "RIA_0053",
+      "title": "Devi_Mahatmyam_Sanskrit_Text_with_Malayalam_Translation",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Devi_Mahatmyam_Sanskrit_Text_with_Malayalam_Translation",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/Devi_Mahatmyam_Sanskrit_Text_with_Malayalam_Translation/DeviMahatmyam_sanskrit_text_with_malayalam_translation.pdf"
+    },
+    {
+      "id": "RIA_0054",
+      "title": "2011 -Shri Satyanarayan Vrat Katha",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/wg1105",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/wg1105/WG1105-2011%20-Shri%20Satyanarayan%20Vratkatha.pdf"
+    },
+    {
+      "id": "RIA_0055",
+      "title": "Shri Satyanarayan Vrat Katha Tatva Gujarati Book 8 Sharad Chandra Purohit",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/xThB_shri-satyanarayan-vrat-katha-tatva-gujarati-book-8-sharad-chandra-purohit",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/xThB_shri-satyanarayan-vrat-katha-tatva-gujarati-book-8-sharad-chandra-purohit/Shri%20Satyanarayan%20Vrat%20Katha%20Tatva%20Gujarati%20Book%208%20-%20Sharad%20Chandra%20Purohit_text.pdf"
+    },
+    {
+      "id": "RIA_0056",
+      "title": "Satyanarayan Vrat Katha",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/in.ernet.dli.2015.325760",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/in.ernet.dli.2015.325760/2015.325760.Satyanarayan-Vrat_text.pdf"
+    },
+    {
+      "id": "RIA_0057",
+      "title": "Sri satyanarayan-vrat-katha-932",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/instaPDF.in-shri-satyanarayan-vrat-katha-932",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/instaPDF.in-shri-satyanarayan-vrat-katha-932/instaPDF.in-shri-satyanarayan-vrat-katha-932.pdf"
+    },
+    {
+      "id": "RIA_0058",
+      "title": "Satyanarayan Vrat Puja Katha Sanskrit Printed Jangamwadi Math Collection",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/satyanarayan-vrat-puja-katha-sanskrit-printed-jangamwadi-math-collection",
+      "contentType": "PDF",
+      "category": "Katha",
+      "dataJsonUrl": "https://archive.org/download/satyanarayan-vrat-puja-katha-sanskrit-printed-jangamwadi-math-collection/Satyanarayan%20Vrat%20Puja%20Katha%20Sanskrit%20Printed%20-%20Jangamwadi%20Math%20Collection.pdf"
+    },
+    {
+      "id": "RIA_0059",
+      "title": "Sri_Vishnu_Sahasranama_Stotram_With_Namavali-Malayalam",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Sri_Vishnu_Sahasranama_Stotram_With_Namavali-Malayalam",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/Sri_Vishnu_Sahasranama_Stotram_With_Namavali-Malayalam/SriVishnuSahasranamaStotramNamavali-MalayalamA5.pdf"
+    },
+    {
+      "id": "RIA_0060",
+      "title": "Vishnu Sahasranama Kannada Meaning - Sri Bannanje Govindacharya",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/vishnusahasranama_kannada_meaning_-_sri_bannanje_govindacharya",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/vishnusahasranama_kannada_meaning_-_sri_bannanje_govindacharya/Vishnu%20Sahasranama%20Kannada%20Meaning%20-%20Bannanje%20Govindacharya.pdf"
+    },
+    {
+      "id": "RIA_0061",
+      "title": "Vishnu Sahasranama With The Bhasya of Sankaracharya",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Vishnu.Sahasranama.with.the.Bhasya.of.Sankaracharya",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/Vishnu.Sahasranama.with.the.Bhasya.of.Sankaracharya/Vishnu.Sahasranama.with.the.Bhasya.of.Sankaracharya_text.pdf"
+    },
+    {
+      "id": "RIA_0062",
+      "title": "Shri Vishnu Sahasranama Strotam Sahasranamavali And Ashtottara Shatnamavalih The Divine Life Society",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/shri-vishnu-sahasranama-strotam-sahasranamavali-and-ashtottara-shatnamavalih-the-divine-life-society",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/shri-vishnu-sahasranama-strotam-sahasranamavali-and-ashtottara-shatnamavalih-the-divine-life-society/Shri%20Vishnu%20Sahasranama%20Strotam%20Sahasranamavali%20and%20Ashtottara%20Shatnamavalih%20-%20The%20Divine%20Life%20Society_text.pdf"
+    },
+    {
+      "id": "RIA_0063",
+      "title": "Sri Vishnu Sahasranama 1934 Gita Press",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/SriVishnuSahasranama1934GitaPress",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/SriVishnuSahasranama1934GitaPress/Sri%20Vishnu%20Sahasranama%201934%20-%20Gita%20Press_text.pdf"
+    },
+    {
+      "id": "RIA_0064",
+      "title": "Lalita Sahasranama Strota Gita Press Gorakhpur",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/LalitaSahasranamaStrotaGitaPressGorakhpur",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/LalitaSahasranamaStrotaGitaPressGorakhpur/Lalita%20Sahasranama%20Strota%20-%20Gita%20Press%20Gorakhpur_text.pdf"
+    },
+    {
+      "id": "RIA_0065",
+      "title": "Lalita Sahasranama with Bhaskararaya\\'s Commentary Ed.2",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/pli.kerala.rare.25882",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/pli.kerala.rare.25882/pli.kerala.rare.25882.pdf"
+    },
+    {
+      "id": "RIA_0066",
+      "title": "Lalita Sahasranama Hari Dutta Shastri",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/LalitaSahasranamaHariDuttaShastri_201901",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/LalitaSahasranamaHariDuttaShastri_201901/Lalita%20Sahasranama%20-%20Hari%20Dutta%20Shastri_text.pdf"
+    },
+    {
+      "id": "RIA_0067",
+      "title": "Lalita Sahasranama With Bhaskar Rai Commentary 1925 Ananta Sastry",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/LalitaSahasranamaWithBhaskarRaiCommentary1925AnantaSastry",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/LalitaSahasranamaWithBhaskarRaiCommentary1925AnantaSastry/Lalita%20Sahasranama%20with%20Bhaskar%20Rai%20Commentary%201925%20-%20Ananta%20Sastry_text.pdf"
+    },
+    {
+      "id": "RIA_0068",
+      "title": "Sri Lalita Sahasranama Ramakrishna Mission",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/SriLalitaSahasranamaRamakrishnaMission",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/SriLalitaSahasranamaRamakrishnaMission/Sri%20Lalita%20Sahasranama%20-%20Ramakrishna%20Mission_text.pdf"
+    },
+    {
+      "id": "RIA_0069",
+      "title": "Aditya Hridayam Telugu Meanings",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/aditya-hridayam-telugu-meanings",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/aditya-hridayam-telugu-meanings/Aditya-Hridayam-Telugu-Meanings_text.pdf"
+    },
+    {
+      "id": "RIA_0070",
+      "title": "Aditya Hridayam With Ram Pratap Sharma Tika Khemraj",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/aditya-hridayam-with-ram-pratap-sharma-tika-khemraj",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/aditya-hridayam-with-ram-pratap-sharma-tika-khemraj/Aditya%20Hridayam%20with%20Ram%20Pratap%20Sharma%20Tika%20-%20Khemraj_text.pdf"
+    },
+    {
+      "id": "RIA_0071",
+      "title": "Aditya Hridayam With English Translation",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/AdityaHridayamWithEnglishTranslation_201710",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/AdityaHridayamWithEnglishTranslation_201710/Aditya%20Hridayam%20with%20English%20Translation_text.pdf"
+    },
+    {
+      "id": "RIA_0072",
+      "title": "KRI 114 Aditya Hridayam 1919 Khemraj Publishers",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/KRI114AdityaHridayam1919KhemrajPublishers",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/KRI114AdityaHridayam1919KhemrajPublishers/KRI-114_Aditya%20Hridayam%201919%20-%20Khemraj%20Publishers.pdf"
+    },
+    {
+      "id": "RIA_0073",
+      "title": "Aditya Hridayam With English Translation",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/AdityaHridayamWithEnglishTranslation",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/AdityaHridayamWithEnglishTranslation/Aditya%20Hridayam%20with%20English%20Translation_text.pdf"
+    },
+    {
+      "id": "RIA_0074",
+      "title": "shiva-tandava-stotram",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/shiva-tandava-stotram_202012",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/shiva-tandava-stotram_202012/shiva-tandava-stotram.pdf"
+    },
+    {
+      "id": "RIA_0075",
+      "title": "Shiva Tandava Stotram Kannada",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/ShivaTandavaStotramKannada",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/ShivaTandavaStotramKannada/Shiva%20Tandava%20Stotram_Kannada.pdf"
+    },
+    {
+      "id": "RIA_0076",
+      "title": "Shiva Tandava Stotram With Tika Of Ganesh Shastri Alm 28 Shlf 2 6197 Devanagri Ravan",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/ShivaTandavaStotramWithTikaOfGaneshShastriAlm28Shlf26197DevanagriRavan",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/ShivaTandavaStotramWithTikaOfGaneshShastriAlm28Shlf26197DevanagriRavan/Shiva%20Tandava%20Stotram%20with%20Tika%20of%20Ganesh%20Shastri_Alm_28_Shlf_2_6197_Devanagri%20-%20Ravan.pdf"
+    },
+    {
+      "id": "RIA_0077",
+      "title": "Shiva Tandava Stotram Eng",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/ShivaTandavaStotramEngV11",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/ShivaTandavaStotramEngV11/Shiva-Tandava-Stotram-Eng-v11.pdf"
+    },
+    {
+      "id": "RIA_0078",
+      "title": "शिव तांडव स्त्रोत Shiva Tandava Stotram",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/shiva-tandava-stotram",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/shiva-tandava-stotram/%E0%A4%B6%E0%A4%BF%E0%A4%B5%20%E0%A4%A4%E0%A4%BE%E0%A4%82%E0%A4%A1%E0%A4%B5%20%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A4%20Shiva%20Tandava%20Stotram.pdf"
+    },
+    {
+      "id": "RIA_0079",
+      "title": "Bhaja Govindam Swami Chinmayananda",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/bhaja-govindam-swami-chinmayananda",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/bhaja-govindam-swami-chinmayananda/Bhaja%20Govindam%20-%20Swami%20Chinmayananda.pdf"
+    },
+    {
+      "id": "RIA_0080",
+      "title": "Bhaja Govindam with Meaning",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/bhaja-govindam_202110",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/bhaja-govindam_202110/Bhaja-govindam.pdf"
+    },
+    {
+      "id": "RIA_0081",
+      "title": "Bhaja Govindam By Smt. K. Santha In Hindi",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/bhaja-govindam-by-smt-k-santha-in-hindi",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/bhaja-govindam-by-smt-k-santha-in-hindi/Bhaja%20Govindam%20By%20Smt.%20K.%20Santha%20In%20Hindi.pdf"
+    },
+    {
+      "id": "RIA_0082",
+      "title": "Bhaja Govindam",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/shastras-adi-sankara-bhaja-govindam",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/shastras-adi-sankara-bhaja-govindam/Bhaja%20Govindam.pdf"
+    },
+    {
+      "id": "RIA_0083",
+      "title": "BHAJA GOVINDAM",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/bhajagovindam0000swam",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/bhajagovindam0000swam/bhajagovindam0000swam.pdf"
+    },
+    {
+      "id": "RIA_0084",
+      "title": "Nitya Soundarya Lahari",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/NityaSoundaryaLahari",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/NityaSoundaryaLahari/NityaSoundaryaLahari.pdf"
+    },
+    {
+      "id": "RIA_0085",
+      "title": "Bhavani Soundarya Lahari",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/BhavaniSoundaryaLahari",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/BhavaniSoundaryaLahari/BhavaniSoundaryaLahari.pdf"
+    },
+    {
+      "id": "RIA_0086",
+      "title": "Soundarya Lahari",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/in.ernet.dli.2015.326458",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/in.ernet.dli.2015.326458/2015.326458.Soundarya-Lahari_text.pdf"
+    },
+    {
+      "id": "RIA_0087",
+      "title": "Soundarya Lahari",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/SoundaryaLahari",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/SoundaryaLahari/35579956-Saundarya-Lahari-Malayalam.pdf"
+    },
+    {
+      "id": "RIA_0088",
+      "title": "कनकधारा स्तोत्र (kanakadhara Stotram) शंकराचार्य - itvipin.com",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/kanakadhara-stotram_itvipin",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/kanakadhara-stotram_itvipin/%E0%A4%95%E0%A4%A8%E0%A4%95%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BE%20%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%28kanakadhara%20stotram%29%20%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF.pdf"
+    },
+    {
+      "id": "RIA_0089",
+      "title": "Kanakadhara Stotram",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/kanakadhara-stotram",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/kanakadhara-stotram/Kanakadhara_Stotram.pdf"
+    },
+    {
+      "id": "RIA_0090",
+      "title": "Sri Kanakadhara Stotram",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/srikanakadharastotram_201910",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/srikanakadharastotram_201910/Sri-Kanakadhara-Stotram.pdf"
+    },
+    {
+      "id": "RIA_0091",
+      "title": "Kanakadhara Stotram Eng",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/KanakadharaStotramEngV1",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/KanakadharaStotramEngV1/Kanakadhara-Stotram-Eng-v1.pdf"
+    },
+    {
+      "id": "RIA_0092",
+      "title": "Sri Suktam 1961 Raghavacharya",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/SriSuktam1961Raghavacharya",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/SriSuktam1961Raghavacharya/Sri%20Suktam%201961%20-%20Raghavacharya_text.pdf"
+    },
+    {
+      "id": "RIA_0093",
+      "title": "Mantra pushpam sri suktam purusha suktam telugu",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/20230726_20230726_1233",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/20230726_20230726_1233/_%E0%B0%B6%E0%B1%8D%E0%B0%B0%E0%B1%80_%E0%B0%B8%E0%B1%82%E0%B0%95%E0%B1%8D%E0%B0%A4_%E0%B0%AA%E0%B1%81%E0%B0%B0%E0%B1%81%E0%B0%B7%E0%B0%B8%E0%B1%82%E0%B0%95%E0%B1%8D%E0%B0%A4_%E0%B0%AE%E0%B0%82%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%AA%E0%B1%81%E0%B0%B7%E0%B1%8D%E0%B0%AA_%E0%B0%B0%E0%B0%B9%E0%B0%B8%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%A7%E0%B0%AE%E0%B1%81.pdf"
+    },
+    {
+      "id": "RIA_0094",
+      "title": "Sri_Suktam-Sreesuktam",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Sri_Suktam-Sreesuktam",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/Sri_Suktam-Sreesuktam/Srisuktam.pdf"
+    },
+    {
+      "id": "RIA_0095",
+      "title": "Sri Purusha Suktam",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/gss.sripurushasuktam0000unse",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/gss.sripurushasuktam0000unse/gss.sripurushasuktam0000unse.pdf"
+    },
+    {
+      "id": "RIA_0096",
+      "title": "Sri Suktam Tridandi Swami Ji",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/29.srisuktamtridandiswamiji",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/29.srisuktamtridandiswamiji/29.%20Sri%20Suktam%20Tridandi%20Swami%20Ji.pdf"
+    },
+    {
+      "id": "RIA_0097",
+      "title": "Sri Rudram And Chamakam",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Acc.No.13265SriRudramAndChamakam1991",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/Acc.No.13265SriRudramAndChamakam1991/Acc.No.13265-Sri%20Rudram%20and%20Chamakam-1991_text.pdf"
+    },
+    {
+      "id": "RIA_0098",
+      "title": "Rudram in Tamil",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/RudramInTamil",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/RudramInTamil/rudram_etc_Tamil.pdf"
+    },
+    {
+      "id": "RIA_0099",
+      "title": "Rudram Mahanyasam Eng",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/RudramMahanyasamEngV1",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/RudramMahanyasamEngV1/Rudram-Mahanyasam-Eng-v1.pdf"
+    },
+    {
+      "id": "RIA_0100",
+      "title": "Rudram",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Rudram_201507",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/Rudram_201507/Navagraha%20Ashtotara%20Shata%20Namavali.pdf"
+    },
+    {
+      "id": "RIA_0101",
+      "title": "Rudram Rudraprashna Laghunyasa Eng",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/RudramRudraprashnaLaghunyasaEngV1",
+      "contentType": "PDF",
+      "category": "Stotra",
+      "dataJsonUrl": "https://archive.org/download/RudramRudraprashnaLaghunyasaEngV1/Rudram-Rudraprashna-Laghunyasa-Eng-v1.pdf"
+    },
+    {
+      "id": "RIA_0102",
+      "title": "Super Science Of Gayatri | How to Do Gayatri Mantra Jap & Sadhana by Pandit Shriram Sharma Acharya",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/super-science-of-gayatri-pandit-shriram-sharma-acharya",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/super-science-of-gayatri-pandit-shriram-sharma-acharya/super-science-of-gayatri-pandit-shriram-sharma-acharya.pdf"
+    },
+    {
+      "id": "RIA_0103",
+      "title": "Gayatri Mantra Sadhana Va Upasana ( Hindi) C. M. Srivastava Manoj Publications, Delhi",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/Iixx_gayatri-mantra-sadhana-va-upasana-hindi-c.-m.-srivastava-manoj-publications-delhi",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/Iixx_gayatri-mantra-sadhana-va-upasana-hindi-c.-m.-srivastava-manoj-publications-delhi/Gayatri%20Mantra%20Sadhana%20Va%20Upasana%20%28Hindi%29%20C.M.%20Srivastava%20-%20Manoj%20Publications%2C%20Delhi_text.pdf"
+    },
+    {
+      "id": "RIA_0104",
+      "title": "Gayatri Mantra-- Talks in Bengali",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/GayatriMantra--TalksInBengali",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/GayatriMantra--TalksInBengali/GayatriMantra.pdf"
+    },
+    {
+      "id": "RIA_0105",
+      "title": "Gayatri Mantra Bhashya Shankarachary",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/gayatri-mantra-bhashya-shankarachary",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/gayatri-mantra-bhashya-shankarachary/Gayatri%20Mantra%20Bhashya%20-%20Shankarachary.pdf"
+    },
+    {
+      "id": "RIA_0106",
+      "title": "Gayatri Maha Mantra Swami Kashikananda Giri",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/GayatriMahaMantraSwamiKashikanandaGiri",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/GayatriMahaMantraSwamiKashikanandaGiri/Gayatri%20Maha%20Mantra%20-%20Swami%20Kashikananda%20Giri_text.pdf"
+    },
+    {
+      "id": "RIA_0107",
+      "title": "Mahamrityunjaya Mantra Sadhana Puja Anusthan Vidhi",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/MahamrityunjayaMantraSadhanaPujaAnusthanVidhi",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/MahamrityunjayaMantraSadhanaPujaAnusthanVidhi/Mahamrityunjaya-mantra-sadhana-puja-anusthan-vidhi.pdf"
+    },
+    {
+      "id": "RIA_0108",
+      "title": "Mrityunjaya Mantra",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/MrityunjayaMantra",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/MrityunjayaMantra/Mrityunjaya%20002.pdf"
+    },
+    {
+      "id": "RIA_0109",
+      "title": "Mahamrityunjaya Mantra Sadhana Puja Anusthan Vidhi",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/MahamrityunjayaMantraSadhanaPujaAnusthanVidhi_201709",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/MahamrityunjayaMantraSadhanaPujaAnusthanVidhi_201709/Mahamrityunjaya-mantra-sadhana-puja-anusthan-vidhi.pdf"
+    },
+    {
+      "id": "RIA_0110",
+      "title": "Mrityunjaya Mantra 1 Eng",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/MrityunjayaMantra1Eng12",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/MrityunjayaMantra1Eng12/Mrityunjaya-Mantra-1-Eng-12.pdf"
+    },
+    {
+      "id": "RIA_0111",
+      "title": "Navagraha Evam Nakshatra Shanti",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/navagraha-evam-nakshatra-shanti",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/navagraha-evam-nakshatra-shanti/Navagraha%20Evam%20Nakshatra%20Shanti_text.pdf"
+    },
+    {
+      "id": "RIA_0112",
+      "title": "Navagraha Puja Vidhi",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/NavagrahaPujaVidhi",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/NavagrahaPujaVidhi/Navagraha%20Puja%20Vidhi.pdf"
+    },
+    {
+      "id": "RIA_0113",
+      "title": "Navagraha Vidhana Paddhati 1857",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/navagraha-vidhana-paddhati",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/navagraha-vidhana-paddhati/navagraha%20vidhana%20paddhati_text.pdf"
+    },
+    {
+      "id": "RIA_0114",
+      "title": "Navagraha Puja Mahima",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/navagrahapujamah021722mbp",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/navagrahapujamah021722mbp/navagrahapujamah021722mbp.pdf"
+    },
+    {
+      "id": "RIA_0115",
+      "title": "Navagraha Stotra Khemraj Publishers",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/navagraha-stotra-khemraj-publishers",
+      "contentType": "PDF",
+      "category": "Mantra",
+      "dataJsonUrl": "https://archive.org/download/navagraha-stotra-khemraj-publishers/Navagraha%20Stotra%20-%20Khemraj%20Publishers_text.pdf"
+    },
+    {
+      "id": "RIA_0116",
+      "title": "हनुमान चालीसा हिंदी में PDF | Hanuman Chalisa PDF",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/raidas-pad-final-2",
+      "contentType": "PDF",
+      "category": "Chalisa",
+      "dataJsonUrl": "https://archive.org/download/raidas-pad-final-2/hanuman-chalisa-hindi.pdf"
+    }
+  ]
 }
