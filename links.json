@@ -2317,6 +2317,36 @@
       "contentType": "PDF",
       "category": "",
       "dataJsonUrl": "https://archive.org/download/Odia.Madhyamika.Vyakarana/Odia%20Madhyamika%20Byakarana%20-%20BSE.pdf"
+    },
+    {
+      "id": "RA_001",
+      "title": "Sundarakanda by Shri MS Rama Rao garu",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/sundara-kanda-1",
+      "contentType": "AUDIO",
+      "category": "MEDIA",
+      "audioPath": "https://archive.org/download/sundara-kanda-1/SundaraKanda-1.mp3"
+    },
+    {
+      "id": "RA_002",
+      "title": "Shyam Das Baba Harikatha 2012-13, bengali",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/ShyamDasBabaHarikatha2012-13Bengali",
+      "contentType": "AUDIO",
+      "category": "MEDIA",
+      "audioPath": "https://archive.org/download/ShyamDasBabaHarikatha2012-13Bengali/Bhagavatam/SDB007Bhagavatam.mp3"
+    },
+    {
+      "id": "RA_003",
+      "title": "OM NAMAH SHIVAYA Mantra Trance With Shamanic Drums Powerful Shiv Mantra Meditati",
+      "odiaTitle": "",
+      "hindiTitle": "",
+      "imageUrl": "https://archive.org/services/img/nvce_om-namah-shivaya-mantra-trance-with-shamanic-drums-powerful-shiv-mantra-meditation-music",
+      "contentType": "AUDIO",
+      "category": "MEDIA",
+      "audioPath": "https://archive.org/download/nvce_om-namah-shivaya-mantra-trance-with-shamanic-drums-powerful-shiv-mantra-meditation-music/OM%20NAMAH%20SHIVAYA%20%20%20Mantra%20Trance%20with%20Shamanic%20Drums%20%20%20Powerful%20Shiv%20Mantra%20Meditation%20Music.mp3"
     }
   ]
 }
